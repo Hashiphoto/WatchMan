@@ -6,7 +6,11 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
-
+/**
+ * This application is designed to show all network connections on the SPU network and
+ * display which ones are currently down in a panel to the right
+ * @author Trent
+ */
 public class WatchMan extends Application {
 	@Override
 	public void start(Stage primaryStage) {

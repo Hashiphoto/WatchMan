@@ -5,6 +5,10 @@ import javafx.scene.image.ImageView;
 import javafx.scene.layout.ColumnConstraints;
 import javafx.scene.layout.GridPane;
 
+/**
+ * Controller class for the GUI
+ * @author Trent
+ */
 public class WatchManController {
 	
 	@FXML

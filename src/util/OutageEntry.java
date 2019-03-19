@@ -1,20 +1,24 @@
 package util;
 
-import java.util.ArrayList;
-
-import javafx.scene.control.Label;
 import javafx.scene.layout.VBox;
 
+/**
+ * This displays a single building outage and all downed nodes
+ * @author Trent
+ */
 public class OutageEntry extends VBox {
-	public Label heading;
-	public ArrayList<Label> nodes;
+	public NodeGroup building;
 	
-	public OutageEntry(String title) {
-		heading = new Label(title);
-		nodes = new ArrayList<Label>();
+	public OutageEntry(NodeGroup nodeGroup) {
+		super();
+		building = nodeGroup;
 	}
 	
-	public void add() {
-		
+	/**
+	 * Iterates through the list of dead nodes and updates the 
+	 * display accordingly
+	 */
+	public void refresh() {
+		// TODO
 	}
 }

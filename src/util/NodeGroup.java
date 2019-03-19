@@ -11,10 +11,12 @@ import javafx.scene.shape.Circle;
  */
 public class NodeGroup extends Circle {
 	public static final int DIAMETER = 10;
+	public String name;
 	public ArrayList<Node> nodes;
 	public HashSet<Node> deadNodes;
 	
-	public NodeGroup(int x, int y) {
+	public NodeGroup(String name, int x, int y) {
+		this.name = name;
 		nodes = new ArrayList<Node>();
 		deadNodes = new HashSet<Node>();
 		this.setCenterX(x);
@@ -22,15 +24,25 @@ public class NodeGroup extends Circle {
 		this.resize(DIAMETER, DIAMETER);
 	}
 	
-	public void Scan() {
+	/**
+	 * Iterate through all nodes and check if any have gone down or been restored
+	 * @return	True if nodes have changed state. False if everything is the same
+	 */
+	public boolean scanForChanges() {
+		boolean change = false;
 		for(Node n : nodes) {
 			if(!n.online) {
-				deadNodes.add(n);
+				boolean isNew = deadNodes.add(n);
+				if(isNew) {
+					change = true;
+				}
 				continue;
 			}
 			if(deadNodes.contains(n)) {
 				deadNodes.remove(n);
+				change = true;
 			}
 		}
+		return change;
 	}
 }
