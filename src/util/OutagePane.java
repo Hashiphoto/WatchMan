@@ -29,16 +29,25 @@ public class OutagePane extends VBox {
 		OutageEntry outageEntry = null;
 		if(!downBuildings.contains(building)) {
 			downBuildings.add(building);
+			System.out.println("Created new outage entry");
 			outageEntry = new OutageEntry(building);
+			buildingEntries.add(outageEntry);
 		} else {
 			for(OutageEntry oe : buildingEntries) {
 				if(oe.building == building) {
 					outageEntry = oe;
+					break;
 				}
 			}
 		}
 		this.getChildren().add(outageEntry);
 		outageEntry.refresh();
 		return outageEntry;
+	}
+
+	public void updateLocations() {
+		for(OutageEntry oe : buildingEntries) {
+			oe.updateLocation();
+		}
 	}
 }

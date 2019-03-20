@@ -7,7 +7,7 @@ import javafx.scene.image.ImageView;
 import javafx.scene.layout.ColumnConstraints;
 import javafx.scene.layout.GridPane;
 import javafx.scene.layout.Pane;
-import javafx.scene.shape.Line;
+import util.Edge;
 import util.NodeGroup;
 import util.OutageEntry;
 import util.OutagePane;
@@ -58,7 +58,8 @@ public class WatchManController {
 
 		// Dynamically relocate the nodes on window resizing
 		spuMap.fitHeightProperty().addListener(e -> {
-			model.calculateNodeLocation(spuMap.getFitHeight());
+			model.calculateLocations(spuMap.getFitHeight());
+			outagePane.updateLocations();
 		});
 	}
 	
@@ -69,9 +70,9 @@ public class WatchManController {
 		viewPane.getChildren().addAll(model.groups);
 	}
 	
-	private void drawEdge(NodeGroup ng, OutageEntry entry) {
-		Line line = new Line(ng.getCenterX(), ng.getCenterY(), entry.getX(), entry.getY());
-		edgePane.getChildren().add(line);
+	private void addEdge(OutageEntry entry) {
+		Edge edge = new Edge(entry);
+		edgePane.getChildren().add(edge);
 	}
 	
 	/**
@@ -89,7 +90,7 @@ public class WatchManController {
 		    	if(model.scanForChanges()) {
 		    		for(NodeGroup ng : model.downBuildings) {
 		    			OutageEntry entry = outagePane.addOutage(ng);
-		    			drawEdge(ng, entry);
+		    			addEdge(entry);
 		    		}
 		    	}
 		    }

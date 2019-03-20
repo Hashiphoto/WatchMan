@@ -1,8 +1,12 @@
 package util;
 
-import javafx.scene.control.Label;
+import javafx.beans.property.DoubleProperty;
+import javafx.beans.property.SimpleDoubleProperty;
+import javafx.geometry.Bounds;
+import javafx.geometry.Insets;
 import javafx.scene.layout.VBox;
 import javafx.scene.text.Font;
+import javafx.scene.text.Text;
 
 /**
  * This displays a single building outage and all downed nodes
@@ -13,36 +17,45 @@ public class OutageEntry extends VBox {
 	
 	private static final Font TITLE_FONT = new Font("Agency FB", 25.0);
 	private static final Font NODE_FONT = new Font("Arial", 13.0);
-	private Label title;
+	private static final int INDENT = 10;
+	private static final int MARGIN = 10;
+	private Text title;
+    private DoubleProperty xLocation = new SimpleDoubleProperty();
+    private DoubleProperty yLocation = new SimpleDoubleProperty();
 	
 	public OutageEntry(NodeGroup nodeGroup) {
 		super();
 		building = nodeGroup;
-		title = new Label(building.name);
+		title = new Text(building.name);
 		title.setFont(TITLE_FONT);
 		this.getChildren().add(title);
 	}
 	
 	/**
-	 * Iterates through the list of dead nodes and updates the 
-	 * display accordingly
+	 * Iterates through the list of dead nodes and updates the display accordingly			
 	 */
 	public void refresh() {
 		for(Node n : building.deadNodes) {
-			Label label = new Label(n.hostName);
-			label.setFont(NODE_FONT);
-			this.getChildren().add(label);
+			Text text = new Text(n.hostName);
+			text.setFont(NODE_FONT);
+			VBox.setMargin(text, new Insets(0, 0, 0, INDENT));
+			this.getChildren().add(text);
 		}
 	}
-
-	public double getX() {
-		return title.localToScene(title.getBoundsInLocal()).getMinX();
+ 
+	public void updateLocation() {
+		Bounds bounds = title.localToScene(title.getBoundsInLocal()); 
+		xLocation.set(bounds.getMinX() - MARGIN);
+    	yLocation.set((bounds.getMinY() + bounds.getMaxY()) / 2);
 	}
 	
-	public double getY() {
-		return this.localToScene(this.getBoundsInLocal()).getMinY() + title.getLayoutY() + title.getTranslateY() + this.getLayoutY() + this.getTranslateY();
-		//		return title.localToScene(title.getBoundsInLocal()).getMinY();
-//		return title.localToParent(title.getBoundsInParent()).getMinY();
-//		return title.localToScene(title.getBoundsInLocal()).getMinY();
-	}
+    public DoubleProperty xLocationProperty() {
+    	System.out.println("get prop x");
+    	return xLocation;
+    }
+ 
+    public DoubleProperty yLocationProperty() {
+    	System.out.println("get prop y");
+    	return yLocation;
+    }
 }

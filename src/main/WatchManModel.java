@@ -55,7 +55,7 @@ public class WatchManModel {
 		return group;
 	}
 
-	public void calculateNodeLocation(double fitHeight) {
+	public void calculateLocations(double fitHeight) {
 		for(NodeGroup ng : groups) {
 			ng.calculateLocation(fitHeight);
 		}
