@@ -8,46 +8,53 @@
 <?import javafx.scene.layout.GridPane?>
 <?import javafx.scene.layout.Pane?>
 <?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.StackPane?>
 <?import javafx.scene.text.Font?>
 
-<GridPane fx:id="gridPaneMain" maxHeight="1080.0" maxWidth="1920.0" minHeight="720.0" minWidth="1280.0" prefHeight="720.0" prefWidth="1280.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="main.WatchManController">
-  <columnConstraints>
-    <ColumnConstraints fx:id="gridPaneLeft" hgrow="SOMETIMES" />
-    <ColumnConstraints hgrow="SOMETIMES" />
-  </columnConstraints>
-  <rowConstraints>
-    <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
-  </rowConstraints>
+
+<StackPane alignment="TOP_LEFT" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="main.WatchManController">
    <children>
-      <GridPane GridPane.columnIndex="1">
+      <GridPane fx:id="gridPaneMain" maxHeight="1080.0" maxWidth="1920.0" prefHeight="720.0" prefWidth="1280.0">
         <columnConstraints>
+          <ColumnConstraints fx:id="gridPaneLeft" hgrow="SOMETIMES" />
           <ColumnConstraints hgrow="SOMETIMES" />
         </columnConstraints>
         <rowConstraints>
-          <RowConstraints percentHeight="10.0" vgrow="SOMETIMES" />
           <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
         </rowConstraints>
          <children>
-            <Label text="DOWN NODES" textOverrun="CLIP" GridPane.halignment="CENTER">
-               <font>
-                  <Font name="Agency FB Bold" size="55.0" />
-               </font>
-            </Label>
-            <Pane fx:id="downNodePane" prefHeight="200.0" prefWidth="200.0" GridPane.rowIndex="1">
-               <GridPane.margin>
-                  <Insets bottom="50.0" left="50.0" right="50.0" top="20.0" />
-               </GridPane.margin>
+            <GridPane GridPane.columnIndex="1" GridPane.halignment="LEFT" GridPane.valignment="TOP">
+              <columnConstraints>
+                <ColumnConstraints hgrow="SOMETIMES" />
+              </columnConstraints>
+              <rowConstraints>
+                <RowConstraints percentHeight="10.0" vgrow="SOMETIMES" />
+                <RowConstraints vgrow="SOMETIMES" />
+              </rowConstraints>
+               <children>
+                  <Label text="DOWN NODES" textOverrun="CLIP" GridPane.halignment="CENTER">
+                     <font>
+                        <Font name="Agency FB Bold" size="55.0" />
+                     </font>
+                  </Label>
+                  <Pane fx:id="downNodePane" GridPane.rowIndex="1">
+                     <GridPane.margin>
+                        <Insets bottom="50.0" left="50.0" right="50.0" top="20.0" />
+                     </GridPane.margin>
+                  </Pane>
+               </children>
+            </GridPane>
+            <Pane fx:id="viewPane" prefHeight="200.0" prefWidth="200.0">
+               <children>
+                  <ImageView fx:id="spuMap" fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../resources/mapSquare.jpg" />
+                     </image>
+                  </ImageView>
+               </children>
             </Pane>
          </children>
       </GridPane>
-      <Pane prefHeight="200.0" prefWidth="200.0">
-         <children>
-            <ImageView fx:id="spuMap" fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
-               <image>
-                  <Image url="@../resources/mapSquare.jpg" />
-               </image>
-            </ImageView>
-         </children>
-      </Pane>
+      <Pane fx:id="edgePane" prefHeight="200.0" prefWidth="200.0" />
    </children>
-</GridPane>
+</StackPane>

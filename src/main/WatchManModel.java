@@ -13,12 +13,11 @@ import util.NodeGroup;
  */
 public class WatchManModel {
 	public ArrayList<NodeGroup> groups;
-//	public HashSet<NodeGroup> downBuildings;
+	public HashSet<NodeGroup> downBuildings;
 	
 	public WatchManModel() {
-		System.out.println("Model constructor");
 		groups = fakeData();
-//		downBuildings = new HashSet<NodeGroup>();
+		downBuildings = new HashSet<NodeGroup>();
 	}
 	
 	/**
@@ -29,10 +28,11 @@ public class WatchManModel {
 		boolean change = false;
 		for(NodeGroup ng : groups) {
 			if(ng.scanForChanges()) {
-//				downBuildings.add(ng);
+				downBuildings.add(ng);
 				change = true;
-			} else {
-//				downBuildings.remove(ng);
+			} else if(downBuildings.contains(ng)) {
+				downBuildings.remove(ng);
+				change = true;
 			}
 		}
 		return change;
@@ -40,9 +40,9 @@ public class WatchManModel {
 	
 	private ArrayList<NodeGroup> fakeData() {
 		ArrayList<NodeGroup> group = new ArrayList<NodeGroup>();
-		NodeGroup omh = new NodeGroup("OMH", 10, 10);
-		NodeGroup bar = new NodeGroup("BAR", 20, 10);
-		NodeGroup foo = new NodeGroup("FOO", 30, 10);
+		NodeGroup omh = new NodeGroup("OMH", 0.1, 0.1);
+		NodeGroup bar = new NodeGroup("BAR", 0.2, 0.2);
+		NodeGroup foo = new NodeGroup("FOO", 0.3, 0.4);
 		omh.nodes.add(new Node("192.168.2.3", "OMH123"));
 		omh.nodes.add(new Node("192.168.2.5", "OMH123-01"));
 		omh.nodes.add(new Node("192.168.2.8", "OMH123-02"));
@@ -53,5 +53,11 @@ public class WatchManModel {
 		group.add(bar);
 		group.add(foo);
 		return group;
+	}
+
+	public void calculateNodeLocation(double fitHeight) {
+		for(NodeGroup ng : groups) {
+			ng.calculateLocation(fitHeight);
+		}
 	}
 }

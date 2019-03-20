@@ -21,9 +21,10 @@ public class OutagePane extends VBox {
 	/**
 	 * Add a new entry for a building outage in the pane. If the entry already exists, this will
 	 * rebuild that entry. Only call if the list of outages has changed
-	 * @param building
+	 * @param building	The NodeGroup for which this entry will watch
+	 * @return	The OutageEntry the NodeGroup is contained within
 	 */
-	public void addOutage(NodeGroup building) {
+	public OutageEntry addOutage(NodeGroup building) {
 		// Find an existing entry or create a new one
 		OutageEntry outageEntry = null;
 		if(!downBuildings.contains(building)) {
@@ -38,5 +39,6 @@ public class OutagePane extends VBox {
 		}
 		this.getChildren().add(outageEntry);
 		outageEntry.refresh();
+		return outageEntry;
 	}
 }

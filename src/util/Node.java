@@ -15,4 +15,11 @@ public class Node {
 		this.hostName = hostName;
 		online = false;
 	}
+
+	/**
+	 * Try connection to the node and update online property accordingly
+	 */
+	public void checkConnection() {
+		// TODO
+	}
 }

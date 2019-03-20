@@ -3,6 +3,8 @@ package util;
 import java.util.ArrayList;
 import java.util.HashSet;
 
+import javafx.scene.paint.Color;
+import javafx.scene.paint.Paint;
 import javafx.scene.shape.Circle;
 
 /**
@@ -10,18 +12,24 @@ import javafx.scene.shape.Circle;
  * @author Trent
  */
 public class NodeGroup extends Circle {
-	public static final int DIAMETER = 10;
 	public String name;
 	public ArrayList<Node> nodes;
 	public HashSet<Node> deadNodes;
 	
-	public NodeGroup(String name, int x, int y) {
+	private static final int DIAMETER = 8;
+	private static final Paint disabledColor = Color.CRIMSON;
+	private static final Paint activeColor = Color.LIGHTGREEN;
+	private double xPercent;
+	private double yPercent;
+	
+	public NodeGroup(String name, double xPercent, double yPercent) {
+		super(xPercent, yPercent, DIAMETER, activeColor);
+		this.xPercent = xPercent;
+		this.yPercent = yPercent;
 		this.name = name;
 		nodes = new ArrayList<Node>();
 		deadNodes = new HashSet<Node>();
-		this.setCenterX(x);
-		this.setCenterY(y);
-		this.resize(DIAMETER, DIAMETER);
+		this.toFront();
 	}
 	
 	/**
@@ -30,21 +38,24 @@ public class NodeGroup extends Circle {
 	 */
 	public boolean scanForChanges() {
 		boolean change = false;
-		System.out.println(name + " is scanning");
 		for(Node n : nodes) {
+			n.checkConnection();
 			if(!n.online) {
-				System.out.println("Added node to dead");
 				boolean isNew = deadNodes.add(n);
 				if(isNew) {
 					change = true;
 				}
-				continue;
-			}
-			if(deadNodes.contains(n)) {
+			} else if(deadNodes.contains(n)) {
 				deadNodes.remove(n);
 				change = true;
 			}
 		}
+		this.setFill(deadNodes.isEmpty() ? activeColor : disabledColor);
 		return change;
+	}
+
+	public void calculateLocation(double fitHeight) {
+		this.setCenterX(fitHeight * xPercent);
+		this.setCenterY(fitHeight * yPercent);
 	}
 }
