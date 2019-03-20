@@ -30,8 +30,10 @@ public class NodeGroup extends Circle {
 	 */
 	public boolean scanForChanges() {
 		boolean change = false;
+		System.out.println(name + " is scanning");
 		for(Node n : nodes) {
 			if(!n.online) {
+				System.out.println("Added node to dead");
 				boolean isNew = deadNodes.add(n);
 				if(isNew) {
 					change = true;

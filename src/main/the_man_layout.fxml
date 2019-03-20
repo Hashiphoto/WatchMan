@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?import javafx.geometry.Insets?>
 <?import javafx.scene.control.Label?>
 <?import javafx.scene.image.Image?>
 <?import javafx.scene.image.ImageView?>
@@ -29,9 +30,14 @@
          <children>
             <Label text="DOWN NODES" textOverrun="CLIP" GridPane.halignment="CENTER">
                <font>
-                  <Font name="Agency FB Bold" size="30.0" />
+                  <Font name="Agency FB Bold" size="55.0" />
                </font>
             </Label>
+            <Pane fx:id="downNodePane" prefHeight="200.0" prefWidth="200.0" GridPane.rowIndex="1">
+               <GridPane.margin>
+                  <Insets bottom="50.0" left="50.0" right="50.0" top="20.0" />
+               </GridPane.margin>
+            </Pane>
          </children>
       </GridPane>
       <Pane prefHeight="200.0" prefWidth="200.0">

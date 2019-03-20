@@ -13,6 +13,6 @@ public class Node {
 	public Node(String ip, String hostName) {
 		this.ipAddress = ip;
 		this.hostName = hostName;
-		online = true;
+		online = false;
 	}
 }
