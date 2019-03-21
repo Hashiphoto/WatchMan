@@ -2,6 +2,8 @@ package util;
 
 import java.util.ArrayList;
 
+import javafx.application.Platform;
+import javafx.scene.Node;
 import javafx.scene.layout.VBox;
 
 /**
@@ -24,15 +26,17 @@ public class OutagePane extends VBox {
 	 * @param building	The NodeGroup for which this entry will watch
 	 * @return	The OutageEntry the NodeGroup is contained within
 	 */
-	public OutageEntry addOutage(NodeGroup building) {
-		// Find an existing entry or create a new one
+	public OutageEntry updateGroup(NodeGroup building) {
 		OutageEntry outageEntry = null;
+		// Create a new entry for the building
 		if(!downBuildings.contains(building)) {
 			downBuildings.add(building);
-			System.out.println("Created new outage entry");
 			outageEntry = new OutageEntry(building);
+			this.getChildren().add(outageEntry);
 			buildingEntries.add(outageEntry);
-		} else {
+		} 
+		// Find the existing entry
+		else {
 			for(OutageEntry oe : buildingEntries) {
 				if(oe.building == building) {
 					outageEntry = oe;
@@ -40,7 +44,6 @@ public class OutagePane extends VBox {
 				}
 			}
 		}
-		this.getChildren().add(outageEntry);
 		outageEntry.refresh();
 		return outageEntry;
 	}
@@ -48,6 +51,21 @@ public class OutagePane extends VBox {
 	public void updateLocations() {
 		for(OutageEntry oe : buildingEntries) {
 			oe.updateLocation();
+		}
+	}
+
+	public void purgeOnlineGroups() {
+		for(Node node : this.getChildren()) {
+			OutageEntry oe = (OutageEntry)node;
+			if(oe.building.deadNodes.size() == 0) {
+				Platform.runLater(new Runnable() {
+					@Override
+					public void run() {
+						downBuildings.remove(oe.building);
+						oe.delete();
+					}
+				});
+			}
 		}
 	}
 }

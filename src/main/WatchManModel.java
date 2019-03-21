@@ -27,12 +27,14 @@ public class WatchManModel {
 	public boolean scanForChanges() {
 		boolean change = false;
 		for(NodeGroup ng : groups) {
-			if(ng.scanForChanges()) {
-				downBuildings.add(ng);
-				change = true;
-			} else if(downBuildings.contains(ng)) {
+			if(!ng.scanForChanges()) {
+				continue;
+			}
+			change = true;
+			if(ng.deadNodes.isEmpty()) {
 				downBuildings.remove(ng);
-				change = true;
+			} else {
+				downBuildings.add(ng);
 			}
 		}
 		return change;
@@ -43,12 +45,12 @@ public class WatchManModel {
 		NodeGroup omh = new NodeGroup("OMH", 0.1, 0.1);
 		NodeGroup bar = new NodeGroup("BAR", 0.2, 0.2);
 		NodeGroup foo = new NodeGroup("FOO", 0.3, 0.4);
-		omh.nodes.add(new Node("192.168.2.3", "OMH123"));
+		omh.nodes.add(new Node("192.168.2.3", "OMH123-00"));
 		omh.nodes.add(new Node("192.168.2.5", "OMH123-01"));
 		omh.nodes.add(new Node("192.168.2.8", "OMH123-02"));
-		bar.nodes.add(new Node("123.456.1.1", "BAR01"));
-		bar.nodes.add(new Node("123.456.1.2", "BAR02"));
-		foo.nodes.add(new Node("999.999.1.0", "ASDF"));
+		bar.nodes.add(new Node("123.456.1.1", "BAR01-01"));
+		bar.nodes.add(new Node("123.456.1.2", "BAR02-02"));
+		foo.nodes.add(new Node("999.999.1.0", "FOO300-00"));
 		group.add(omh);
 		group.add(bar);
 		group.add(foo);
