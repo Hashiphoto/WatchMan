@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class DataLoader {
 	// TODO: Fix this to be a local path
 	private static final String DATA_FOLDER = "src\\data\\";
-	private static final String BUILDING_LIST = "buildingListTemp.txt";
+	private static final String BUILDING_LIST = "buildingList.txt";
 	
 	public static HashSet<NodeGroup> loadNodeGroups() {
 		File file = new File(DATA_FOLDER + BUILDING_LIST);

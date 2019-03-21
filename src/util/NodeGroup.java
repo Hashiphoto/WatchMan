@@ -15,7 +15,7 @@ public class NodeGroup extends Circle {
 	public HashSet<Node> nodes;
 	public HashSet<Node> deadNodes;
 	
-	private static final int DIAMETER = 8;
+	private static final int DIAMETER = 4;
 	private static final Paint disabledColor = Color.CRIMSON;
 	private static final Paint activeColor = Color.LIGHTGREEN;
 	private double xPercent;
