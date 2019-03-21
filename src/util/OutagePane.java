@@ -62,6 +62,7 @@ public class OutagePane extends VBox {
 					@Override
 					public void run() {
 						downBuildings.remove(oe.building);
+						buildingEntries.remove(oe);
 						oe.delete();
 					}
 				});

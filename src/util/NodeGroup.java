@@ -41,7 +41,6 @@ public class NodeGroup extends Circle {
 		for(Node n : nodes) {
 			n.checkConnection();
 			if(!n.online) {
-				System.out.println(n.hostName + " offline");
 				boolean isNew = deadNodes.add(n);
 				if(isNew) {
 					change = true;

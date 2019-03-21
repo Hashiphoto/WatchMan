@@ -70,11 +70,10 @@ public class WatchManController {
 		viewPane.getChildren().addAll(model.groups);
 	}
 	
-	private Edge addEdge(OutageEntry entry) {
-		entry.updateLocation();
+	private void addEdge(OutageEntry entry) {
 		Edge edge = new Edge(entry);
 		edgePane.getChildren().add(edge);
-		return edge;
+		entry.edge = edge;
 	}
 	
 	/**
@@ -91,17 +90,13 @@ public class WatchManController {
 		    	// If there are changes, rebuild the list of down nodes
 		    	if(model.scanForChanges()) {
 		    		for(NodeGroup ng : model.downBuildings) {
-		    			System.out.println(ng.name + " down");
 		    			OutageEntry entry = outagePane.updateGroup(ng);
 		    			if(entry.edge == null) {
-			    			entry.edge = addEdge(entry);
+			    			addEdge(entry);
 		    			}
 		    		}
-
 		    		outagePane.purgeOnlineGroups();
 		    	}
-		    	
-			    System.out.println("---------------------");
 		    }
 		};
 	}
