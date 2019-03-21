@@ -20,6 +20,6 @@ public class Node {
 	 * Try connection to the node and update online property accordingly
 	 */
 	public void checkConnection() {
-		online = Math.random() < 0.5;
+		online = Math.random() < 0.95;
 	}
 }

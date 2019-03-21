@@ -18,6 +18,7 @@ public class WatchManModel {
 	public WatchManModel() {
 //		groups = fakeData();
 		groups = DataLoader.loadNodeGroups();
+		groups = addFakeNodes(groups);
 		downBuildings = new HashSet<NodeGroup>();
 	}
 	
@@ -41,21 +42,14 @@ public class WatchManModel {
 		return change;
 	}
 	
-	private HashSet<NodeGroup> fakeData() {
-		HashSet<NodeGroup> group = new HashSet<NodeGroup>();
-		NodeGroup omh = new NodeGroup("OMH", 0.1, 0.1);
-		NodeGroup bar = new NodeGroup("BAR", 0.2, 0.2);
-		NodeGroup foo = new NodeGroup("FOO", 0.3, 0.4);
-		omh.nodes.add(new Node("192.168.2.3", "OMH123-00"));
-		omh.nodes.add(new Node("192.168.2.5", "OMH123-01"));
-		omh.nodes.add(new Node("192.168.2.8", "OMH123-02"));
-		bar.nodes.add(new Node("123.456.1.1", "BAR01-01"));
-		bar.nodes.add(new Node("123.456.1.2", "BAR02-02"));
-		foo.nodes.add(new Node("999.999.1.0", "FOO300-00"));
-		group.add(omh);
-		group.add(bar);
-		group.add(foo);
-		return group;
+	private HashSet<NodeGroup> addFakeNodes(HashSet<NodeGroup> buildingList) {
+		for(NodeGroup ng : buildingList) {
+			int numNodes = (int)(Math.random() * 10);
+			for(int i = 0; i < numNodes; i++) {
+				ng.nodes.add(new Node("123.123.123.123", ng.name + i));
+			}
+		}
+		return buildingList;
 	}
 
 	public void calculateLocations(double fitHeight) {

@@ -27,6 +27,6 @@ Image Journal                   ,0.488,0.204
 Cremona Classrooms              ,0.762,0.445
 Mailing Services                ,0.503,0.271
 Nickerson Studios               ,0.448,0.185
-4 Nickerson                     ,0.950,0.050
-6 Nickerson                     ,0.950,0.070
+4 Nickerson                     ,0.950,0.350
+6 Nickerson                     ,0.950,0.370
 Kingswood House                 ,0.585,0.730
