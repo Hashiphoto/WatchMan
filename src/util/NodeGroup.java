@@ -1,6 +1,5 @@
 package util;
 
-import java.util.ArrayList;
 import java.util.HashSet;
 
 import javafx.scene.paint.Color;
@@ -13,7 +12,7 @@ import javafx.scene.shape.Circle;
  */
 public class NodeGroup extends Circle {
 	public String name;
-	public ArrayList<Node> nodes;
+	public HashSet<Node> nodes;
 	public HashSet<Node> deadNodes;
 	
 	private static final int DIAMETER = 8;
@@ -27,7 +26,7 @@ public class NodeGroup extends Circle {
 		this.xPercent = xPercent;
 		this.yPercent = yPercent;
 		this.name = name;
-		nodes = new ArrayList<Node>();
+		nodes = new HashSet<Node>();
 		deadNodes = new HashSet<Node>();
 		this.toFront();
 	}

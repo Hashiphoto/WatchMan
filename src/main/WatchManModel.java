@@ -1,8 +1,8 @@
 package main;
 
-import java.util.ArrayList;
 import java.util.HashSet;
 
+import util.DataLoader;
 import util.Node;
 import util.NodeGroup;
 
@@ -12,11 +12,12 @@ import util.NodeGroup;
  *
  */
 public class WatchManModel {
-	public ArrayList<NodeGroup> groups;
+	public HashSet<NodeGroup> groups;
 	public HashSet<NodeGroup> downBuildings;
 	
 	public WatchManModel() {
-		groups = fakeData();
+//		groups = fakeData();
+		groups = DataLoader.loadNodeGroups();
 		downBuildings = new HashSet<NodeGroup>();
 	}
 	
@@ -40,8 +41,8 @@ public class WatchManModel {
 		return change;
 	}
 	
-	private ArrayList<NodeGroup> fakeData() {
-		ArrayList<NodeGroup> group = new ArrayList<NodeGroup>();
+	private HashSet<NodeGroup> fakeData() {
+		HashSet<NodeGroup> group = new HashSet<NodeGroup>();
 		NodeGroup omh = new NodeGroup("OMH", 0.1, 0.1);
 		NodeGroup bar = new NodeGroup("BAR", 0.2, 0.2);
 		NodeGroup foo = new NodeGroup("FOO", 0.3, 0.4);

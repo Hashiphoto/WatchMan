@@ -1,6 +1,6 @@
 package util;
 
-import java.util.ArrayList;
+import java.util.HashSet;
 
 import javafx.application.Platform;
 import javafx.scene.Node;
@@ -11,13 +11,13 @@ import javafx.scene.layout.VBox;
  * @author Trent
  */
 public class OutagePane extends VBox {
-	public ArrayList<OutageEntry> buildingEntries;
-	public ArrayList<NodeGroup> downBuildings;
+	public HashSet<OutageEntry> buildingEntries;
+	public HashSet<NodeGroup> downBuildings;
 	
 	public OutagePane() {
 		super();
-		buildingEntries = new ArrayList<OutageEntry>();
-		downBuildings = new ArrayList<NodeGroup>();
+		buildingEntries = new HashSet<OutageEntry>();
+		downBuildings = new HashSet<NodeGroup>();
 	}
 	
 	/**
