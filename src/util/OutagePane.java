@@ -69,4 +69,10 @@ public class OutagePane extends VBox {
 			}
 		}
 	}
+
+	public void collapseGroups() {
+		for(OutageEntry oe : buildingEntries) {
+			oe.clearNodes();
+		}
+	}
 }

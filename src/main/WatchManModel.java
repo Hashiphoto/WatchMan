@@ -16,6 +16,8 @@ public class WatchManModel {
 	public ArrayList<NodeGroup> groups;
 	public ArrayList<NodeGroup> downBuildings;
 	
+	private int numDeadNodes;
+	
 	public WatchManModel() {
 //		groups = fakeData();
 		groups = DataLoader.loadNodeGroups();
@@ -27,21 +29,23 @@ public class WatchManModel {
 	 * Iterate through all node groups and check if any have gone down or been restored
 	 * @return	True if nodes have changed state. False if everything is the same
 	 */
-	public boolean scanForChanges() {
-		boolean change = false;
+	public int getNumChanges() {
+		int changes = 0;
+		numDeadNodes = 0;
 		for(NodeGroup ng : groups) {
-			if(!ng.scanForChanges()) {
+			if(ng.getNumChanges() == 0) {
 				continue;
 			}
-			change = true;
+			changes++;
 			if(ng.deadNodes.isEmpty()) {
 				downBuildings.remove(ng);
 			} else {
+				numDeadNodes += ng.deadNodes.size();
 				sortedAdd(downBuildings, ng);
 				Collections.sort(downBuildings);
 			}
 		}
-		return change;
+		return changes;
 	}
 	
 	public void sortedAdd(ArrayList<NodeGroup> group, NodeGroup ng) {
@@ -65,5 +69,9 @@ public class WatchManModel {
 		for(NodeGroup ng : groups) {
 			ng.calculateLocation(fitHeight);
 		}
+	}
+	
+	public int getNumDeadNodes() {
+		return numDeadNodes;
 	}
 }

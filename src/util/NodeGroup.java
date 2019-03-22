@@ -35,22 +35,22 @@ public class NodeGroup extends Circle implements Comparable<NodeGroup>{
 	 * Iterate through all nodes and check if any have gone down or been restored
 	 * @return	True if nodes have changed state. False if everything is the same
 	 */
-	public boolean scanForChanges() {
-		boolean change = false;
+	public int getNumChanges() {
+		int changes = 0;
 		for(Node n : nodes) {
 			n.checkConnection();
 			if(!n.online) {
 				boolean isNew = deadNodes.add(n);
 				if(isNew) {
-					change = true;
+					changes++;
 				}
 			} else if(deadNodes.contains(n)) {
 				deadNodes.remove(n);
-				change = true;
+				changes++;
 			}
 		}
 		this.setFill(deadNodes.isEmpty() ? activeColor : disabledColor);
-		return change;
+		return changes;
 	}
 
 	public void calculateLocation(double fitHeight) {

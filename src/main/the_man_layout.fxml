@@ -11,7 +11,6 @@
 <?import javafx.scene.layout.StackPane?>
 <?import javafx.scene.text.Font?>
 
-
 <StackPane alignment="TOP_LEFT" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="main.WatchManController">
    <children>
       <GridPane fx:id="gridPaneMain" maxHeight="1080.0" maxWidth="1920.0" prefHeight="720.0" prefWidth="1280.0">
@@ -32,7 +31,7 @@
                 <RowConstraints vgrow="SOMETIMES" />
               </rowConstraints>
                <children>
-                  <Label text="DOWN NODES" textOverrun="CLIP" GridPane.halignment="CENTER">
+                  <Label fx:id="downNodeLabel" text="DOWN NODES" textOverrun="CLIP" GridPane.halignment="CENTER">
                      <font>
                         <Font name="Agency FB Bold" size="55.0" />
                      </font>

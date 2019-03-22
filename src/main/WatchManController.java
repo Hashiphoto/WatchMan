@@ -3,6 +3,7 @@ package main;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
 import javafx.fxml.FXML;
+import javafx.scene.control.Label;
 import javafx.scene.image.ImageView;
 import javafx.scene.layout.ColumnConstraints;
 import javafx.scene.layout.GridPane;
@@ -38,6 +39,8 @@ public class WatchManController {
 	@FXML
 	private Pane edgePane;
 	
+	@FXML Label downNodeLabel;
+	
 	/**
 	 * Called on program start
 	 */
@@ -60,6 +63,13 @@ public class WatchManController {
 		spuMap.fitHeightProperty().addListener(e -> {
 			model.calculateLocations(spuMap.getFitHeight());
 			outagePane.updateLocations();
+		});
+		
+		// Collapse the node list if it is too tall
+		outagePane.heightProperty().addListener(e -> {
+    		if(outagePane.getHeight() + downNodeLabel.getHeight() > spuMap.getFitHeight()) {
+    			outagePane.collapseGroups();
+    		}
 		});
 	}
 	
@@ -88,7 +98,8 @@ public class WatchManController {
 		    public void handle(ActionEvent event) 
 		    {
 		    	// If there are changes, rebuild the list of down nodes
-		    	if(model.scanForChanges()) {
+		    	int numChanges = model.getNumChanges();
+		    	if(numChanges > 0) {
 		    		for(NodeGroup ng : model.downBuildings) {
 		    			OutageEntry entry = outagePane.updateGroup(ng);
 		    			if(entry.edge == null) {

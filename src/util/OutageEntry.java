@@ -22,7 +22,7 @@ public class OutageEntry extends VBox {
 	public NodeGroup building;
 	public Edge edge;
 	
-	private static final Font TITLE_FONT = new Font("Agency FB", 25.0);
+	private static final Font TITLE_FONT = new Font("Arial Bold", 15.0);
 	private static final Font NODE_FONT = new Font("Arial", 13.0);
 	private static final int INDENT = 10;
 	private static final int MARGIN = 10;
@@ -57,14 +57,24 @@ public class OutageEntry extends VBox {
 	 * Iterates through the list of dead nodes and updates the display accordingly			
 	 */
 	public void refresh() {
-		this.getChildren().clear();
-		this.getChildren().add(title);
+		clearNodes();
 		for(Node n : building.deadNodes) {
 			Text text = new Text(n.hostName);
 			text.setFont(NODE_FONT);
 			VBox.setMargin(text, new Insets(0, 0, 0, INDENT));
 			this.getChildren().add(text);
 		}
+	}
+	
+	/**
+	 * Use this when too many nodes are displayed. It will show only the title
+	 * @param hide	True to hide the individual nodes
+	 */
+	public void clearNodes() {
+		int numNodes = this.getChildren().size();
+		title.setText(building.name + ": " + numNodes);
+		this.getChildren().clear();
+		this.getChildren().add(title);
 	}
 	
 	public void delete() {
