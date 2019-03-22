@@ -2,7 +2,8 @@ package util;
 
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.util.HashSet;
+import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Scanner;
 
 public class DataLoader {
@@ -10,13 +11,13 @@ public class DataLoader {
 	private static final String DATA_FOLDER = "src\\data\\";
 	private static final String BUILDING_LIST = "buildingList.txt";
 	
-	public static HashSet<NodeGroup> loadNodeGroups() {
+	public static ArrayList<NodeGroup> loadNodeGroups() {
 		File file = new File(DATA_FOLDER + BUILDING_LIST);
 		if(!file.exists()) {
 			System.err.println("Data Loader: Could not open file " + DATA_FOLDER + BUILDING_LIST);
 			return null;
 		}
-		HashSet<NodeGroup> nodeGroup = new HashSet<NodeGroup>();
+		ArrayList<NodeGroup> nodeGroup = new ArrayList<NodeGroup>();
 		Scanner scanner = null;
 		try {
 			scanner = new Scanner(file);
@@ -34,6 +35,7 @@ public class DataLoader {
 			nodeGroup.add(new NodeGroup(name, x, y));
 		}
 		scanner.close();
+		Collections.sort(nodeGroup);
 		return nodeGroup;
 	}
 }

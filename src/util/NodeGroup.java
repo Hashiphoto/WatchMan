@@ -10,7 +10,7 @@ import javafx.scene.shape.Circle;
  * A NodeGroup represents a building or logical grouping of end points 
  * @author Trent
  */
-public class NodeGroup extends Circle {
+public class NodeGroup extends Circle implements Comparable<NodeGroup>{
 	public String name;
 	public HashSet<Node> nodes;
 	public HashSet<Node> deadNodes;
@@ -56,5 +56,15 @@ public class NodeGroup extends Circle {
 	public void calculateLocation(double fitHeight) {
 		this.setCenterX(fitHeight * xPercent);
 		this.setCenterY(fitHeight * yPercent);
+	}
+
+	@Override
+	public int compareTo(NodeGroup other) {
+		double dist = this.yPercent - other.yPercent;
+		if(dist > 0)
+			return 1;
+		if(dist < 0)
+			return -1;
+		return 0;
 	}
 }

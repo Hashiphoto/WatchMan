@@ -9,7 +9,7 @@ public class Edge extends Line {
 
 	public Edge(OutageEntry oe) {
 		super(oe.building.getCenterX(), oe.building.getCenterY(), oe.getXLocation(), oe.getYLocation());
-		Color color = Color.hsb(Math.random() * 255, 1, 0.5);
+		Color color = Color.hsb(Math.random() * 255, 1, 0.8);
 		this.setStroke(color);
 		this.setStrokeWidth(STROKE_WIDTH);
 		this.startXProperty().bind(oe.building.centerXProperty());
