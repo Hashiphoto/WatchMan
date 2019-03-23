@@ -8,6 +8,7 @@ import javafx.scene.image.ImageView;
 import javafx.scene.layout.ColumnConstraints;
 import javafx.scene.layout.GridPane;
 import javafx.scene.layout.Pane;
+import javafx.scene.layout.VBox;
 import util.Edge;
 import util.NodeGroup;
 import util.OutageEntry;
@@ -21,25 +22,14 @@ public class WatchManController {
 	private WatchManModel model = new WatchManModel();
 	private OutagePane outagePane = new OutagePane();
 	
-	@FXML
-	private GridPane gridPaneMain;
-	
-	@FXML
-	private ImageView spuMap;
-	
-	@FXML
-	private ColumnConstraints gridPaneLeft;
-	
-	@FXML
-	private Pane downNodePane;
-	
-	@FXML
-	private Pane viewPane;
-	
-	@FXML
-	private Pane edgePane;
-	
-	@FXML Label downNodeLabel;
+	@FXML private GridPane gridPaneMain;
+	@FXML private ImageView spuMap;
+	@FXML private ColumnConstraints gridPaneLeft;
+	@FXML private Pane downNodePane;
+	@FXML private Pane viewPane;
+	@FXML private Pane edgePane;
+	@FXML private Label downNodeLabel;
+	@FXML private VBox overflowPane;
 	
 	/**
 	 * Called on program start
@@ -68,7 +58,8 @@ public class WatchManController {
 		// Collapse the node list if it is too tall
 		outagePane.heightProperty().addListener(e -> {
     		if(outagePane.getHeight() + downNodeLabel.getHeight() > spuMap.getFitHeight()) {
-    			outagePane.collapseGroups();
+    			overflowPane.getChildren().clear();
+    			overflowPane.getChildren().addAll(outagePane.getOverflowedNodes());
     		}
 		});
 	}

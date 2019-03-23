@@ -3,6 +3,7 @@ package util;
 import java.util.HashSet;
 
 import javafx.application.Platform;
+import javafx.collections.ObservableList;
 import javafx.scene.Node;
 import javafx.scene.layout.VBox;
 
@@ -70,9 +71,20 @@ public class OutagePane extends VBox {
 		}
 	}
 
-	public void collapseGroups() {
+	/**
+	 * This checks if the containing pane has been overflowed and collects the labels
+	 * from every building
+	 * @return	The list of all dead nodes
+	 */
+	public ObservableList<Node> getOverflowedNodes() {
+		ObservableList<Node> nodes = null;
 		for(OutageEntry oe : buildingEntries) {
-			oe.clearNodes();
+			if(nodes == null) {
+				nodes = oe.clearNodes();
+				continue;
+			}
+			nodes.addAll(oe.clearNodes());
 		}
+		return nodes;
 	}
 }

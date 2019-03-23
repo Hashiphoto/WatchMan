@@ -4,6 +4,7 @@ import javafx.animation.KeyFrame;
 import javafx.animation.Timeline;
 import javafx.beans.property.DoubleProperty;
 import javafx.beans.property.SimpleDoubleProperty;
+import javafx.collections.ObservableList;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
 import javafx.geometry.Bounds;
@@ -69,12 +70,16 @@ public class OutageEntry extends VBox {
 	/**
 	 * Use this when too many nodes are displayed. It will show only the title
 	 * @param hide	True to hide the individual nodes
+	 * @return 	The list of removed labels
 	 */
-	public void clearNodes() {
+	public ObservableList<javafx.scene.Node> clearNodes() {
 		int numNodes = this.getChildren().size();
 		title.setText(building.name + ": " + numNodes);
+		ObservableList<javafx.scene.Node> children = this.getChildren();
 		this.getChildren().clear();
 		this.getChildren().add(title);
+		
+		return children;	
 	}
 	
 	public void delete() {
