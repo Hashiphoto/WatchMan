@@ -15,9 +15,7 @@ import javafx.util.Duration;
  * @author Trent
  */
 public class WatchManView extends Application {
-	public static final int MAX_NODES_DISPLAYED = 15;
-	
-	private static final double REFRESH_TIME = 2;
+	private static final double REFRESH_TIME = 5;
 	private WatchManController controller;
 	
 	@Override

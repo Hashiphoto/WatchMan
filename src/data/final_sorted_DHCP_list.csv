@@ -1,0 +1,2105 @@
+IPAddress,AddressState,HostName,Location
+172.31.240.20,ActiveReservation,mfp-4nickerson,4 Nickerson
+172.31.217.63,ActiveReservation,4 Nickerson-MASAM Classroom-115,4 Nickerson
+172.31.217.65,ActiveReservation,4 Nickerson-MAMSSM Breakout Room-115,4 Nickerson
+172.31.217.152,ActiveReservation,4 Nickerson-Graduate Addmissions Beth-115,4 Nickerson
+172.31.220.25,ActiveReservation,4 Nickserson-MAMSSM Office ??-115,4 Nickerson
+172.31.220.230,ActiveReservation,4 Nickerson-Foundation-115,4 Nickerson
+72.233.140.2,Active,6NICK207,6 Nickerson
+72.233.140.39,Active,6NICK213,6 Nickerson
+72.233.140.66,Active,6NICK315-02,6 Nickerson
+72.233.140.74,Active,6NICK208-04,6 Nickerson
+72.233.140.82,Active,6NICK223,6 Nickerson
+72.233.140.94,Active,6NICK208-01,6 Nickerson
+72.233.140.95,Active,6NICK208-06,6 Nickerson
+72.233.140.164,Active,6NICK218,6 Nickerson
+72.233.140.188,Active,6NICK106,6 Nickerson
+72.233.140.200,Active,6NICK117,6 Nickerson
+72.233.140.206,Active,6NICK208-05,6 Nickerson
+72.233.142.137,ActiveReservation,6NICK315-01,6 Nickerson
+72.233.142.138,Active,6NICK315-02,6 Nickerson
+172.31.255.52,InactiveReservation,ems-6nickerson,6 Nickerson
+172.31.240.49,ActiveReservation,mfp-6nick-1stfloor,6 Nickerson
+172.31.240.50,ActiveReservation,mfp-6nick-2ndfloor,6 Nickerson
+172.31.240.112,ActiveReservation,mfp-6nick-3rdfloor,6 Nickerson
+172.31.232.159,InactiveReservation,6nick117-switcher6nick117-switcher,6 Nickerson
+172.31.232.160,ActiveReservation,6nick117-controller,6 Nickerson
+172.31.232.161,ActiveReservation,6nick117-touchpanel,6 Nickerson
+172.31.232.162,ActiveReservation,6nick117-controller-slave,6 Nickerson
+172.31.232.163,InactiveReservation,6nick106-switcher6nick106-switcher,6 Nickerson
+172.31.232.164,ActiveReservation,6nick106-controller,6 Nickerson
+172.31.232.165,ActiveReservation,6nick106-touchpanel,6 Nickerson
+172.31.232.166,ActiveReservation,6nick106-controller-slave,6 Nickerson
+172.31.232.167,InactiveReservation,6nick118-switcher6nick118-switcher,6 Nickerson
+172.31.232.168,ActiveReservation,6nick118-controller,6 Nickerson
+172.31.232.169,ActiveReservation,6nick118-touchpanel,6 Nickerson
+172.31.232.170,InactiveReservation,6nick213-switcher6nick213-switcher,6 Nickerson
+172.31.232.171,InactiveReservation,6nick213-controller6nick213-controller,6 Nickerson
+172.31.232.172,InactiveReservation,6nick213-touchpanel6nick213-touchpanel,6 Nickerson
+172.31.232.173,InactiveReservation,6nick213-controller-slave6nick213-controller-slave,6 Nickerson
+172.31.232.174,InactiveReservation,6nick207-switcher6nick207-switcher,6 Nickerson
+172.31.232.175,ActiveReservation,6nick207-controller,6 Nickerson
+172.31.232.176,ActiveReservation,6nick207-touchpanel,6 Nickerson
+172.31.232.177,ActiveReservation,6nick207-controller-slave,6 Nickerson
+172.31.232.178,InactiveReservation,6nick223-switcher6nick223-switcher,6 Nickerson
+172.31.232.179,ActiveReservation,6nick223-controller,6 Nickerson
+172.31.232.180,ActiveReservation,6nick223-touchpanel,6 Nickerson
+172.31.232.181,InactiveReservation,6nick308-switcher6nick308-switcher,6 Nickerson
+172.31.232.182,ActiveReservation,6nick308-controller,6 Nickerson
+172.31.232.183,ActiveReservation,6nick308-touchpanel,6 Nickerson
+172.31.232.185,InactiveReservation,6nick307-switcher6nick307-switcher,6 Nickerson
+172.31.232.186,ActiveReservation,6nick307-controller,6 Nickerson
+172.31.232.187,ActiveReservation,6nick307-touchpanel,6 Nickerson
+172.31.232.188,InactiveReservation,6nick305-switcher6nick305-switcher,6 Nickerson
+172.31.232.189,InactiveReservation,6nick305-controller6nick305-controller,6 Nickerson
+172.31.232.190,InactiveReservation,6nick305-touchpanel6nick305-touchpanel,6 Nickerson
+172.31.232.192,InactiveReservation,6nick314-switcher6nick314-switcher,6 Nickerson
+172.31.232.193,ActiveReservation,6nick314-controller,6 Nickerson
+172.31.218.155,Active,6 Nickerson-207-305,6 Nickerson
+172.31.218.157,Active,6 Nickerson-213-306,6 Nickerson
+172.31.218.158,Active,6 Nickerson-221-305,6 Nickerson
+172.31.218.159,Active,6 Nickerson-118-306,6 Nickerson
+172.31.218.160,Active,6 Nickerson-106-306,6 Nickerson
+172.31.218.161,Active,6 Nickerson-109-306,6 Nickerson
+172.31.218.162,Active,6 Nickerson-117-306,6 Nickerson
+172.31.218.163,Active,6 Nickerson-121-306,6 Nickerson
+172.31.218.176,Active,6 Nickerson-307-306,6 Nickerson
+172.31.222.84,Active,6 Nickerson-305-305,6 Nickerson
+172.31.222.85,Active,6 Nickerson-315-306,6 Nickerson
+172.31.222.86,Active,6 Nickerson-312-305,6 Nickerson
+172.31.222.87,Active,6 Nickerson-308-305,6 Nickerson
+172.31.222.88,Active,6 Nickerson-200-305,6 Nickerson
+172.31.222.89,Active,6 Nickerson-223-305,6 Nickerson
+172.31.222.90,Active,6 Nickerson-211-305,6 Nickerson
+172.31.222.91,Active,6 Nickerson-119-306,6 Nickerson
+172.31.222.93,Active,6 Nickerson-123-306,6 Nickerson
+172.31.222.95,Active,6 Nickerson-112-306,6 Nickerson
+172.31.222.106,Active,6 Nickerson-217-305-2,6 Nickerson
+172.31.216.179,ActiveReservation,Alexander 3-Office 311-115,Alexander
+172.31.240.16,ActiveReservation,mfp-alex108,Alexander
+172.31.240.17,ActiveReservation,mfp-alex204,Alexander
+172.31.240.18,ActiveReservation,mfp-alex302,Alexander
+172.31.240.19,ActiveReservation,mfp-alex413,Alexander
+172.31.217.38,ActiveReservation,Alexander 1-Office 106-115,Alexander
+172.31.217.39,ActiveReservation,Alexander 2-Office 206-115,Alexander
+172.31.217.40,ActiveReservation,Alexander 2-Office 210-115,Alexander
+172.31.217.41,ActiveReservation,Alexander 3-Office 301-115,Alexander
+172.31.217.42,ActiveReservation,Alexander 4-Office 406-115,Alexander
+172.31.217.43,ActiveReservation,Alexander 4-Office 412-115,Alexander
+172.31.217.44,ActiveReservation,Alexander 4-Office 408-115,Alexander
+172.31.217.45,ActiveReservation,Alexander 4-Office 410-115,Alexander
+172.31.217.46,ActiveReservation,Alexander 3-Office 309-115,Alexander
+172.31.220.220,ActiveReservation,Alexander 1-Office 101-115,Alexander
+172.31.220.221,ActiveReservation,Alexander 2-Office 202-115,Alexander
+172.31.220.222,ActiveReservation,Alexander 1-Office 110-115,Alexander
+172.31.220.223,ActiveReservation,Alexander 1-Office 109-115,Alexander
+172.31.220.224,ActiveReservation,Alexander 2-Office 208-115,Alexander
+172.31.220.225,ActiveReservation,Alexander 2-Office 212-115,Alexander
+172.31.220.226,ActiveReservation,Alexander 3-Office 306-115,Alexander
+172.31.220.227,ActiveReservation,Alexander 3-Office 307-115,Alexander
+172.31.220.228,ActiveReservation,Alexander 3-Office 313-115,Alexander
+172.31.220.229,ActiveReservation,Alexander 4-Office 402-115,Alexander
+72.233.132.2,InactiveReservation,lib-ariel,Ames Library
+72.233.132.3,InactiveReservation,lib-mark,Ames Library
+72.233.132.4,ActiveReservation,ptr-lib-tech-services,Ames Library
+72.233.132.5,InactiveReservation,ptr-lib-system,Ames Library
+72.233.132.6,Active,localadminsiMac,Ames Library
+72.233.132.7,InactiveReservation,ptr-lib-lower-color-01,Ames Library
+72.233.132.8,ActiveReservation,ptr-lib-labels,Ames Library
+72.233.132.9,Active,LIB-LL-A-008,Ames Library
+72.233.132.10,InactiveReservation,lib-checkout,Ames Library
+72.233.132.11,InactiveReservation,lib-goprintserver,Ames Library
+72.233.132.12,InactiveReservation,ptr-lib-lower-bw-01,Ames Library
+72.233.132.13,InactiveReservation,ptr-lib-lower-bw-02,Ames Library
+72.233.132.14,InactiveReservation,ptr-lib-main-bw-01,Ames Library
+72.233.132.15,InactiveReservation,ptr-lib-main-bw-02,Ames Library
+72.233.132.19,ActiveReservation,ptr-lib-adminoffices,Ames Library
+72.233.132.20,ActiveReservation,LIB-INSTRUCT,Ames Library
+72.233.132.22,ActiveReservation,ptr-lib-bpaulson,Ames Library
+72.233.132.24,ActiveReservation,Library 1E-1-225-105,Ames Library
+72.233.132.25,Active,KIOSK-LIB-120,Ames Library
+72.233.132.26,Active,LIB-LL-A-026,Ames Library
+72.233.132.28,Active,LIB-STUDENTS,Ames Library
+72.233.132.29,Active,LIBCLASS-CONTROL,Ames Library
+72.233.132.30,Active,KIOSK-LIB-S0,Ames Library
+72.233.132.31,Active,LIB-LL-A-014,Ames Library
+72.233.132.34,Active,KIOSK-LIB-S3,Ames Library
+72.233.132.35,Active,LIB-ML-A-001,Ames Library
+72.233.132.36,Active,KIOSK-LIB-112,Ames Library
+72.233.132.37,Active,LIB-ML-A-004,Ames Library
+72.233.132.38,Active,LIB-ETM-STU,Ames Library
+72.233.132.40,Active,LIB-LL-A-016,Ames Library
+72.233.132.42,Active,LIB-LL-A-013,Ames Library
+72.233.132.45,Active,LIB-VICK,Ames Library
+72.233.132.46,Active,KIOSK-LIB-116,Ames Library
+72.233.132.48,Active,LIB-LL-A-009,Ames Library
+72.233.132.49,Active,LIB-LL-A-023,Ames Library
+72.233.132.50,Active,LIB-ILL-STU,Ames Library
+72.233.132.51,Active,LIB-BPAULSON,Ames Library
+72.233.132.52,Active,LIB-LL-A-015,Ames Library
+72.233.132.53,Active,LIB-LL-A-024,Ames Library
+72.233.132.55,Active,KIOSK-LIB-110,Ames Library
+72.233.132.56,Active,KIOSK-LIB-101,Ames Library
+72.233.132.59,Active,LIB-ML-A-005,Ames Library
+72.233.132.62,Active,LIB-LL-A-021,Ames Library
+72.233.132.64,Active,LIB-CIRC01,Ames Library
+72.233.132.65,Active,LIB-JULIE,Ames Library
+72.233.132.66,Active,KIOSK-LIB-S1,Ames Library
+72.233.132.71,Active,LIB-ML-A-003,Ames Library
+72.233.132.72,Active,LIB-LL-A-006,Ames Library
+72.233.132.80,Active,LIB-CIRC02,Ames Library
+72.233.132.129,ActiveReservation,Library 1NW-1-235-105,Ames Library
+72.233.132.136,Active,ETM-iMac-Student,Ames Library
+72.233.132.139,Active,localadinsiMac2,Ames Library
+72.233.132.141,Active,KIOSK-LIB-08,Ames Library
+72.233.132.142,Active,LIB-ML-A-006,Ames Library
+72.233.132.144,Active,LIB-LINDAHL-N,Ames Library
+72.233.132.145,Active,KIOSK-LIB-118,Ames Library
+72.233.132.146,ActiveReservation,Library 1NE-1-223-105,Ames Library
+72.233.132.150,Active,KIOSK-LIB-115,Ames Library
+72.233.132.151,Active,LIB-SHAW,Ames Library
+72.233.132.152,Active,LIB-LL-A-018,Ames Library
+72.233.132.153,Active,LIBClasmAppleTV,Ames Library
+72.233.132.155,Active,KIOSK-LIB-109,Ames Library
+72.233.132.156,Active,KIOSK-LIB-111,Ames Library
+72.233.132.157,Active,KIOSK-LIB-114,Ames Library
+72.233.132.158,ActiveReservation,Library 1S-1-229-105,Ames Library
+72.233.132.159,Active,LIB-LL-A-025,Ames Library
+72.233.132.161,Active,LIB-LL-A-010,Ames Library
+72.233.132.162,Active,LIB-LL-A-007,Ames Library
+72.233.132.163,Active,KIOSK-LIB-002,Ames Library
+72.233.132.164,Active,LIB-ML-A-002,Ames Library
+72.233.132.165,Active,LIB-LL-A-005,Ames Library
+72.233.132.166,Active,LIB-HILT,Ames Library
+72.233.132.167,ActiveReservation,Library 1-C-105,Ames Library
+72.233.132.168,Active,LIB-ML-CLASS,Ames Library
+72.233.132.169,Active,LIB-SEM,Ames Library
+72.233.132.170,Active,KIOSK-LIB-119,Ames Library
+72.233.132.173,Active,LIB-LL-A-017,Ames Library
+72.233.132.174,Active,KIOSK-LIB-117,Ames Library
+72.233.132.177,Active,LIB-LL-A-019,Ames Library
+72.233.132.178,Active,LIB-LL-A-020,Ames Library
+72.233.132.180,Active,KIOSK-LIB-03,Ames Library
+72.233.132.191,Active,LIB-MCNAYZ,Ames Library
+72.233.132.192,Active,KIOSK-LIB-S2,Ames Library
+172.31.255.59,InactiveReservation,ems-library-01,Ames Library
+172.31.255.60,InactiveReservation,ems-library-02,Ames Library
+172.31.255.181,ActiveReservation,LIBLAB1,Ames Library
+172.31.255.183,ActiveReservation,LIBSEM2,Ames Library
+172.31.240.48,ActiveReservation,mfp-lib-lowerlevel-ne,Ames Library
+172.31.240.79,ActiveReservation,mfp-lib-lowerlevel-hall,Ames Library
+172.31.240.81,ActiveReservation,mfp-lib-circ,Ames Library
+172.31.240.82,ActiveReservation,mfp-lib-fl2-hall,Ames Library
+172.31.240.83,ActiveReservation,mfp-lib-admin,Ames Library
+172.31.240.84,ActiveReservation,mfp-lib-fl3-hall,Ames Library
+172.31.240.97,ActiveReservation,mfp-lib-mainfloor1,Ames Library
+172.31.240.98,ActiveReservation,mfp-lib-mainfloor2,Ames Library
+172.31.240.116,InactiveReservation,ptr-lib-admin,Ames Library
+172.31.232.102,ActiveReservation,LIBCLASS-CONTROL,Ames Library
+172.31.232.103,ActiveReservation,LIBSEM-CONTROLLER,Ames Library
+172.31.217.34,ActiveReservation,Library 1E-1-225-105-2,Ames Library
+172.31.218.22,ActiveReservation,Library 1SW-1-231-105,Ames Library
+172.31.218.25,ActiveReservation,Library 2-Seminar Room 2-048-105,Ames Library
+172.31.218.26,ActiveReservation,Library 2E-2-054-105,Ames Library
+172.31.218.27,ActiveReservation,Library 2N-2-058-105,Ames Library
+172.31.218.28,ActiveReservation,Library 3N-3-003-105,Ames Library
+172.31.218.29,ActiveReservation,Library 2 Admin Suite Jack 2-060-105,Ames Library
+172.31.218.30,ActiveReservation,Library 3C-3-007-105,Ames Library
+172.31.218.31,ActiveReservation,Library 3C-3-015-105,Ames Library
+172.31.218.32,ActiveReservation,Library 3SE-3-013-105,Ames Library
+172.31.218.33,ActiveReservation,Library B NE-B-137-105,Ames Library
+172.31.218.34,ActiveReservation,Library B SW-B-143-105,Ames Library
+172.31.218.35,ActiveReservation,Library B SE-B-141-105,Ames Library
+172.31.218.153,Active,Library B NE-B-137-305,Ames Library
+172.31.218.164,Active,Library 1-C-305,Ames Library
+172.31.218.165,Active,Library 1S-1-229-305,Ames Library
+172.31.218.166,Active,Library 1SW-1-231-305,Ames Library
+172.31.218.167,Active,Library 1E-1-225-305,Ames Library
+172.31.218.168,Active,Library 1NW-1-235-305,Ames Library
+172.31.218.169,Active,Library 2NE-2-056-305,Ames Library
+172.31.218.170,Active,Library 2N-2-058-305,Ames Library
+172.31.218.171,Active,Library 2S-2-050-305,Ames Library
+172.31.218.172,Active,Library 2 Admin Suite Jack 2-060-305,Ames Library
+172.31.218.173,Active,Library 3C-3-015-305,Ames Library
+172.31.218.174,Active,Library 3NW-3-001-305,Ames Library
+172.31.221.179,ActiveReservation,Library 2SE-2-052-105,Ames Library
+172.31.221.180,ActiveReservation,Library 2S-2-050-105,Ames Library
+172.31.221.181,ActiveReservation,Library 3NW-3-001-105,Ames Library
+172.31.221.182,ActiveReservation,Library 2NE-2-056-105,Ames Library
+172.31.221.183,ActiveReservation,Library 3SW-3-017-115,Ames Library
+172.31.221.184,Active,Library B ETM B-135-115,Ames Library
+172.31.222.81,Active,Library B SW-B-143-305,Ames Library
+172.31.222.82,Active,Library B SE-B-141-305,Ames Library
+172.31.222.96,Active,Library 1NE-1-223-305,Ames Library
+172.31.222.97,Active,Library 2SE-2-052-305,Ames Library
+172.31.222.98,Active,Library 2E-2-054-305,Ames Library
+172.31.222.99,Active,Library 2-Seminar Room 2-048-305,Ames Library
+172.31.222.100,Active,Library 3SE-3-013-305,Ames Library
+172.31.222.101,Active,Library 3C-3-007-305,Ames Library
+172.31.222.102,Active,Library 3N-3-003-305,Ames Library
+172.31.208.3,ActiveReservation,Power-Arnett-UPS01-MDF,Arnett
+172.31.208.4,ActiveReservation,Power-Arnett-UPS01-2ndIDF,Arnett
+172.31.208.5,ActiveReservation,Power-Arnett-UPS01-3rdIDF,Arnett
+172.31.255.80,InactiveReservation,laundryview-controller-arnett,Arnett
+172.31.255.92,InactiveReservation,hvac-router-arnett,Arnett
+172.31.255.215,ActiveReservation,netcam-arnett-hall-north,Arnett
+172.31.216.9,ActiveReservation,Arnett 1-Garage SE-115,Arnett
+172.31.216.16,ActiveReservation,Arnett 3-Room 307-115,Arnett
+172.31.216.22,ActiveReservation,Arnett 2-Room 227-115,Arnett
+172.31.216.23,ActiveReservation,Arnett 3-Room 304-115,Arnett
+172.31.216.109,ActiveReservation,Arnett 4-Room 406-115,Arnett
+172.31.216.114,ActiveReservation,Arnett 2-Room 203B-115,Arnett
+172.31.216.117,ActiveReservation,Arnett 3-Room 303-115,Arnett
+172.31.216.118,ActiveReservation,Arnett 4-Room 405-115,Arnett
+172.31.216.119,ActiveReservation,Arnett 5-Room 518-115,Arnett
+172.31.216.120,ActiveReservation,Arnett 4-Room 425-115,Arnett
+172.31.216.121,ActiveReservation,Arnett 5-Room 511-115,Arnett
+172.31.216.122,ActiveReservation,Arnett 4-Room 422-115,Arnett
+172.31.216.123,ActiveReservation,Arnett 5-Room 504-115,Arnett
+172.31.216.124,ActiveReservation,Arnett 2-Room 203A-115,Arnett
+172.31.216.125,ActiveReservation,Arnett 2-Lounge-115,Arnett
+172.31.216.128,ActiveReservation,Arnett 2-Room 202-115,Arnett
+172.31.216.129,ActiveReservation,Arnett 2-Room 209-115,Arnett
+172.31.216.130,ActiveReservation,Arnett 2-Room 213-115,Arnett
+172.31.216.131,ActiveReservation,Arnett 2-Room 206-115,Arnett
+172.31.216.132,ActiveReservation,Arnett 3-Room 323-115,Arnett
+172.31.216.134,ActiveReservation,Arnett 3-Room 311-115,Arnett
+172.31.216.135,ActiveReservation,Arnett 3-Room 324-115,Arnett
+172.31.216.152,ActiveReservation,Arnett 5-Room 507-115,Arnett
+172.31.216.153,ActiveReservation,Arnett 3-Room 320-115,Arnett
+172.31.216.154,ActiveReservation,Arnett 3-Room 315-115,Arnett
+172.31.216.176,ActiveReservation,Arnett 1-Room 112E-115,Arnett
+172.31.216.177,ActiveReservation,Arnett 1-Room 112W-115,Arnett
+172.31.216.178,ActiveReservation,Arnett 1-Room 105-115,Arnett
+172.31.217.5,ActiveReservation,Arnett 5-Room 519-115,Arnett
+172.31.217.14,ActiveReservation,Arnett B-Garage NW-115,Arnett
+172.31.217.98,ActiveReservation,Arnett 2-Room 225-115,Arnett
+172.31.217.99,ActiveReservation,Arnett 2-Room 217-115,Arnett
+172.31.217.100,ActiveReservation,Arnett 2-Room 222-115,Arnett
+172.31.217.103,ActiveReservation,Arnett 4-Lounge-115,Arnett
+172.31.217.110,ActiveReservation,Arnett B-Garage SE-115,Arnett
+172.31.220.65,ActiveReservation,Arnett 4-Room 401-115,Arnett
+172.31.220.67,ActiveReservation,Arnett 4-Room 402-115,Arnett
+172.31.220.71,ActiveReservation,Arnett 5-Room 503-115,Arnett
+172.31.220.72,ActiveReservation,Arnett 5-Lounge-115,Arnett
+172.31.220.73,ActiveReservation,Arnett 3-Room 319-115,Arnett
+172.31.220.74,ActiveReservation,Arnett 3-Room 308-115,Arnett
+172.31.220.75,ActiveReservation,Arnett 5-Room 508-115,Arnett
+172.31.220.76,ActiveReservation,Arnett 4-Room 417-115,Arnett
+172.31.220.78,ActiveReservation,Arnett 4-Room 427-115,Arnett
+172.31.220.79,ActiveReservation,Arnett 5-Room 515-115,Arnett
+172.31.220.80,ActiveReservation,Arnett 4-Room 416-115,Arnett
+172.31.220.81,ActiveReservation,Arnett 4-Room 413-115,Arnett
+172.31.220.82,ActiveReservation,Arnett 2-Room 216-115,Arnett
+172.31.220.199,ActiveReservation,Arnett 1-Room 110-115,Arnett
+172.31.221.204,ActiveReservation,Arnett 3-Room 318-115,Arnett
+172.31.221.205,ActiveReservation,Arnett 4-Room 409-115,Arnett
+72.233.129.6,InactiveReservation,ptr-art-lab,Art Center
+72.233.129.11,Active,iMac-2,Art Center
+72.233.129.34,Active,ace15,Art Center
+72.233.129.41,Active,aceif04,Art Center
+72.233.129.43,Active,mac-rlorig,Art Center
+72.233.129.47,Active,AC3,Art Center
+72.233.129.70,Active,ARTADJUNCT,Art Center
+72.233.129.80,Active,rangerTFoxsiMac,Art Center
+72.233.129.91,Active,localadinsiMac2,Art Center
+72.233.129.139,Active,teacher04,Art Center
+72.233.129.142,Active,AC5,Art Center
+72.233.129.144,Active,teacher02,Art Center
+72.233.129.145,Active,localadinsiMac3,Art Center
+72.233.129.151,Active,Labs-iMac,Art Center
+72.233.129.158,Active,artlabimac007,Art Center
+72.233.129.192,Active,AC6,Art Center
+172.31.255.67,InactiveReservation,hvac-router-art-center,Art Center
+172.31.255.86,ActiveReservation,WASeattlePacificU,Art Center
+172.31.255.89,InactiveReservation,hvac-router-alumni,Art Center
+172.31.255.131,InactiveReservation,hvac-router-foc,Art Center
+172.31.255.134,InactiveReservation,hvac-router-nickersonstudio,Art Center
+172.31.255.250,ActiveReservation,netcam-martinsquare-south,Art Center
+172.31.255.254,ActiveReservation,Netcam-MartinSquare-North,Art Center
+172.31.240.21,ActiveReservation,mfp-art133,Art Center
+172.31.240.22,ActiveReservation,mfp-art107,Art Center
+172.31.240.37,Active,XRX0000AAAC7929,Art Center
+172.31.232.13,ActiveReservation,AC3-CONTROLLER,Art Center
+172.31.232.14,ActiveReservation,AC4-CONTROLLER,Art Center
+172.31.232.15,ActiveReservation,AC5-CONTROLLER,Art Center
+172.31.232.16,ActiveReservation,AC5-SWITCHER,Art Center
+172.31.232.17,ActiveReservation,AC6-CONTROLLER,Art Center
+172.31.232.32,ActiveReservation,AC7-CONTROLLER,Art Center
+172.31.232.33,ActiveReservation,AC9-CONTROLLER,Art Center
+172.31.232.152,ActiveReservation,ac8-controller,Art Center
+172.31.232.153,ActiveReservation,ac10-controller,Art Center
+172.31.224.50,ActiveReservation,Inova-OnTrack,Art Center
+172.31.224.128,ActiveReservation,Inova-OnTrack,Art Center
+172.31.224.145,ActiveReservation,Inova-OnTrack,Art Center
+172.31.224.146,ActiveReservation,Inova-OnTrack,Art Center
+172.31.224.147,ActiveReservation,Inova-OnTrack,Art Center
+172.31.224.149,ActiveReservation,Inova-OnTrack,Art Center
+172.31.217.211,ActiveReservation,Art Center 1-101 Lobby-105,Art Center
+172.31.221.112,ActiveReservation,Art Center 1-NE-105,Art Center
+172.31.221.113,ActiveReservation,Art Center 1-124-105,Art Center
+172.31.221.114,ActiveReservation,Art Center 1-S-105,Art Center
+172.31.221.115,ActiveReservation,Art Center 1-108-105,Art Center
+72.233.130.86,Active,RLC-ASHTON2,Ashton
+72.233.130.185,Active,RLC-ASHTON1,Ashton
+72.233.190.8,ActiveReservation,ptr-rlc-ashton,Ashton
+172.31.208.6,ActiveReservation,Power-Ashton-UPS01-4theMDF,Ashton
+172.31.208.7,ActiveReservation,Power-Ashton-UPS01-3rdwIDF,Ashton
+172.31.208.8,ActiveReservation,Power-Ashton-UPS01-3rdeIDF,Ashton
+172.31.208.9,ActiveReservation,Power-Ashton-UPS01-4thwIDF,Ashton
+172.31.208.10,ActiveReservation,Power-Ashton-UPS01-6thIDF,Ashton
+172.31.255.81,InactiveReservation,laundryview-controller-ashton-men,Ashton
+172.31.255.82,InactiveReservation,laundryview-controller-ashton-women,Ashton
+172.31.216.34,ActiveReservation,Ashton 2-Room 211-115,Ashton
+172.31.216.61,ActiveReservation,Ashton 3-Room 374-115,Ashton
+172.31.216.62,ActiveReservation,Ashton 3-Room 355-115,Ashton
+172.31.216.64,ActiveReservation,Ashton 1-Room 167-115,Ashton
+172.31.216.65,ActiveReservation,Ashton 1-Room 173-115,Ashton
+172.31.216.66,ActiveReservation,Ashton 2-Room 276-115,Ashton
+172.31.216.67,ActiveReservation,Ashton 1-Room 127-115,Ashton
+172.31.216.68,ActiveReservation,Ashton 3-Room 377-115,Ashton
+172.31.216.69,ActiveReservation,Ashton 3-Room 381-115,Ashton
+172.31.216.70,ActiveReservation,Ashton 2-Room 253-115,Ashton
+172.31.216.71,ActiveReservation,Ashton 2-Room 265-115,Ashton
+172.31.216.72,ActiveReservation,Ashton 3-Room 378-115,Ashton
+172.31.216.73,ActiveReservation,Ashton 3-Room 367-115,Ashton
+172.31.216.74,ActiveReservation,Ashton 3-Room 362-115,Ashton
+172.31.216.75,ActiveReservation,Ashton 2-Room 226-115,Ashton
+172.31.216.76,ActiveReservation,Ashton 1-Room 128-115,Ashton
+172.31.216.77,ActiveReservation,Ashton 2-Room 275-115,Ashton
+172.31.216.78,ActiveReservation,Ashton 2-Room 272-115,Ashton
+172.31.216.79,ActiveReservation,Ashton 2-Room 261-115,Ashton
+172.31.216.80,ActiveReservation,Ashton 2-Room 257-115,Ashton
+172.31.216.81,ActiveReservation,Ashton 1-Room 178-115,Ashton
+172.31.216.82,ActiveReservation,Ashton 1-Room 174-115,Ashton
+172.31.216.83,ActiveReservation,Ashton 2-Room 205-115,Ashton
+172.31.216.84,ActiveReservation,Ashton 3-Room 313-115,Ashton
+172.31.216.85,ActiveReservation,Ashton 2-Room 215-115,Ashton
+172.31.216.86,ActiveReservation,Ashton 3-Room 327-115,Ashton
+172.31.216.87,ActiveReservation,Ashton 3-Room 307-115,Ashton
+172.31.216.88,ActiveReservation,Ashton 3-Room 331-115,Ashton
+172.31.216.89,ActiveReservation,Ashton 3-Room 332-115,Ashton
+172.31.216.90,ActiveReservation,Ashton 3-Room 328-115,Ashton
+172.31.216.91,ActiveReservation,Ashton 3-Room 323-115,Ashton
+172.31.216.92,ActiveReservation,Ashton 2-Room 225-115,Ashton
+172.31.216.93,ActiveReservation,Ashton 2-Room 229-115,Ashton
+172.31.216.94,ActiveReservation,Ashton 1-Room 113-115,Ashton
+172.31.216.95,ActiveReservation,Ashton 1-Room 117-115,Ashton
+172.31.216.96,ActiveReservation,Ashton 6-Jack 11-105,Ashton
+172.31.216.98,ActiveReservation,Ashton 4-Room 411-115,Ashton
+172.31.216.99,ActiveReservation,Ashton 4-Room 401-115,Ashton
+172.31.216.100,ActiveReservation,Ashton 4-Room 425-115,Ashton
+172.31.216.101,ActiveReservation,Ashton 4-Room 422-115,Ashton
+172.31.216.102,ActiveReservation,Ashton 4-Room 433-115,Ashton
+172.31.216.103,ActiveReservation,Ashton 4-Room 426-115,Ashton
+172.31.216.104,ActiveReservation,Ashton 4-Room 453-115,Ashton
+172.31.216.105,ActiveReservation,Ashton 4-Room 472-115,Ashton
+172.31.216.106,ActiveReservation,Ashton 4-Room 465-115,Ashton
+172.31.216.107,ActiveReservation,Ashton 4-Room 473-115,Ashton
+172.31.216.108,ActiveReservation,Ashton 4-Room 476-115,Ashton
+172.31.216.227,ActiveReservation,Ashton 6-RLC Apt,Ashton
+172.31.216.228,ActiveReservation,Ashton 6-Room 664-115,Ashton
+172.31.216.229,ActiveReservation,Ashton 6-Room 661-115,Ashton
+172.31.216.230,ActiveReservation,Ashton 6-Room 682-115,Ashton
+172.31.216.231,ActiveReservation,Ashton 5-Room 531-115,Ashton
+172.31.216.232,ActiveReservation,Ashton 5-Room 524-115,Ashton
+172.31.216.233,ActiveReservation,Ashton 5-Room 527-115,Ashton
+172.31.216.234,ActiveReservation,Ashton 5-Room 528-115,Ashton
+172.31.216.235,ActiveReservation,Ashton 5-Room 516-115,Ashton
+172.31.216.236,ActiveReservation,Ashton 5-Room 507-115,Ashton
+172.31.216.237,ActiveReservation,Ashton 6-Room 611-115,Ashton
+172.31.216.238,ActiveReservation,Ashton 6-Room 629-115,Ashton
+172.31.216.240,ActiveReservation,Ashton 6-Room 626-115,Ashton
+172.31.216.241,ActiveReservation,Ashton 6-Room 632-115,Ashton
+172.31.216.242,ActiveReservation,Ashton 5-Room 517-115,Ashton
+172.31.216.243,ActiveReservation,Ashton 6-Room 622-115,Ashton
+172.31.216.244,ActiveReservation,Ashton 6-Room 672-115,Ashton
+172.31.216.245,ActiveReservation,Ashton 6-Room 657-115,Ashton
+172.31.216.246,ActiveReservation,Ashton 6-Room 676-115,Ashton
+172.31.216.247,ActiveReservation,Ashton 6-Room 653-115,Ashton
+172.31.216.248,ActiveReservation,Ashton 5-Room 513-115,Ashton
+172.31.216.249,ActiveReservation,Ashton 5-Room 563-115,Ashton
+172.31.216.252,ActiveReservation,Ashton 5-Room 562-115,Ashton
+172.31.216.253,ActiveReservation,Ashton 5-Room 566-115,Ashton
+172.31.216.254,ActiveReservation,Ashton 5-Room 567-115,Ashton
+172.31.217.1,ActiveReservation,Ashton 5-Room 573-115,Ashton
+172.31.217.2,ActiveReservation,Ashton 5-Room 574-115,Ashton
+172.31.217.3,ActiveReservation,Ashton 5-Room 577-115,Ashton
+172.31.217.7,ActiveReservation,Ashton 5-Room 587-115,Ashton
+172.31.217.15,ActiveReservation,Ashton 1E-Jack 51-105,Ashton
+172.31.217.53,ActiveReservation,Ashton 5-Room 581-115-2,Ashton
+172.31.217.150,ActiveReservation,Ashton 3-Room 373-115,Ashton
+172.31.218.95,Active,Ashton 1E-Jack 5-305,Ashton
+172.31.218.96,Active,Ashton 6-Jack 11-305,Ashton
+172.31.220.28,ActiveReservation,Ashton 6-Room 615-115,Ashton
+172.31.220.46,ActiveReservation,Ashton 1-Room 123-115,Ashton
+172.31.220.47,ActiveReservation,Ashton 2-Room 201-115,Ashton
+172.31.220.48,ActiveReservation,Ashton 3-Room 317-115,Ashton
+172.31.220.49,ActiveReservation,Ashton 3-Room 303-115,Ashton
+172.31.220.50,ActiveReservation,Ashton 3-Room 324-115,Ashton
+172.31.220.52,ActiveReservation,Ashton 1-Room 124-115,Ashton
+172.31.220.53,ActiveReservation,Ashton 3-Room 363-115,Ashton
+172.31.220.54,ActiveReservation,Ashton 4-Room 405-115,Ashton
+172.31.220.55,ActiveReservation,Ashton 4-Room 415-115,Ashton
+172.31.220.56,ActiveReservation,Ashton 4-Room 429-115,Ashton
+172.31.220.57,ActiveReservation,Ashton 4-Room 477-115,Ashton
+172.31.220.58,ActiveReservation,Ashton 4-Room 483-115,Ashton
+172.31.220.59,ActiveReservation,Ashton 4-Room 461-115,Ashton
+172.31.220.60,ActiveReservation,Ashton 3-Room 351-115,Ashton
+172.31.220.61,ActiveReservation,Ashton 2-Room 279-115,Ashton
+172.31.220.62,ActiveReservation,Ashton 4-Room 457-115,Ashton
+172.31.220.68,ActiveReservation,Ashton 1-Room 163-115,Ashton
+172.31.220.131,ActiveReservation,Ashton 5-Room 512-115,Ashton
+172.31.220.135,ActiveReservation,Ashton 6-Room 675-115,Ashton
+172.31.220.136,ActiveReservation,Ashton 6-Room 679-115,Ashton
+172.31.220.137,ActiveReservation,Ashton 6-Room 683-115,Ashton
+172.31.220.138,ActiveReservation,Ashton 5-Room 534-115,Ashton
+172.31.220.139,ActiveReservation,Ashton 5-Room 523-115,Ashton
+172.31.220.140,ActiveReservation,Ashton 6-Room 614-115,Ashton
+172.31.220.141,ActiveReservation,Ashton 6-Room 633-115,Ashton
+172.31.220.142,ActiveReservation,Ashton 6-Room 601-115,Ashton
+172.31.220.143,ActiveReservation,Ashton 6-Room 605-115,Ashton
+172.31.220.144,ActiveReservation,Ashton 6-Room 665-115,Ashton
+172.31.220.145,ActiveReservation,Ashton 5-Room 551-115,Ashton
+172.31.220.146,ActiveReservation,Ashton 5-Room 555-115,Ashton
+172.31.220.197,ActiveReservation,Ashton 5-Room 584-115,Ashton
+172.31.220.204,ActiveReservation,Ashton 1E-Jack 5-105-new-2,Ashton
+172.31.221.176,ActiveReservation,Ashton 5-Room 503-115,Ashton
+172.31.221.177,ActiveReservation,Ashton 6-Room 625-115,Ashton
+172.31.221.178,ActiveReservation,Ashton 5-Lounge Jack 106-105,Ashton
+172.31.221.203,Active,Ashton 4-Room 415-115,Ashton
+172.31.222.12,Active,Ashton 5-Lounge Jack 106-305,Ashton
+172.31.217.219,ActiveReservation,Bailey Apts,Bailey
+172.31.217.220,ActiveReservation,Bailey Apts,Bailey
+172.31.217.221,ActiveReservation,Bailey Apts,Bailey
+172.31.217.222,ActiveReservation,Bailey Apts,Bailey
+172.31.218.111,Active,Bailey Apts,Bailey
+172.31.218.112,Active,Bailey Apts,Bailey
+172.31.221.122,ActiveReservation,Bailey Apts,Bailey
+172.31.221.123,ActiveReservation,Bailey Apts,Bailey
+172.31.221.124,ActiveReservation,Bailey Apts,Bailey
+172.31.221.125,ActiveReservation,Bailey Apts,Bailey
+172.31.222.25,Active,Bailey Apts,Bailey
+172.31.222.26,Active,Bailey Apts,Bailey
+172.31.222.27,Active,Bailey Apts,Bailey
+172.31.222.28,Active,Bailey Apts,Bailey
+172.31.222.29,Active,Bailey Apts,Bailey
+172.31.222.30,Active,Bailey Apts,Bailey
+72.233.129.35,Active,BH-101-102,Beegle
+72.233.129.66,Active,BH201,Beegle
+72.233.129.79,Active,LBHALL,Beegle
+72.233.129.81,Active,BH1,Beegle
+172.31.255.182,ActiveReservation,BH1-CONTROLLER,Beegle
+172.31.232.100,ActiveReservation,BH201-CONTROLLER,Beegle
+172.31.232.104,ActiveReservation,BH1-CONTROLLER,Beegle
+172.31.232.112,ActiveReservation,BH201-SWITCHER,Beegle
+172.31.232.113,ActiveReservation,BH204-CONTROLLER,Beegle
+172.31.232.114,ActiveReservation,BH205-TOUCHPANEL,Beegle
+172.31.232.115,ActiveReservation,BH205-CONTROLLER,Beegle
+172.31.232.116,ActiveReservation,BH205-SWITCHER,Beegle
+172.31.232.130,ActiveReservation,BH205-CAMERA,Beegle
+172.31.232.131,ActiveReservation,BH205-CAMCCU,Beegle
+172.31.221.9,Active,Beegle 2-201-305,Beegle
+172.31.221.175,ActiveReservation,Beegle 2-201-105,Beegle
+72.233.129.20,Active,APPLETV-BERT5,Bertona
+72.233.129.23,Active,BERT2,Bertona
+72.233.129.42,Active,BERT4,Bertona
+72.233.129.45,Active,BERT6,Bertona
+72.233.129.92,Active,BERT3,Bertona
+72.233.129.99,Active,APPLETV-BERT6,Bertona
+72.233.129.168,Active,APPLETV-BERT4,Bertona
+72.233.129.189,Active,ROBERTSL,Bertona
+72.233.129.207,Active,APPLETV-BERT1,Bertona
+72.233.129.209,Active,BERT3,Bertona
+72.233.129.224,Active,BERT5,Bertona
+72.233.129.235,Active,BERT1,Bertona
+172.31.255.69,InactiveReservation,hvac-router-bertona,Bertona
+172.31.255.252,ActiveReservation,netcam-bertonaandfifth,Bertona
+172.31.240.24,ActiveReservation,mfp-bert5,Bertona
+172.31.232.87,ActiveReservation,BERT1-CONTROLLER,Bertona
+172.31.232.88,ActiveReservation,BERT1-SWITCHER,Bertona
+172.31.232.89,ActiveReservation,BERT2-CONTROLLER,Bertona
+172.31.232.90,ActiveReservation,BERT2-SWITCHER,Bertona
+172.31.232.91,ActiveReservation,BERT3-CONTROLLER,Bertona
+172.31.232.92,ActiveReservation,bert3-switcher,Bertona
+172.31.232.93,ActiveReservation,BERT4-CONTROLLER,Bertona
+172.31.232.94,ActiveReservation,BERT4-SWITCHER,Bertona
+172.31.232.95,ActiveReservation,BERT5-CONTROLLER,Bertona
+172.31.232.96,ActiveReservation,BERT5-SWITCHER,Bertona
+172.31.232.97,ActiveReservation,BERT6-CONTROLLER,Bertona
+172.31.232.98,ActiveReservation,BERT6-SWITCHER,Bertona
+172.31.217.199,ActiveReservation,Bertona 1-6-105-1,Bertona
+172.31.218.15,ActiveReservation,651 W,Bertona
+172.31.218.16,ActiveReservation,Bertona 1-1-105,Bertona
+172.31.218.44,ActiveReservation,651 W,Bertona
+172.31.218.97,Active,Bertona 1-3-305,Bertona
+172.31.218.98,Active,Bertona 1-4-305,Bertona
+172.31.220.233,ActiveReservation,650 W,Bertona
+172.31.221.91,ActiveReservation,Bertona 1-4-105,Bertona
+172.31.221.171,ActiveReservation,Bertona 1-3-105,Bertona
+172.31.222.10,Active,Bertona 1-1-305,Bertona
+172.31.222.11,Active,Bertona 1-6-305,Bertona
+172.31.255.26,InactiveReservation,epic-bookstore,Bookstore
+172.31.255.90,InactiveReservation,hvac-router-bookstore,Bookstore
+72.233.129.30,Active,CMB201,Crawford Music Building
+72.233.129.100,Active,CMB211,Crawford Music Building
+72.233.129.213,Active,CMB103-CONTROLLER,Crawford Music Building
+72.233.129.215,Active,CMB103,Crawford Music Building
+172.31.255.53,InactiveReservation,ems-crawford,Crawford Music Building
+172.31.255.88,InactiveReservation,hvac-router-crawford,Crawford Music Building
+172.31.240.23,ActiveReservation,mfp-craw202,Crawford Music Building
+172.31.232.76,ActiveReservation,CMB103-CONTROLLER,Crawford Music Building
+172.31.232.77,ActiveReservation,CMB201-CONTROLLER,Crawford Music Building
+172.31.232.101,ActiveReservation,CMB211-CONTROLLER,Crawford Music Building
+172.31.232.147,ActiveReservation,CRAW211-SWITCHER,Crawford Music Building
+172.31.232.148,ActiveReservation,CRAW211-TOUCHPANEL,Crawford Music Building
+172.31.239.208,Active,CRAW211-SWITCHER,Crawford Music Building
+172.31.217.192,ActiveReservation,Crawford 2-211-115,Crawford Music Building
+172.31.217.193,ActiveReservation,Crawford 2-206-115,Crawford Music Building
+172.31.217.194,ActiveReservation,Crawford 2-208-115,Crawford Music Building
+172.31.217.195,ActiveReservation,Crawford 2-209-115,Crawford Music Building
+172.31.217.196,ActiveReservation,Crawford 1-101-115,Crawford Music Building
+172.31.217.197,ActiveReservation,Crawford 1-Practice Room 1-115,Crawford Music Building
+172.31.217.198,ActiveReservation,Crawford 1-Practice Room 8-115,Crawford Music Building
+172.31.221.78,ActiveReservation,Crawford 2-203-115,Crawford Music Building
+172.31.221.79,ActiveReservation,Crawford 2-201-115,Crawford Music Building
+172.31.221.80,ActiveReservation,Crawford 2-204-115,Crawford Music Building
+172.31.221.83,ActiveReservation,Crawford 1-103-115,Crawford Music Building
+172.31.221.84,ActiveReservation,Crawford 1-106-115,Crawford Music Building
+172.31.221.85,ActiveReservation,Crawford 1-Practice Room 7-115,Crawford Music Building
+172.31.221.86,ActiveReservation,Crawford 1-Practice Room D-115,Crawford Music Building
+172.31.221.87,ActiveReservation,Crawford 1-Leslie Martin-115,Crawford Music Building
+172.31.221.88,ActiveReservation,Crawford 1-Practice Room 9-115,Crawford Music Building
+72.233.129.137,Active,CREM102,Cremona
+72.233.129.156,Active,CREM203,Cremona
+72.233.129.174,Active,CREM202,Cremona
+72.233.129.178,Active,CREM101,Cremona
+72.233.129.194,Active,CREM203,Cremona
+72.233.129.195,Active,CREM201,Cremona
+172.31.255.219,ActiveReservation,Power-WesleyCremona-UPS01-MDF,Cremona
+172.31.255.222,ActiveReservation,Power-34WCremona-UPS01-MDF,Cremona
+172.31.255.223,ActiveReservation,Power-35WCremona-UPS01-MDF,Cremona
+172.31.255.244,InactiveReservation,crem102crem102,Cremona
+172.31.255.245,ActiveReservation,CREM201-CONTROL,Cremona
+172.31.255.246,ActiveReservation,CREM202-CONTROL,Cremona
+172.31.255.247,ActiveReservation,CREM203-CONTROLLE,Cremona
+172.31.216.12,ActiveReservation,Wesley Cremona-1101-105,Cremona
+172.31.216.111,ActiveReservation,Wesley Cremona-1403-105,Cremona
+172.31.216.112,ActiveReservation,Wesley Cremona-1404-105,Cremona
+172.31.216.113,ActiveReservation,Wesley Cremona-1406-105,Cremona
+172.31.216.116,ActiveReservation,Wesley Cremona-1305-105,Cremona
+172.31.216.137,ActiveReservation,Wesley Cremona-1206-105,Cremona
+172.31.216.150,ActiveReservation,Wesley Cremona-1401-105,Cremona
+172.31.216.155,ActiveReservation,Wesley Cremona-1102-105,Cremona
+172.31.216.156,ActiveReservation,Wesley Cremona-1303-105,Cremona
+172.31.216.157,ActiveReservation,Wesley Cremona-1306-105,Cremona
+172.31.216.197,ActiveReservation,26 W,Cremona
+172.31.232.83,ActiveReservation,CREM201-CONTROL,Cremona
+172.31.232.84,ActiveReservation,CREM202-CONTROL,Cremona
+172.31.232.85,ActiveReservation,CREM203-CONTROL,Cremona
+172.31.232.86,ActiveReservation,CREM203-SWITCH,Cremona
+172.31.232.144,ActiveReservation,CREM101-SWITCHER,Cremona
+172.31.232.145,ActiveReservation,crem101-touchpanel,Cremona
+172.31.232.146,InactiveReservation,crem101-controllercrem101-controller,Cremona
+172.31.217.6,ActiveReservation,34 W,Cremona
+172.31.217.16,ActiveReservation,34 W,Cremona
+172.31.217.17,ActiveReservation,34 W,Cremona
+172.31.217.18,ActiveReservation,34 W,Cremona
+172.31.217.19,ActiveReservation,34 W,Cremona
+172.31.217.20,ActiveReservation,35 W,Cremona
+172.31.217.58,ActiveReservation,Cremona Classroom 203-2-105B,Cremona
+172.31.217.122,ActiveReservation,18 W,Cremona
+172.31.217.205,ActiveReservation,30 W,Cremona
+172.31.217.207,ActiveReservation,650 W,Cremona
+172.31.217.224,ActiveReservation,Cremona Classroom 202-2-105B,Cremona
+172.31.217.225,ActiveReservation,Cremona Classroom 203-2-105A,Cremona
+172.31.217.226,ActiveReservation,Cremona Classroom 101-1-105A,Cremona
+172.31.217.227,ActiveReservation,Cremona Classroom 101-1-105B,Cremona
+172.31.217.228,ActiveReservation,Cremona Classroom 201-2-105A,Cremona
+172.31.217.229,ActiveReservation,Cremona Classroom 201-2-105B,Cremona
+172.31.218.99,Active,Cremona Classroom 203-2-305,Cremona
+172.31.218.100,Active,14 W,Cremona
+172.31.218.101,Active,Cremona Classroom 202-2-305,Cremona
+172.31.218.102,Active,Cremona Classroom 102-1-305A,Cremona
+172.31.218.103,Active,34 W,Cremona
+172.31.218.105,Active,34 W,Cremona
+172.31.218.106,Active,34 W,Cremona
+172.31.218.107,Active,34 W,Cremona
+172.31.218.108,Active,34 W,Cremona
+172.31.218.124,Active,Wesley Cremona-1302-305,Cremona
+172.31.218.125,Active,Wesley Cremona-1304-305,Cremona
+172.31.218.126,Active,Wesley Cremona-1401-305,Cremona
+172.31.218.127,Active,Wesley Cremona-1403-305,Cremona
+172.31.218.133,Active,Wesley Cremona-1102-305,Cremona
+172.31.218.134,Active,Wesley Cremona-1101-305,Cremona
+172.31.218.135,Active,Wesley Cremona-1201-305,Cremona
+172.31.218.136,Active,Wesley Cremona-1204-305,Cremona
+172.31.218.139,Active,Wesley Cremona-1402-305,Cremona
+172.31.218.140,Active,18 W,Cremona
+172.31.218.142,Active,26 W,Cremona
+172.31.218.143,Active,30 W,Cremona
+172.31.218.150,Active,650 W,Cremona
+172.31.220.20,ActiveReservation,Wesley Cremona-1304-105,Cremona
+172.31.220.22,ActiveReservation,Wesley Cremona-1402-105,Cremona
+172.31.220.23,ActiveReservation,Wesley Cremona-1405-105,Cremona
+172.31.220.24,ActiveReservation,Wesley Cremona-1302-105,Cremona
+172.31.220.26,ActiveReservation,Wesley Cremona-1201-105,Cremona
+172.31.220.95,ActiveReservation,Wesley Cremona-1202-105,Cremona
+172.31.220.96,ActiveReservation,Wesley Cremona-1203-105,Cremona
+172.31.220.97,ActiveReservation,Wesley Cremona-1204-105,Cremona
+172.31.220.98,ActiveReservation,Wesley Cremona-1205-105,Cremona
+172.31.220.99,ActiveReservation,Wesley Cremona-1301-105,Cremona
+172.31.220.107,Active,35 W,Cremona
+172.31.220.206,ActiveReservation,34 W,Cremona
+172.31.220.207,ActiveReservation,35 W,Cremona
+172.31.220.208,ActiveReservation,35 W,Cremona
+172.31.220.209,ActiveReservation,35 W,Cremona
+172.31.220.210,ActiveReservation,35 W,Cremona
+172.31.221.105,ActiveReservation,14 W,Cremona
+172.31.221.108,ActiveReservation,22 W,Cremona
+172.31.221.126,ActiveReservation,Cremona Classroom 102-1-105B,Cremona
+172.31.221.127,ActiveReservation,Cremona Classroom 102-1-105C,Cremona
+172.31.221.128,ActiveReservation,Cremona Classroom 102-1-105A,Cremona
+172.31.221.129,ActiveReservation,Cremona Classroom 202-2-105A,Cremona
+172.31.221.130,ActiveReservation,Cremona Classroom 101-1-105C,Cremona
+172.31.221.151,Active,22 W,Cremona
+172.31.222.13,Active,Cremona Classroom 201-2-305,Cremona
+172.31.222.14,Active,Cremona Classroom 102-1-305B,Cremona
+172.31.222.15,Active,Cremona Classroom 101-1-305B,Cremona
+172.31.222.16,Active,Cremona Classroom 101-1-305A,Cremona
+172.31.222.18,Active,35 W,Cremona
+172.31.222.19,Active,35 W,Cremona
+172.31.222.20,Active,35 W,Cremona
+172.31.222.21,Active,35 W,Cremona
+172.31.222.22,Active,34 W,Cremona
+172.31.222.48,Active,Wesley Cremona-1301-305,Cremona
+172.31.222.54,Active,Wesley Cremona-1303-305,Cremona
+172.31.222.55,Active,Wesley Cremona-1202-305,Cremona
+172.31.222.57,Active,Wesley Cremona-1305-305,Cremona
+172.31.222.58,Active,Wesley Cremona-1306-305,Cremona
+172.31.222.59,Active,Wesley Cremona-1203-305,Cremona
+172.31.222.60,Active,Wesley Cremona-1205-305,Cremona
+172.31.222.61,Active,Wesley Cremona-1206-305,Cremona
+172.31.222.62,Active,Wesley Cremona-1404-305,Cremona
+172.31.222.63,Active,Wesley Cremona-1405-305,Cremona
+172.31.222.64,Active,Wesley Cremona-1406-305,Cremona
+172.31.217.35,ActiveReservation,Davis Apts Unit 5,Davis
+172.31.217.36,ActiveReservation,Davis Apts Unit 6,Davis
+172.31.217.37,ActiveReservation,Davis Apts Unit 9,Davis
+172.31.217.66,ActiveReservation,Davis Apts Unit 9-115,Davis
+172.31.218.23,Active,Davis Apts Unit 7-115,Davis
+172.31.218.46,Active,Davis Apts Unit 6-215,Davis
+172.31.218.47,Active,Davis Apts Unit 1-115,Davis
+172.31.220.112,ActiveReservation,Davis Apts Unit 2-103h,Davis
+172.31.220.219,ActiveReservation,Davis Apts Unit 3,Davis
+172.31.221.11,Active,Davis Apts Unit 3-215,Davis
+172.31.221.13,Active,Davis Apts Unit 5-215,Davis
+172.31.221.131,ActiveReservation,Davis Apts Unit 8-103h,Davis
+172.31.221.207,Active,Davis Apts Unit 8-115,Davis
+72.233.136.6,InactiveReservation,ptr-dh-adm-vault-color,Demaray
+72.233.136.7,ActiveReservation,ptr-dh-gr-front,Demaray
+72.233.136.8,InactiveReservation,ptr-dh-gr-color,Demaray
+72.233.136.10,ActiveReservation,ptr-dh-sfs-stuemp,Demaray
+72.233.136.16,ActiveReservation,ptr-execprint,Demaray
+72.233.136.18,Active,SASSTU-S,Demaray
+72.233.136.20,InactiveReservation,ptr-admintern,Demaray
+72.233.136.22,Active,ADM-FRONT,Demaray
+72.233.136.23,ActiveReservation,sfstext,Demaray
+72.233.136.24,ActiveReservation,ptr-dh-sfs-sar5,Demaray
+72.233.136.29,Active,DH358,Demaray
+72.233.136.30,Active,SFS-LOAN-01,Demaray
+72.233.136.32,ActiveReservation,ptr-sas-orrtrans,Demaray
+72.233.136.33,InactiveReservation,ptr-sas-our4,Demaray
+72.233.136.41,Active,DH359,Demaray
+72.233.136.45,Active,DH259,Demaray
+72.233.136.49,Active,SFS-STUDENT8,Demaray
+72.233.136.51,Active,KIOSK-SFS-LOBBY,Demaray
+72.233.136.59,Active,SFS-STUDENT,Demaray
+72.233.136.78,Active,SFS-STUDENT5,Demaray
+72.233.136.84,Active,SFS-LOAN-03,Demaray
+72.233.136.85,Active,SFS-STUDENT3,Demaray
+72.233.136.87,Active,EXECSTU2,Demaray
+72.233.136.97,Active,GRAD-ADMISSIONS,Demaray
+72.233.136.100,Active,ADM1-N,Demaray
+72.233.136.103,Active,DH150,Demaray
+72.233.136.106,Active,EXEC-STU-03,Demaray
+72.233.136.110,Active,DH355,Demaray
+72.233.136.113,Active,SFSREP5,Demaray
+72.233.136.114,Active,SFSREP2,Demaray
+72.233.136.121,Active,DH255,Demaray
+72.233.136.122,Active,ADM-SCAN1,Demaray
+72.233.136.125,Active,KIOSK-SFS-02-N,Demaray
+72.233.136.132,Active,ADM-INTERN1,Demaray
+72.233.136.133,Active,SFS-OPS-COR2,Demaray
+72.233.136.135,Active,SFS-LOAN-02,Demaray
+72.233.136.138,Active,ADM-INTERN4,Demaray
+72.233.136.233,Active,KIOSK-SAS,Demaray
+72.233.136.234,Active,DH261-2,Demaray
+72.233.137.25,Active,ADM-INTERN-02,Demaray
+72.233.137.27,Active,DIADHIOUW,Demaray
+72.233.137.29,Active,SFSREP4,Demaray
+72.233.137.42,Active,SFS-INTERN,Demaray
+72.233.137.54,Active,KIOSK-SFS-01,Demaray
+72.233.137.57,Active,DH356,Demaray
+72.233.137.61,Active,SFS-COORD-01,Demaray
+72.233.137.66,Active,SAS-FRONT-02,Demaray
+72.233.137.67,Active,DH353,Demaray
+72.233.137.68,Active,DH354,Demaray
+72.233.137.80,Active,SFS-STUDENT2,Demaray
+72.233.137.88,Active,SAS-FRONT-01,Demaray
+72.233.137.89,Active,SFS-COORD-02,Demaray
+72.233.137.90,Active,DH360,Demaray
+72.233.137.100,Active,DH254,Demaray
+72.233.137.106,Active,DH261,Demaray
+172.16.128.44,Active,pstrip-servers-demaray01,Demaray
+172.31.255.23,InactiveReservation,ems-demaray-01,Demaray
+172.31.255.55,InactiveReservation,e911-adm,Demaray
+172.31.255.228,ActiveReservation,Power-DH-UPS01-MDF,Demaray
+172.31.255.229,ActiveReservation,Power-DH-UPS02-MDF,Demaray
+172.31.255.231,ActiveReservation,Power-DH-UPS03-MDF,Demaray
+172.31.255.253,ActiveReservation,netcam-demarayhall,Demaray
+172.31.240.25,ActiveReservation,mfp-dh-sfs-backofc,Demaray
+172.31.240.26,ActiveReservation,mfp-dh-sfs-front,Demaray
+172.31.240.27,ActiveReservation,mfp-dh110,Demaray
+172.31.240.28,ActiveReservation,mfp-dh115,Demaray
+172.31.240.29,ActiveReservation,mfp-dh152,Demaray
+172.31.240.30,ActiveReservation,mfp-dh153,Demaray
+172.31.240.31,ActiveReservation,mfp-dh-3rdfloor,Demaray
+172.31.240.32,ActiveReservation,mfp-dh-execofc,Demaray
+172.31.240.33,ActiveReservation,mfp-dh-obp,Demaray
+172.31.240.34,ActiveReservation,mfp-dh-odei,Demaray
+172.31.240.35,ActiveReservation,mfp-dh-gradctr,Demaray
+172.31.240.36,ActiveReservation,mfp-dh-obf,Demaray
+172.31.240.73,ActiveReservation,ptr-exec-aa,Demaray
+172.31.240.99,ActiveReservation,ptr-obf-exec-assistant,Demaray
+172.31.240.105,ActiveReservation,mfp-dh258,Demaray
+172.31.240.111,ActiveReservation,ptr-sfs-text,Demaray
+172.31.232.18,ActiveReservation,DH150-CONTROLLER,Demaray
+172.31.232.19,ActiveReservation,DH254-CONTROLLER,Demaray
+172.31.232.20,ActiveReservation,DH255-CONTROLLER,Demaray
+172.31.232.21,ActiveReservation,DH259-CONTROLLER,Demaray
+172.31.232.22,ActiveReservation,DH261-CONTROLLER,Demaray
+172.31.232.23,ActiveReservation,DH261-SWITCHER,Demaray
+172.31.232.24,ActiveReservation,DH353-CONTROLLER,Demaray
+172.31.232.25,ActiveReservation,DH354-CONTROLLER,Demaray
+172.31.232.26,ActiveReservation,DH355-CONTROLLER,Demaray
+172.31.232.27,ActiveReservation,DH356-CONTROLLER,Demaray
+172.31.232.28,ActiveReservation,DH358-CONTROLLER,Demaray
+172.31.232.29,ActiveReservation,DH359-CONTROLLER,Demaray
+172.31.232.30,ActiveReservation,DH360-CONTROLLER,Demaray
+172.31.232.107,ActiveReservation,EXECBOARDROOM-SWITCHER,Demaray
+172.31.232.108,ActiveReservation,EXECBOARDROOM-CONTROLLER,Demaray
+172.31.232.109,ActiveReservation,EXECBOARDROOM-TOUCHPANEL,Demaray
+172.31.232.149,ActiveReservation,dh353-switcher,Demaray
+172.31.217.206,ActiveReservation,4 Nickerson-Graduate Admissions Conf Room-115,Demaray
+172.31.217.252,ActiveReservation,Demaray 1-Jack-93-105,Demaray
+172.31.217.254,ActiveReservation,Demaray 1-Classroom 150-105,Demaray
+172.31.218.2,ActiveReservation,Demaray 1-SAS Office-105A,Demaray
+172.31.218.3,ActiveReservation,Demaray 1-Jack-223-105,Demaray
+172.31.218.4,ActiveReservation,Demaray B-Jack-117-105,Demaray
+172.31.218.5,ActiveReservation,Demaray B-MDF-105,Demaray
+172.31.218.6,ActiveReservation,Demaray 1-Office 153-115,Demaray
+172.31.218.7,ActiveReservation,Demaray 2-University Relations-105,Demaray
+172.31.218.8,ActiveReservation,Demaray 2-Executive AA-105,Demaray
+172.31.218.9,ActiveReservation,Demaray 2-Classroom 255-105,Demaray
+172.31.218.10,ActiveReservation,Demaray 2-OPA-115,Demaray
+172.31.218.11,ActiveReservation,Demaray 3-Classroom 356-105,Demaray
+172.31.218.12,ActiveReservation,Demaray 2-Classroom 261-105,Demaray
+172.31.218.37,Active,Demaray 2-Executive AA-305,Demaray
+172.31.218.52,Active,Demaray B-MDF-305,Demaray
+172.31.218.54,Active,Demaray B-Jack-117-305,Demaray
+172.31.218.55,Active,Demaray 1-Jack-223-305,Demaray
+172.31.218.56,Active,Demaray 1-SAS Office-305A,Demaray
+172.31.218.58,Active,Demaray 1-Lobby-305,Demaray
+172.31.218.59,Active,Demaray 2-Grad Center-305A,Demaray
+172.31.218.64,Active,Demaray 3-Classroom 356-305,Demaray
+172.31.218.66,Active,Demaray 2-Classroom 261-305,Demaray
+172.31.218.67,Active,Demaray 1-Classroom 150-305,Demaray
+172.31.221.42,Active,Demaray B-Jack-154-305,Demaray
+172.31.221.155,ActiveReservation,Demaray 1-Jack-118-105,Demaray
+172.31.221.156,ActiveReservation,Demaray B-Jack-154 -105,Demaray
+172.31.221.157,ActiveReservation,Demaray 1-Lobby-105,Demaray
+172.31.221.158,ActiveReservation,Demaray 2-Jack-101-105,Demaray
+172.31.221.159,ActiveReservation,Demaray 2-Grad Center-105B,Demaray
+172.31.221.160,ActiveReservation,Demaray 2-Grad Center-105A,Demaray
+172.31.221.161,ActiveReservation,Demaray 3-Jack-21-105,Demaray
+172.31.221.162,ActiveReservation,Demaray 3-Cassroom 359-115,Demaray
+172.31.221.163,ActiveReservation,Demaray 3-Classroom 354-115,Demaray
+172.31.221.164,ActiveReservation,Demaray 3-Jack-120-105,Demaray
+172.31.221.165,ActiveReservation,Demaray 2-Presidents Conference room-105,Demaray
+172.31.221.212,Active,Demaray 1-Jack-93-305,Demaray
+172.31.221.213,Active,Demaray 1-Jack-118-305,Demaray
+172.31.221.214,Active,Demaray 2-Grad Center-305B,Demaray
+172.31.221.215,Active,Demaray 2-University Relations-305,Demaray
+172.31.221.216,Active,Demaray 2-Jack-101-305,Demaray
+172.31.221.220,Active,Demaray 3-Jack-21-305,Demaray
+172.31.221.221,Active,Demaray 3-Jack-120-305,Demaray
+172.31.221.224,Active,Demaray 2-Presidents Conference room-305,Demaray
+172.31.221.225,Active,Demaray 2-Classroom 255-305,Demaray
+72.233.134.6,Active,EH26A-IS50,Eaton
+72.233.134.8,Active,EH321-01,Eaton
+72.233.134.12,InactiveReservation,eh-vdr01,Eaton
+72.233.134.13,Active,EH222,Eaton
+72.233.134.16,InactiveReservation,eh-vmh01,Eaton
+72.233.134.17,InactiveReservation,ehlicense1,Eaton
+72.233.134.18,ActiveReservation,ptr-sci-eh309,Eaton
+72.233.134.19,ActiveReservation,ptr-eh108,Eaton
+72.233.134.24,Active,EH223-01,Eaton
+72.233.134.25,Active,EH301-01,Eaton
+72.233.134.28,Active,EHB21-01,Eaton
+72.233.134.30,Active,EH231,Eaton
+72.233.134.31,Active,EH233,Eaton
+72.233.134.33,Active,EHB27-01,Eaton
+72.233.134.35,Active,mac-schofieldd,Eaton
+72.233.134.42,Active,EH318-01,Eaton
+72.233.134.43,Active,APPLETV-EH231,Eaton
+72.233.134.50,Active,EH330,Eaton
+72.233.134.57,Active,HVAC-SCIENCE,Eaton
+72.233.134.65,ActiveReservation,eaton-218-cam01,Eaton
+72.233.134.72,ActiveReservation,eaton-218-cam02,Eaton
+72.233.134.79,Active,EH126STOCKROOM,Eaton
+72.233.134.80,Active,EH131,Eaton
+72.233.134.134,Active,EH331,Eaton
+72.233.134.136,Active,EH131-Agilent,Eaton
+72.233.134.138,Active,EH333-IS5,Eaton
+72.233.134.139,Active,EHB25A-SEM,Eaton
+72.233.134.142,Active,EH205-WINCNTRL,Eaton
+72.233.134.144,Active,EH201-01,Eaton
+72.233.134.145,Active,EH134,Eaton
+72.233.134.146,Active,EH205-01,Eaton
+72.233.134.147,Active,EH133-01,Eaton
+72.233.134.148,Active,EH302-01,Eaton
+72.233.134.149,Active,EH112,Eaton
+72.233.134.151,Active,EH105-01,Eaton
+72.233.134.153,Active,EH322,Eaton
+72.233.134.158,Active,HYACINTH-N,Eaton
+72.233.134.159,Active,EH322,Eaton
+72.233.134.162,ActiveReservation,EH218-01,Eaton
+72.233.134.170,Active,EH232,Eaton
+72.233.134.171,Active,EH230,Eaton
+72.233.134.182,Active,EH332-01,Eaton
+72.233.134.190,Active,EH332-02,Eaton
+72.233.134.194,Active,EH212-01,Eaton
+72.233.131.19,Active,EIDEH,Eaton
+72.233.131.152,Active,WAREHOUSE3,Eaton
+72.233.136.107,Active,CYUEH,Eaton
+172.31.240.70,ActiveReservation,mfp-eh102,Eaton
+172.31.240.71,ActiveReservation,mfp-eh-lobby,Eaton
+172.31.240.80,InactiveReservation,MFP-EH-3rdFloor,Eaton
+172.31.232.55,ActiveReservation,EH231-CONTROLLER,Eaton
+172.31.232.56,ActiveReservation,EH231-AUDIOPROCES,Eaton
+172.31.232.57,ActiveReservation,EH231-SWITCHER,Eaton
+172.31.232.58,ActiveReservation,EH231-TOUCHPANEL,Eaton
+172.31.232.59,ActiveReservation,EH112-CONTROLLER,Eaton
+172.31.232.60,ActiveReservation,EH131-CONTROLLER,Eaton
+172.31.232.61,ActiveReservation,EH134-CONTROLLER,Eaton
+172.31.232.62,ActiveReservation,EH230-CONTROLLER,Eaton
+172.31.232.64,ActiveReservation,EH232-CONTROLLER,Eaton
+172.31.232.65,ActiveReservation,EH233-CONTROLLER,Eaton
+172.31.232.66,ActiveReservation,EH322-CONTROLLER,Eaton
+172.31.232.67,ActiveReservation,EH330-CONTROLLER,Eaton
+172.31.232.68,ActiveReservation,EH331-CONTROLLER,Eaton
+172.31.232.69,ActiveReservation,EH112-SWITCHER,Eaton
+172.31.232.70,ActiveReservation,EH322-SWITCHER,Eaton
+172.31.217.111,Active,Eaton 2-Room 207-305,Eaton
+172.31.217.231,ActiveReservation,Eaton-B-Room 20-105,Eaton
+172.31.217.232,ActiveReservation,Eaton-B-Room 15-105,Eaton
+172.31.217.233,ActiveReservation,Eaton-B-Room 27-105,Eaton
+172.31.217.234,ActiveReservation,Eaton 1-Room 101-105,Eaton
+172.31.217.235,ActiveReservation,Eaton 1-Room 103-105,Eaton
+172.31.217.236,ActiveReservation,Eaton 1-Room 105-105,Eaton
+172.31.217.237,ActiveReservation,Eaton 2-Room 232-105,Eaton
+172.31.217.238,ActiveReservation,Eaton 2-Room 230-105,Eaton
+172.31.217.239,ActiveReservation,Eaton 2-Room 218-115,Eaton
+172.31.217.240,ActiveReservation,Eaton 2-Room 223-105,Eaton
+172.31.217.241,ActiveReservation,Eaton 2-Room 205-105,Eaton
+172.31.217.242,ActiveReservation,Eaton 2-Room 233-105,Eaton
+172.31.217.243,ActiveReservation,Eaton 3-Room 318-115,Eaton
+172.31.217.244,ActiveReservation,Eaton 3-Room 301-105,Eaton
+172.31.217.245,ActiveReservation,Eaton 3-Room 305-105,Eaton
+172.31.217.246,ActiveReservation,Eaton 3-Room 322-105,Eaton
+172.31.217.247,ActiveReservation,Eaton 3-Room 309-105,Eaton
+172.31.217.248,ActiveReservation,Eaton 3-Room 333-105,Eaton
+172.31.217.249,ActiveReservation,Eaton 3-Room 330-105,Eaton
+172.31.217.250,ActiveReservation,Eaton 3-Room 303-105,Eaton
+172.31.218.81,Active,Eaton 1-Room 103-305,Eaton
+172.31.218.82,Active,Eaton 1-Room 112-305,Eaton
+172.31.218.83,Active,Eaton 2-Room 221-305,Eaton
+172.31.218.84,Active,Eaton 2-Room 201-305,Eaton
+172.31.218.85,Active,Eaton 1-Room 134-305,Eaton
+172.31.218.86,Active,Eaton 1-Room 101-305,Eaton
+172.31.218.87,Active,Eaton 1-Room 113-305,Eaton
+172.31.218.88,Active,Eaton 1-Room 107-305,Eaton
+172.31.218.89,Active,Eaton 2-Room 232-305,Eaton
+172.31.218.90,Active,Eaton 3-Room 322-305,Eaton
+172.31.218.91,Active,Eaton B-Room 15-305,Eaton
+172.31.218.92,Active,Eaton-B-Room 25-305,Eaton
+172.31.218.93,Active,Eaton-B-Room 27-305,Eaton
+172.31.218.94,Active,Eaton 3-Room 309-305,Eaton
+172.31.221.103,ActiveReservation,FOC 1-Warehouse-115,Eaton
+172.31.221.133,ActiveReservation,Eaton-B-Room 25-105,Eaton
+172.31.221.134,ActiveReservation,Eaton 1-Room 112-105,Eaton
+172.31.221.135,ActiveReservation,Eaton 1-Room 113-105,Eaton
+172.31.221.136,ActiveReservation,Eaton 1-Room 107-105,Eaton
+172.31.221.137,ActiveReservation,Eaton 1-Room 134-105,Eaton
+172.31.221.138,ActiveReservation,Eaton 1-Room 131-105,Eaton
+172.31.221.139,ActiveReservation,Eaton 1-Study Room-105,Eaton
+172.31.221.140,ActiveReservation,Eaton 2-Room 231-115,Eaton
+172.31.221.141,ActiveReservation,Eaton 2-Room 203-105,Eaton
+172.31.221.142,ActiveReservation,Eaton 2-Room 201-105,Eaton
+172.31.221.143,ActiveReservation,Eaton 2-Room 221-105,Eaton
+172.31.221.144,ActiveReservation,Eaton 2-Room 225-105,Eaton
+172.31.221.145,ActiveReservation,Eaton 2-Room 207-105,Eaton
+172.31.221.146,ActiveReservation,Eaton 3-Room 307-105,Eaton
+172.31.221.147,ActiveReservation,Eaton 3-Room 331-105,Eaton
+172.31.221.243,Active,Eaton 1-Study Room-305,Eaton
+172.31.221.244,Active,Eaton 2-Room 223-305,Eaton
+172.31.221.245,Active,Eaton 2-Room 205-305,Eaton
+172.31.221.246,Active,Eaton 1-Room 131-305,Eaton
+172.31.221.247,Active,Eaton 2-Room 230-305,Eaton
+172.31.221.248,Active,Eaton 1-Room 105-305,Eaton
+172.31.221.249,Active,Eaton 2-Room 233-305,Eaton
+172.31.221.250,Active,Eaton 2-Room 203-305,Eaton
+172.31.221.252,Active,Eaton 2-Room 225-305,Eaton
+172.31.221.253,Active,Eaton 3-Room 307-305,Eaton
+172.31.221.254,Active,Eaton 3-Room 305-305,Eaton
+172.31.222.1,Active,Eaton 3-Room 301-305,Eaton
+172.31.222.2,Active,Eaton B-Room 20-305,Eaton
+172.31.222.3,Active,Eaton 3-Room 330-305,Eaton
+172.31.222.4,Active,Eaton 3-Room 331-305,Eaton
+172.31.222.5,Active,Eaton 3-Room 333-305,Eaton
+172.31.222.6,Active,Eaton 3-Room 303-305,Eaton
+172.31.208.11,InactiveReservation,Power-Emerson-UPS01-1stMDF,Emerson
+172.31.208.12,ActiveReservation,Power-Emerson-UPS01-2ndIDF,Emerson
+172.31.208.13,ActiveReservation,Power-Emerson-UPS01-3rdIDF,Emerson
+172.31.208.14,InactiveReservation,Power-Emerson-UPS01-4thIDF,Emerson
+172.31.208.15,ActiveReservation,Power-Emerson-UPS01-5thIDF,Emerson
+172.31.255.28,InactiveReservation,laundry-controller-emerson,Emerson
+172.31.216.52,ActiveReservation,Emerson 4-Room 476-115,Emerson
+172.31.216.63,ActiveReservation,Emerson 3-Room 378-115,Emerson
+172.31.216.138,ActiveReservation,Emerson 3-Room 304-115,Emerson
+172.31.216.141,ActiveReservation,Emerson 2-Room 274-115,Emerson
+172.31.216.142,ActiveReservation,Emerson 3-Room 317-115,Emerson
+172.31.216.144,ActiveReservation,Emerson 2-Room 273-115,Emerson
+172.31.216.145,ActiveReservation,Emerson 1-Room 121-115,Emerson
+172.31.216.146,ActiveReservation,Emerson 1-Room 125-115,Emerson
+172.31.216.147,ActiveReservation,Emerson 1-Room 105-115,Emerson
+172.31.216.148,ActiveReservation,Emerson 1-Room 104-115,Emerson
+172.31.216.151,ActiveReservation,Emerson 1-Room 112-115,Emerson
+172.31.216.158,ActiveReservation,Emerson 1-Room 108-115,Emerson
+172.31.216.159,ActiveReservation,Emerson 1-Room 116-115,Emerson
+172.31.216.160,ActiveReservation,Emerson 1-Room 120-115,Emerson
+172.31.216.161,ActiveReservation,Emerson 1-Room 124-115,Emerson
+172.31.216.162,ActiveReservation,Emerson 1-Room 128-115,Emerson
+172.31.216.163,ActiveReservation,Emerson 1-Room 140-115,Emerson
+172.31.216.164,ActiveReservation,Emerson 1-Room 164-115,Emerson
+172.31.216.165,ActiveReservation,Emerson 1-Main Lounge-115,Emerson
+172.31.216.166,ActiveReservation,Emerson 1-Room 136-115,Emerson
+172.31.216.169,ActiveReservation,Emerson 2-Room 242-115,Emerson
+172.31.216.170,ActiveReservation,Emerson 3-Room 340-115,Emerson
+172.31.216.171,ActiveReservation,Emerson 3-Room 303-115,Emerson
+172.31.216.172,ActiveReservation,Emerson 2-Room 231-115,Emerson
+172.31.216.174,ActiveReservation,Emerson 2-Room 261-115,Emerson
+172.31.216.175,ActiveReservation,Emerson 2-Room 226-115,Emerson
+172.31.216.194,ActiveReservation,Emerson 3-Room 305-115,Emerson
+172.31.216.209,ActiveReservation,Emerson 2-Room 225-115,Emerson
+172.31.216.250,ActiveReservation,Emerson 2-Room 276-115,Emerson
+172.31.217.8,ActiveReservation,Emerson 2-Room 260-115,Emerson
+172.31.217.11,ActiveReservation,Emerson 2-Room 235-115,Emerson
+172.31.217.22,ActiveReservation,Emerson 2-Room 234-115,Emerson
+172.31.217.25,ActiveReservation,Emerson 2-Room 206-115,Emerson
+172.31.217.28,ActiveReservation,Emerson 3-Room 336-115,Emerson
+172.31.217.30,ActiveReservation,Emerson 2-Room 251-115,Emerson
+172.31.217.31,ActiveReservation,Emerson 2-Room 259-115,Emerson
+172.31.217.32,ActiveReservation,Emerson 5-Room 563-115,Emerson
+172.31.217.33,ActiveReservation,Emerson 2-Room 275-115,Emerson
+172.31.217.48,ActiveReservation,Emerson 4-Room 423-115,Emerson
+172.31.217.67,ActiveReservation,Emerson 3-Room 329-115,Emerson
+172.31.217.68,ActiveReservation,Emerson 2-Room 246-115-1,Emerson
+172.31.217.70,ActiveReservation,Emerson 2-Room 246-115,Emerson
+172.31.217.76,ActiveReservation,Emerson 2-Room 221-115,Emerson
+172.31.217.77,ActiveReservation,Emerson 1-Room 132-115,Emerson
+172.31.217.79,ActiveReservation,Emerson 3-Room 361-115,Emerson
+172.31.217.83,ActiveReservation,Emerson 4-Room 434-115,Emerson
+172.31.217.85,ActiveReservation,Emerson 3-Room 344-115,Emerson
+172.31.217.86,ActiveReservation,Emerson 3-Room 358-115,Emerson
+172.31.217.87,ActiveReservation,Emerson 4-Room 419-115,Emerson
+172.31.217.88,ActiveReservation,Emerson 3-Room 366-115,Emerson
+172.31.217.89,ActiveReservation,Emerson 3-Room 375-115,Emerson
+172.31.217.90,ActiveReservation,Emerson 3-Room 320-115,Emerson
+172.31.217.91,ActiveReservation,Emerson 3-Room 376-115,Emerson
+172.31.217.92,ActiveReservation,Emerson 2-Room 203-115,Emerson
+172.31.217.93,ActiveReservation,Emerson 3-Room 337-115,Emerson
+172.31.217.94,ActiveReservation,Emerson 3-Room 353-115,Emerson
+172.31.217.95,ActiveReservation,Emerson 3-Room 350-115,Emerson
+172.31.217.96,ActiveReservation,Emerson 3-Room 323-115,Emerson
+172.31.217.97,ActiveReservation,Emerson 3-Room 365-115,Emerson
+172.31.217.101,ActiveReservation,Emerson 5-Room 551-115,Emerson
+172.31.217.102,ActiveReservation,Emerson 2-Room 230-115,Emerson
+172.31.217.104,ActiveReservation,Emerson 2-Room 278-115,Emerson
+172.31.217.105,ActiveReservation,Emerson 2-Room 238-115,Emerson
+172.31.217.106,ActiveReservation,Emerson 3-Room 324-115,Emerson
+172.31.217.107,ActiveReservation,Emerson 2-Room 222-115,Emerson
+172.31.217.108,ActiveReservation,Emerson 2-Room 210-115,Emerson
+172.31.217.109,ActiveReservation,Emerson 1-RLC 144-115,Emerson
+172.31.217.148,ActiveReservation,Emerson 4-Room 467-115,Emerson
+172.31.217.151,ActiveReservation,Emerson 4-Room 433-115,Emerson
+172.31.217.153,ActiveReservation,Emerson 4-Room 468-115,Emerson
+172.31.217.154,ActiveReservation,Emerson 4-Room 460-115,Emerson
+172.31.217.157,ActiveReservation,Emerson 4-Room 475-115,Emerson
+172.31.217.158,ActiveReservation,Emerson 4-Room 422-115,Emerson
+172.31.217.159,ActiveReservation,Emerson 4-Room 426-115,Emerson
+172.31.217.160,ActiveReservation,Emerson 4-Room 430-115,Emerson
+172.31.217.163,ActiveReservation,Emerson 4-Room 414-115,Emerson
+172.31.217.164,ActiveReservation,Emerson 4-Room 418-115,Emerson
+172.31.217.167,ActiveReservation,Emerson 3-Room 377-115,Emerson
+172.31.217.169,ActiveReservation,Emerson 4-Room 470-115,Emerson
+172.31.217.213,ActiveReservation,Emerson 4-Room 403-115,Emerson
+172.31.218.18,ActiveReservation,Emerson 2-Room 217-115,Emerson
+172.31.218.50,Active,Emerson 4-Room 438-115,Emerson
+172.31.218.152,Active,Emerson 1-Room 104-215,Emerson
+172.31.218.181,Active,605 W,Emerson
+172.31.220.86,ActiveReservation,Emerson 1-Room 101-115,Emerson
+172.31.220.87,ActiveReservation,Emerson 2-Room 267-115,Emerson
+172.31.220.88,ActiveReservation,Emerson 1-Room 150-115,Emerson
+172.31.220.89,ActiveReservation,Emerson 2-Room 239-115,Emerson
+172.31.220.90,ActiveReservation,Emerson 2-Room 264-115,Emerson
+172.31.220.92,ActiveReservation,Emerson 2-Room 277-115,Emerson
+172.31.220.100,ActiveReservation,Emerson 2-Room 218-115,Emerson
+172.31.220.101,ActiveReservation,Emerson 2-Room 214-115,Emerson
+172.31.220.102,ActiveReservation,Emerson 2-Room 202-115,Emerson
+172.31.220.109,ActiveReservation,Emerson 1-Room 159-115,Emerson
+172.31.220.196,ActiveReservation,Emerson 4-Room 464-115,Emerson
+172.31.220.200,ActiveReservation,Emerson 4-Room 463-115,Emerson
+172.31.220.201,ActiveReservation,Emerson 5-Room 574-115,Emerson
+172.31.220.246,ActiveReservation,Emerson 3-Room 332-115,Emerson
+172.31.221.3,ActiveReservation,Emerson 3-Room 306-115,Emerson
+172.31.221.4,ActiveReservation,Emerson 5-Room 568-115,Emerson
+172.31.221.6,ActiveReservation,Emerson 4-Room 451-115,Emerson
+172.31.221.8,ActiveReservation,Emerson 3-Room 328-115,Emerson
+172.31.221.10,ActiveReservation,Emerson 3-Room 373-115,Emerson
+172.31.221.12,ActiveReservation,Emerson 3-Room 357-115,Emerson
+172.31.221.15,ActiveReservation,Emerson 5-Room 558-115,Emerson
+172.31.221.16,ActiveReservation,Emerson 5-Room 575-115,Emerson
+172.31.221.17,ActiveReservation,Emerson 5-Room 564-115,Emerson
+172.31.221.18,ActiveReservation,Emerson 5-Room 559-115,Emerson
+172.31.221.19,ActiveReservation,Emerson 5-Room 567-115,Emerson
+172.31.221.20,ActiveReservation,Emerson 5-Room 573-115,Emerson
+172.31.221.21,ActiveReservation,Emerson 5-Room 555-115,Emerson
+172.31.221.22,ActiveReservation,Emerson 5-Room 550-115,Emerson
+172.31.221.38,ActiveReservation,Emerson 4-Room 455-115,Emerson
+172.31.221.39,ActiveReservation,Emerson 4-Room 404-115,Emerson
+172.31.221.40,ActiveReservation,Emerson 1-Room 142-115,Emerson
+172.31.221.41,ActiveReservation,Emerson 4-Room 459-115,Emerson
+172.31.221.43,ActiveReservation,Emerson 4-Room 440-115,Emerson
+172.31.221.187,ActiveReservation,Emerson 3-Room 316-115,Emerson
+172.31.221.193,ActiveReservation,Emerson 3-Room 310-115,Emerson
+172.31.221.195,ActiveReservation,Emerson 2-Room 255-115,Emerson
+172.31.221.206,ActiveReservation,Emerson 3-Room 369-115,Emerson
+172.31.222.17,Active,605 W,Emerson
+172.31.217.51,ActiveReservation,FalconRoom-301,Falcon Apartments
+172.31.217.55,ActiveReservation,FalconRoom-103,Falcon Apartments
+172.31.217.56,ActiveReservation,FalconRoom-104,Falcon Apartments
+172.31.218.137,Active,FalconRoom-104-305,Falcon Apartments
+172.31.218.138,Active,FalconRoom-301-305,Falcon Apartments
+172.31.220.232,ActiveReservation,FalconRoom-202,Falcon Apartments
+172.31.220.236,ActiveReservation,FalconRoom-303,Falcon Apartments
+172.31.220.237,ActiveReservation,FalconRoom-304,Falcon Apartments
+172.31.220.239,ActiveReservation,FalconRoom-101,Falcon Apartments
+172.31.222.65,Active,FalconRoom-101-305,Falcon Apartments
+172.31.222.66,Active,FalconRoom-103-305,Falcon Apartments
+172.31.222.67,Active,FalconRoom-202-305,Falcon Apartments
+172.31.222.68,Active,FalconRoom-303-305,Falcon Apartments
+172.31.222.69,Active,FalconRoom-304-305,Falcon Apartments
+72.233.129.15,ActiveReservation,ptr-falcon-news,Falcon Newspaper
+72.233.129.27,ActiveReservation,falcononline,Falcon Newspaper
+72.233.129.28,InactiveReservation,falconscribe1,Falcon Newspaper
+72.233.129.56,Active,FALCON7,Falcon Newspaper
+72.233.129.190,Active,FALCON6,Falcon Newspaper
+172.31.255.224,ActiveReservation,Power-FalconApts-UPS01-MDF,Falcon Newspaper
+172.31.218.19,Active,Falcon 4 Plex-3473-215,Falcon Newspaper
+172.31.218.65,Active,Falcon 4 Plex-3469-215,Falcon Newspaper
+172.31.221.110,ActiveReservation,Falcon Newspaper-105,Falcon Newspaper
+172.31.221.191,ActiveReservation,Falcon 4 Plex-3469-105,Falcon Newspaper
+172.31.222.76,Active,Falcon Newspaper-305,Falcon Newspaper
+72.233.129.104,Active,MHUGHES,Gwinn Commons
+72.233.129.193,Active,D25SF0QUGQ17,Gwinn Commons
+72.233.130.28,ActiveReservation,Gwinn 3-Presidents Dining-105,Gwinn Commons
+72.233.130.39,InactiveReservation,ptr-gwinn-01,Gwinn Commons
+72.233.130.41,InactiveReservation,ptr-gwinn-02,Gwinn Commons
+72.233.130.75,Active,UG-QA,Gwinn Commons
+72.233.130.153,ActiveReservation,Gwinn 3E-Queen Anne Room-135,Gwinn Commons
+72.233.130.192,Active,UG-CASCADE,Gwinn Commons
+72.233.191.17,Active,DESKTOP-9SEIUG1,Gwinn Commons
+172.31.255.27,InactiveReservation,pltems-gwinn,Gwinn Commons
+172.31.255.62,InactiveReservation,audiaflex-gwinn,Gwinn Commons
+172.31.232.125,ActiveReservation,PDR-TOUCHPANEL,Gwinn Commons
+172.31.232.126,ActiveReservation,PDR-SWITCHER,Gwinn Commons
+172.31.232.127,ActiveReservation,PDR-CONTROLLER,Gwinn Commons
+172.31.232.132,InactiveReservation,ug-audioprocessorug-audioprocessor,Gwinn Commons
+172.31.232.133,ActiveReservation,ug-qa-touchpanel,Gwinn Commons
+172.31.232.134,ActiveReservation,ug-ca-touchpanel,Gwinn Commons
+172.31.232.135,ActiveReservation,ug-foyer-touchpanel,Gwinn Commons
+172.31.232.136,InactiveReservation,ug-relay1ug-relay1,Gwinn Commons
+172.31.232.137,InactiveReservation,ug-relay2ug-relay2,Gwinn Commons
+172.31.232.138,ActiveReservation,ug-relay3,Gwinn Commons
+172.31.232.139,ActiveReservation,ug-relay4,Gwinn Commons
+172.31.232.140,ActiveReservation,ug-switcher,Gwinn Commons
+172.31.232.141,ActiveReservation,ug-controller1,Gwinn Commons
+172.31.232.142,ActiveReservation,ug-controller2,Gwinn Commons
+172.31.218.20,Active,Gwinn 2S-Dining-215,Gwinn Commons
+172.31.218.24,Active,Gwinn 2N-Dining-215,Gwinn Commons
+172.31.218.36,ActiveReservation,Gwinn 3W-Queen Anne Room-135,Gwinn Commons
+172.31.218.38,ActiveReservation,Gwinn 2S-Dining-135,Gwinn Commons
+172.31.218.39,ActiveReservation,Gwinn 2N-Dining-135,Gwinn Commons
+172.31.221.170,ActiveReservation,Gwinn 2-Kitchen-105,Gwinn Commons
+172.31.221.186,ActiveReservation,Gwinn 1-CStore-105,Gwinn Commons
+72.233.130.87,ActiveReservation,ptr-rlc-hill,Hill
+72.233.190.5,ActiveReservation,ptr-rlc-hill,Hill
+172.31.208.16,ActiveReservation,Power-Hill-UPS01-MDF,Hill
+172.31.208.17,ActiveReservation,Power-Hill-UPS01-3rdIDF,Hill
+172.31.208.18,ActiveReservation,Power-Hill-UPS01-4thIDF,Hill
+172.31.255.45,InactiveReservation,laundry-controller-hill-women,Hill
+172.31.255.46,InactiveReservation,laundry-controller-hill-men,Hill
+172.31.216.13,ActiveReservation,Hill 1-Rm 175-115,Hill
+172.31.216.18,ActiveReservation,Hill 3-Room 302-115,Hill
+172.31.216.20,ActiveReservation,Hill 3-Room 335-115,Hill
+172.31.216.21,ActiveReservation,Hill 4-Room 404-115,Hill
+172.31.216.24,ActiveReservation,Hill 4-Room 433-115,Hill
+172.31.216.25,ActiveReservation,Hill 3-Room 306-115,Hill
+172.31.216.26,ActiveReservation,Hill 6-Room 641-115,Hill
+172.31.216.27,ActiveReservation,Hill 4-Room 425-115,Hill
+172.31.216.28,ActiveReservation,Hill 4-Room 438-115,Hill
+172.31.216.29,ActiveReservation,Hill 5-Room 503-115,Hill
+172.31.216.30,ActiveReservation,Hill 6-Room 621-115,Hill
+172.31.216.31,ActiveReservation,Hill 6-Room 625-115,Hill
+172.31.216.32,ActiveReservation,Hill 6-Room 634-115,Hill
+172.31.216.33,ActiveReservation,Hill 6-Room 637-115,Hill
+172.31.216.35,ActiveReservation,Hill 6-Room 638-115,Hill
+172.31.216.57,ActiveReservation,Hill 2-REX Jack 9-105,Hill
+172.31.216.110,ActiveReservation,Hill 1-Rm RLC BR1-115,Hill
+172.31.216.126,ActiveReservation,Hill 5-Room 568-115,Hill
+172.31.216.133,ActiveReservation,Hill 3-Room 368-115,Hill
+172.31.216.136,ActiveReservation,Hill 3-Room 336-115,Hill
+172.31.216.180,ActiveReservation,Hill 1-Rm 174-115,Hill
+172.31.216.181,ActiveReservation,Hill 1-Rm 178-115,Hill
+172.31.216.182,ActiveReservation,Hill 2-Room 261-115,Hill
+172.31.216.183,ActiveReservation,Hill 2-Room 260-115,Hill
+172.31.216.184,ActiveReservation,Hill 2-Room 265-115,Hill
+172.31.216.185,ActiveReservation,Hill 2-Room 268-115,Hill
+172.31.216.186,ActiveReservation,Hill 2-Room 277-115,Hill
+172.31.216.187,ActiveReservation,Hill 2-Room 276-115,Hill
+172.31.216.188,ActiveReservation,Hill 3-Room 360-115,Hill
+172.31.216.189,ActiveReservation,Hill 3-Room 351-115,Hill
+172.31.216.190,ActiveReservation,Hill 3-Room 354-115,Hill
+172.31.216.191,ActiveReservation,Hill 2-Room 273-115,Hill
+172.31.216.192,ActiveReservation,Hill 3-Room 365-115,Hill
+172.31.216.193,ActiveReservation,Hill 3-Room 361-115,Hill
+172.31.216.195,ActiveReservation,Hill 3-Room 375-115,Hill
+172.31.216.196,ActiveReservation,Hill 3-Room 378-115,Hill
+172.31.216.198,ActiveReservation,Hill 4-Room 454-115,Hill
+172.31.216.199,ActiveReservation,Hill 4-Room 467-115,Hill
+172.31.216.200,ActiveReservation,Hill 4-Room 466-115,Hill
+172.31.216.201,ActiveReservation,Hill 4-Room 463-115,Hill
+172.31.216.202,ActiveReservation,Hill 4-Room 476-115,Hill
+172.31.216.203,ActiveReservation,Hill 4-Room 472-115,Hill
+172.31.216.204,ActiveReservation,Hill 5-Room 552-115,Hill
+172.31.216.205,ActiveReservation,Hill 5-Room 553-115,Hill
+172.31.216.206,ActiveReservation,Hill 5-Room 556-115,Hill
+172.31.216.207,ActiveReservation,Hill 5-Room 564-115,Hill
+172.31.216.208,ActiveReservation,Hill 5-Room 560-115,Hill
+172.31.216.210,ActiveReservation,Hill 5-Room 565-115,Hill
+172.31.216.212,ActiveReservation,Hill 2-Room 256-115,Hill
+172.31.216.213,ActiveReservation,Hill 5-Room 526-115,Hill
+172.31.216.214,ActiveReservation,Hill 5-Room 523-115,Hill
+172.31.216.216,ActiveReservation,Hill 5-Room 531-115,Hill
+172.31.216.217,ActiveReservation,Hill 5-Room 539-115,Hill
+172.31.216.218,ActiveReservation,Hill 5-Room 532-115,Hill
+172.31.216.226,ActiveReservation,Hillford 1-Garage MDF-105,Hill
+172.31.217.4,ActiveReservation,Hill 5-Room 536-115,Hill
+172.31.217.21,ActiveReservation,Hill 3-Jack 5-Lobby-105,Hill
+172.31.217.23,ActiveReservation,Hill 6-Room 601-115,Hill
+172.31.217.26,ActiveReservation,Hill 3-Room 350-115,Hill
+172.31.217.81,ActiveReservation,Hill 6-Room 624-115,Hill
+172.31.217.82,ActiveReservation,Hill 1-Jack 1-105,Hill
+172.31.220.27,ActiveReservation,Hill 1-Rm RLC LR-115,Hill
+172.31.220.29,ActiveReservation,Hill 4-Room 401-115,Hill
+172.31.220.30,ActiveReservation,Hill 4-Room 477-115,Hill
+172.31.220.31,ActiveReservation,Hill 4-Room 434-115,Hill
+172.31.220.32,ActiveReservation,Hill 5-Room 575-115,Hill
+172.31.220.33,ActiveReservation,Hill 6-Room 620-115,Hill
+172.31.220.34,ActiveReservation,Hill 6-Room 604-115,Hill
+172.31.220.35,ActiveReservation,Hill 4-Room 441-115,Hill
+172.31.220.36,ActiveReservation,Hill 6-Room 633-115,Hill
+172.31.220.37,ActiveReservation,Hill 4-Room 421-115,Hill
+172.31.220.41,ActiveReservation,Hill 5-Room 506-115,Hill
+172.31.220.51,ActiveReservation,Hill 4-Room 451-115,Hill
+172.31.220.69,ActiveReservation,Hill 1-Rm 171-115,Hill
+172.31.220.91,ActiveReservation,Hill 5-Room 522-115,Hill
+172.31.220.93,ActiveReservation,Hill 5-Room 502-115,Hill
+172.31.220.94,ActiveReservation,Hill 3-Room 332-115,Hill
+172.31.220.103,ActiveReservation,Hill 5-Room 571-115,Hill
+172.31.220.113,ActiveReservation,Hill 2-Room 264-115,Hill
+172.31.220.114,ActiveReservation,Hill 2-Room 272-115,Hill
+172.31.220.115,ActiveReservation,Hill 3-Room 364-115,Hill
+172.31.220.116,ActiveReservation,Hill 3-Room 371-115,Hill
+172.31.220.117,ActiveReservation,Hill 3-Room 374-115,Hill
+172.31.220.118,ActiveReservation,Hill 4-Room 462-115,Hill
+172.31.220.119,ActiveReservation,Hill 6-Room 630-115,Hill
+172.31.220.120,ActiveReservation,Hill 4-Room 473-115,Hill
+172.31.220.121,ActiveReservation,Hill 5-Room 540-115,Hill
+172.31.220.122,ActiveReservation,Hill 3-Jack 6-105,Hill
+172.31.220.123,ActiveReservation,Hill 5-Room 535-115,Hill
+172.31.220.125,ActiveReservation,Hill 2-Room 253-115,Hill
+172.31.220.134,ActiveReservation,Hillford 0-Basement-105,Hill
+172.31.220.243,ActiveReservation,Hill 3-Room 340-115,Hill
+172.31.220.254,ActiveReservation,Hill 5-Room 578-115,Hill
+172.31.221.5,ActiveReservation,Hill 5-Room 574-115,Hill
+172.31.221.197,ActiveReservation,Hill 4-Room 437-115,Hill
+172.31.221.198,ActiveReservation,Hill 5-Room 561-115,Hill
+172.31.221.200,ActiveReservation,Hill 4-Room 430-115,Hill
+172.31.221.202,ActiveReservation,Hill 5-Jack 87-RLC Apt,Hill
+172.31.222.8,Active,Hill 2-REX Jack 9-305,Hill
+172.31.222.9,Active,Hill 1-Jack 1-305,Hill
+172.31.222.39,Active,Hillford 1-Garage MDF-305,Hill
+172.31.222.40,Active,Hillford 0-Basement-305,Hill
+172.31.222.80,Active,Hill 5-Jack 87-RLC Apt-305,Hill
+72.233.129.148,Active,SMITHCHRISR,Human Resources
+72.233.129.153,Active,HR-STU-02,Human Resources
+72.233.129.219,Active,CHRISREED,Human Resources
+72.233.135.21,Active,CHRISTYBARNES,Human Resources
+172.31.255.91,InactiveReservation,hvac-router-hr,Human Resources
+172.31.240.39,ActiveReservation,mfp-hr,Human Resources
+172.31.218.149,Active,HR 1-Main Entrance-305,Human Resources
+172.31.220.104,ActiveReservation,HR 1-Main Entrance-105,Human Resources
+72.233.138.21,Active,IMAGE1,Image
+72.233.138.24,InactiveReservation,ptr-image01,Image
+72.233.138.108,Active,IMAGE2,Image
+172.31.240.95,ActiveReservation,mfp-image,Image
+72.233.129.68,Active,MAILING,Mailing Services
+72.233.129.140,Active,Outdoor-Mailing-AP275,Mailing Services
+72.233.129.141,Active,MAILINGMETER,Mailing Services
+72.233.129.175,Active,KIOSK-MAIL,Mailing Services
+172.31.255.48,InactiveReservation,epic-mailing-services,Mailing Services
+172.31.240.44,ActiveReservation,mfp-mailing,Mailing Services
+172.31.218.45,ActiveReservation,Mailing Center,Mailing Services
+172.31.218.144,Active,Mailing Center-305,Mailing Services
+72.233.140.11,InactiveReservation,ptr-marston111,Marston/Watson
+72.233.140.15,Active,SCCWATSON146,Marston/Watson
+72.233.140.16,Active,SCCWATSON141,Marston/Watson
+72.233.140.17,Active,MW253,Marston/Watson
+72.233.140.18,Active,MW3-11,Marston/Watson
+72.233.140.22,Active,MW3-04,Marston/Watson
+72.233.140.28,Active,MW255,Marston/Watson
+72.233.140.32,Active,MW3-01,Marston/Watson
+72.233.140.33,Active,SCCWATSON140,Marston/Watson
+72.233.140.35,Active,MW3-09,Marston/Watson
+72.233.140.38,Active,MW3-27,Marston/Watson
+72.233.140.40,Active,MW244-ADJUNCT,Marston/Watson
+72.233.140.42,Active,MW3-02,Marston/Watson
+72.233.140.43,Active,SCCWATSON138,Marston/Watson
+72.233.140.47,Active,MW3-22,Marston/Watson
+72.233.140.52,Active,MW3-18,Marston/Watson
+72.233.140.55,Active,MW3-17,Marston/Watson
+72.233.140.57,Active,MW3-26,Marston/Watson
+72.233.140.59,Active,MW3-08,Marston/Watson
+72.233.140.62,Active,MW3-15,Marston/Watson
+72.233.140.65,Active,MW3-23,Marston/Watson
+72.233.140.67,Active,MW3-05,Marston/Watson
+72.233.140.79,Active,MW3-20,Marston/Watson
+72.233.140.81,Active,SCCWATSON151,Marston/Watson
+72.233.140.158,Active,MW56,Marston/Watson
+72.233.140.160,Active,SCCWATSON139,Marston/Watson
+72.233.140.167,Active,MW3-07,Marston/Watson
+72.233.140.169,Active,MARSTON248,Marston/Watson
+72.233.140.171,Active,MW3-24,Marston/Watson
+72.233.140.173,Active,MW3-13,Marston/Watson
+72.233.140.175,Active,SCCWATSON143,Marston/Watson
+72.233.140.177,Active,MW3-19,Marston/Watson
+72.233.140.178,Active,MW3-21,Marston/Watson
+72.233.140.181,Active,MW3-16,Marston/Watson
+72.233.140.186,Active,MW3-06,Marston/Watson
+72.233.140.192,Active,MW3-28,Marston/Watson
+72.233.140.196,Active,MW3-14,Marston/Watson
+72.233.140.202,Active,SCCWATSON142,Marston/Watson
+72.233.140.210,Active,MW3-10,Marston/Watson
+72.233.140.212,Active,MW3-25,Marston/Watson
+72.233.140.230,Active,MW3,Marston/Watson
+72.233.130.21,InactiveReservation,sdxspu-server,Marston/Watson
+72.233.130.29,InactiveReservation,cbordserver,Marston/Watson
+172.31.255.87,InactiveReservation,hvac-router-marston,Marston/Watson
+172.31.255.135,InactiveReservation,hvac-router-lower-watson,Marston/Watson
+172.31.216.11,ActiveReservation,Marston B-TSS S-105,Marston/Watson
+172.31.216.19,ActiveReservation,Marston B-CIS S-225,Marston/Watson
+172.31.216.39,ActiveReservation,Marston 1-139-115,Marston/Watson
+172.31.240.40,ActiveReservation,mfp-marston-cis-staff,Marston/Watson
+172.31.240.41,ActiveReservation,MFP-Marston-CIS,Marston/Watson
+172.31.240.43,ActiveReservation,mfp-marston-scc,Marston/Watson
+172.31.240.45,ActiveReservation,mfp-marston126,Marston/Watson
+172.31.240.46,ActiveReservation,mfp-marston227,Marston/Watson
+172.31.240.47,ActiveReservation,mfp-marston210,Marston/Watson
+172.31.240.101,ActiveReservation,ptr-marwat-b41,Marston/Watson
+172.31.240.114,ActiveReservation,mfp-watson-breezeway,Marston/Watson
+172.31.241.228,ActiveReservation,LW Print Server,Marston/Watson
+172.31.232.11,ActiveReservation,MW3-CONTROLLER,Marston/Watson
+172.31.232.12,ActiveReservation,MW56-CONTROLLER,Marston/Watson
+172.31.232.105,ActiveReservation,MW253-CONTROLLER,Marston/Watson
+172.31.232.106,ActiveReservation,MW255-CONTROLLER,Marston/Watson
+172.31.232.110,ActiveReservation,MW253-SWITCHER,Marston/Watson
+172.31.232.111,ActiveReservation,MW255-SWITCHER,Marston/Watson
+172.31.232.156,ActiveReservation,mw5-touchpanel,Marston/Watson
+172.31.232.157,ActiveReservation,mw5-controller,Marston/Watson
+172.31.232.158,ActiveReservation,mw5-switcher,Marston/Watson
+172.31.217.54,ActiveReservation,Marston 3-304-115,Marston/Watson
+172.31.217.113,ActiveReservation,Marston 1-135-115,Marston/Watson
+172.31.217.114,ActiveReservation,Marston 1-104-115,Marston/Watson
+172.31.217.115,ActiveReservation,Marston 1-106-115,Marston/Watson
+172.31.217.116,ActiveReservation,Marston 1-116-115,Marston/Watson
+172.31.217.117,ActiveReservation,Marston 1-120-115,Marston/Watson
+172.31.217.118,ActiveReservation,Marston 2-206-115,Marston/Watson
+172.31.217.119,ActiveReservation,Marston 2-210-115,Marston/Watson
+172.31.217.120,ActiveReservation,Marston 2-214-115,Marston/Watson
+172.31.217.121,ActiveReservation,Marston 2-218-115,Marston/Watson
+172.31.217.123,ActiveReservation,Marston 1-115-115,Marston/Watson
+172.31.217.124,ActiveReservation,Marston 1-119-115,Marston/Watson
+172.31.217.125,ActiveReservation,Marston 2-207-115,Marston/Watson
+172.31.217.126,ActiveReservation,Marston 2-215-115,Marston/Watson
+172.31.217.128,ActiveReservation,Marston 2-211-115,Marston/Watson
+172.31.217.129,ActiveReservation,Marston 1-125-115,Marston/Watson
+172.31.217.130,ActiveReservation,Marston 2-226-115,Marston/Watson
+172.31.217.131,ActiveReservation,Marston 2-230-115,Marston/Watson
+172.31.217.132,ActiveReservation,Marston 2-234-115,Marston/Watson
+172.31.217.133,ActiveReservation,Marston 2-238-115,Marston/Watson
+172.31.217.134,ActiveReservation,Marston 1-124-115,Marston/Watson
+172.31.217.135,ActiveReservation,Marston 2-233-115,Marston/Watson
+172.31.217.136,ActiveReservation,Marston 3-315-115,Marston/Watson
+172.31.217.137,ActiveReservation,Marston 3-312-115,Marston/Watson
+172.31.217.138,ActiveReservation,Marston 3-316-115,Marston/Watson
+172.31.217.139,ActiveReservation,Marston 2-244-115,Marston/Watson
+172.31.217.140,ActiveReservation,Marston 2-254-115,Marston/Watson
+172.31.217.141,ActiveReservation,Marston 2-256-115,Marston/Watson
+172.31.217.142,ActiveReservation,Marston 2-258-115,Marston/Watson
+172.31.217.143,ActiveReservation,Marston 2-249-115,Marston/Watson
+172.31.217.144,ActiveReservation,Marston 2-245-115,Marston/Watson
+172.31.217.145,ActiveReservation,Marston 1-149-115,Marston/Watson
+172.31.217.146,ActiveReservation,Marston B-B42-115,Marston/Watson
+172.31.217.147,ActiveReservation,Marston B-MW5/6-115,Marston/Watson
+172.31.217.166,ActiveReservation,Marston 3-320-115,Marston/Watson
+172.31.217.170,ActiveReservation,Marston 3-327-115,Marston/Watson
+172.31.217.171,ActiveReservation,Marston 3-335-115,Marston/Watson
+172.31.217.172,ActiveReservation,Marston 3-337-115,Marston/Watson
+172.31.217.173,ActiveReservation,Marston 3-332-115,Marston/Watson
+172.31.217.174,ActiveReservation,Marston 3-336-115,Marston/Watson
+172.31.217.175,ActiveReservation,Marston 3-318-115,Marston/Watson
+172.31.217.176,ActiveReservation,Marston B-B46-115,Marston/Watson
+172.31.217.177,ActiveReservation,Marston B-B55-115,Marston/Watson
+172.31.217.178,ActiveReservation,Marston B-B47-115,Marston/Watson
+172.31.217.179,ActiveReservation,Marston 1-160-115,Marston/Watson
+172.31.217.180,ActiveReservation,Marston 1-173-115,Marston/Watson
+172.31.217.181,ActiveReservation,Marston 1-162-115,Marston/Watson
+172.31.217.182,ActiveReservation,Marston 1-151-115,Marston/Watson
+172.31.217.184,ActiveReservation,Marston B-B35-115,Marston/Watson
+172.31.217.185,ActiveReservation,Marston 3-307-115,Marston/Watson
+172.31.217.186,ActiveReservation,Marston 1-107-115,Marston/Watson
+172.31.217.187,ActiveReservation,Marston 2-223-115,Marston/Watson
+172.31.217.230,ActiveReservation,Marston 2-252-115,Marston/Watson
+172.31.218.49,Active,Marston B-PBX Room-305,Marston/Watson
+172.31.218.53,Active,Marston B-TSS-S-305,Marston/Watson
+172.31.220.17,ActiveReservation,Marston 3-308-115,Marston/Watson
+172.31.220.18,ActiveReservation,Marston B-CIS-N-135,Marston/Watson
+172.31.220.19,ActiveReservation,Marston B-TSS N-105-new,Marston/Watson
+172.31.220.111,ActiveReservation,Marston 1-112-115,Marston/Watson
+172.31.220.202,ActiveReservation,Marston 3-331-115,Marston/Watson
+172.31.220.203,ActiveReservation,Marston 3-326-115,Marston/Watson
+172.31.220.238,ActiveReservation,Marston B-CIS-C-225,Marston/Watson
+172.31.220.240,ActiveReservation,Marston B-Conference Room-115,Marston/Watson
+172.31.221.23,ActiveReservation,Marston 1-111-115,Marston/Watson
+172.31.221.24,ActiveReservation,Marston 1-123-115,Marston/Watson
+172.31.221.25,ActiveReservation,Marston 2-219-115,Marston/Watson
+172.31.221.26,ActiveReservation,Marston 1-129-115,Marston/Watson
+172.31.221.27,ActiveReservation,Marston 2-229-115,Marston/Watson
+172.31.221.28,ActiveReservation,Marston 2-237-115,Marston/Watson
+172.31.221.30,ActiveReservation,Marston 3-311-115,Marston/Watson
+172.31.221.31,ActiveReservation,Marston 3-323-115,Marston/Watson
+172.31.221.32,ActiveReservation,Marston 2-253-115,Marston/Watson
+172.31.221.33,ActiveReservation,Marston 2-255-115,Marston/Watson
+172.31.221.34,ActiveReservation,Marston 2-248-115,Marston/Watson
+172.31.221.36,ActiveReservation,Marston B-MW3-115,Marston/Watson
+172.31.221.37,ActiveReservation,Marston B-B40-115,Marston/Watson
+172.31.221.72,ActiveReservation,Marston B-B50-115,Marston/Watson
+172.31.221.73,ActiveReservation,Marston 1-172-115,Marston/Watson
+172.31.221.75,ActiveReservation,Marston 1-165-115,Marston/Watson
+172.31.221.76,ActiveReservation,Marston 1-148-115,Marston/Watson
+172.31.221.77,ActiveReservation,Marston 1-155-115,Marston/Watson
+172.31.221.81,ActiveReservation,Marston 1-140-115,Marston/Watson
+172.31.221.82,ActiveReservation,Marston 1-143-115,Marston/Watson
+172.31.221.132,ActiveReservation,Marston 2-222-115,Marston/Watson
+172.31.221.208,Active,Marston B-CIS-C-305,Marston/Watson
+172.31.221.209,Active,Marston B-CIS-S-305,Marston/Watson
+172.31.221.210,Active,Marston B-CIS-N-305,Marston/Watson
+172.31.221.211,Active,Marston B-TSS-N-305,Marston/Watson
+72.233.140.36,InactiveReservation,scc-admin,MarstonWatson
+72.233.140.41,Active,SCCSPHILLIPS,MarstonWatson
+72.233.140.179,Active,LOWERMOYER1,MarstonWatson
+72.233.133.2,Active,DLMH113-20,McKenna
+72.233.133.3,InactiveReservation,sbe-uswest-scribe,McKenna
+72.233.133.6,Active,SBGELAB2,McKenna
+72.233.133.7,Active,DLMH113-22,McKenna
+72.233.133.9,InactiveReservation,ptr-dlmh-sbelab,McKenna
+72.233.133.11,Active,DLMH111,McKenna
+72.233.133.13,Active,DLMH113-19,McKenna
+72.233.133.17,Active,SBGELAB1,McKenna
+72.233.133.18,Active,DLMH113-12,McKenna
+72.233.133.19,Active,DLMH113-11,McKenna
+72.233.133.21,Active,KIOSK-SBGE,McKenna
+72.233.133.22,Active,SBE-FRONT,McKenna
+72.233.133.24,Active,DLMH113-14,McKenna
+72.233.133.25,Active,SBE-STUDENT1,McKenna
+72.233.133.27,Active,DLMH113-13,McKenna
+72.233.133.29,Active,DLMH113-10,McKenna
+72.233.133.31,Active,DLMH113,McKenna
+72.233.133.33,Active,DLMH118,McKenna
+72.233.133.34,Active,DLMH111,McKenna
+72.233.133.35,Active,MCKENNA-CONFERE,McKenna
+72.233.133.36,Active,DLMH113-06,McKenna
+72.233.133.37,Active,DLMH-LAB,McKenna
+72.233.133.44,Active,DLMH113-08,McKenna
+72.233.133.45,Active,DLMH113-04,McKenna
+72.233.133.130,Active,SBE-ADJUNCT,McKenna
+72.233.133.132,Active,DLMH113-17,McKenna
+72.233.133.135,Active,DHESS,McKenna
+72.233.133.138,Active,DLMH113-07,McKenna
+72.233.133.141,Active,DLMH117,McKenna
+72.233.133.144,Active,DLMH113-18,McKenna
+72.233.133.145,Active,DLMH113-03,McKenna
+72.233.133.150,Active,DLMH113-23,McKenna
+72.233.133.151,Active,DLMH113-15,McKenna
+72.233.133.153,Active,DLMH113-24,McKenna
+72.233.133.155,Active,DLMH113-05,McKenna
+72.233.133.157,Active,DLMH113-21,McKenna
+72.233.133.161,Active,DLMH113-16,McKenna
+72.233.133.162,Active,DLMH113-01,McKenna
+172.31.240.51,InactiveReservation,MFP-SBE-Lobby,McKenna
+172.31.240.52,ActiveReservation,mfp-sbe-workroom,McKenna
+172.31.240.53,ActiveReservation,mfp-sbe-mainoffice,McKenna
+172.31.240.69,ActiveReservation,mfp-sbe-ctrhouse,McKenna
+172.31.232.63,ActiveReservation,DLMH113-SWITCHER,McKenna
+172.31.232.71,ActiveReservation,DLMH111-CONTROL,McKenna
+172.31.232.72,ActiveReservation,DLMH111-SWITCHER,McKenna
+172.31.232.73,ActiveReservation,DLMH113-CONTROL,McKenna
+172.31.232.74,ActiveReservation,DLMH117-CONTROL,McKenna
+172.31.232.75,ActiveReservation,DLMH118-CONTROL,McKenna
+172.31.217.212,ActiveReservation,McKenna 2nd-NW-105,McKenna
+172.31.217.214,ActiveReservation,McKenna 2nd-SW-105,McKenna
+172.31.217.215,ActiveReservation,McKenna 1st-RM 118-105,McKenna
+172.31.217.223,ActiveReservation,McKenna 1st-RM 111-105B-2,McKenna
+172.31.218.51,Active,Outdoor-McKenna-AP275,McKenna
+172.31.218.57,Active,McKenna 2nd-Conf Room-305,McKenna
+172.31.218.60,Active,McKenna 2nd-NW-305,McKenna
+172.31.218.61,Active,McKenna 2nd-SW-305,McKenna
+172.31.218.62,Active,McKenna 1st-RM 117-305,McKenna
+172.31.218.63,Active,McKenna 1st-RM 111-305,McKenna
+172.31.221.116,ActiveReservation,McKenna 2nd-Conf Room-105,McKenna
+172.31.221.117,ActiveReservation,McKenna 2nd-N-105,McKenna
+172.31.221.118,ActiveReservation,McKenna 2nd-E-105,McKenna
+172.31.221.119,ActiveReservation,McKenna 1st-RM 113-105,McKenna
+172.31.221.120,ActiveReservation,McKenna 1st-RM 117-105A,McKenna
+172.31.221.217,Active,McKenna 1st-Computer Lab-305,McKenna
+172.31.221.218,Active,McKenna 2nd-E-305,McKenna
+172.31.221.219,Active,McKenna 2nd-N-305,McKenna
+172.31.221.222,Active,McKenna 1st-RM 113-305,McKenna
+172.31.221.223,Active,McKenna 1st-RM 118-305,McKenna
+172.31.255.132,InactiveReservation,hvac-router-mckinley,McKinley
+172.31.217.251,ActiveReservation,McKinley 1-Theater A-105,McKinley
+172.31.218.141,Active,McKinley 1-Theater A-305,McKinley
+172.31.221.148,ActiveReservation,McKinley 1-Theater B-105,McKinley
+172.31.221.149,ActiveReservation,McKinley B-Practice Room-105,McKinley
+172.31.221.150,Active,McKinley 2-Conference Room-115,McKinley
+172.31.222.70,Active,McKinley B-Practice Room-305,McKinley
+172.31.222.71,Active,McKinley 1-Theater B-305,McKinley
+172.31.222.72,Active,McKinley 1-Main Entry-305,McKinley
+72.233.130.155,Active,RLC-MOYER-02,Moyer
+72.233.130.200,Active,RLC-MOYER-01,Moyer
+72.233.190.2,InactiveReservation,ptr-rlc-moyer-4050,Moyer
+172.31.208.21,ActiveReservation,Power-Moyer-UPS01-2ndIDF,Moyer
+172.31.255.83,InactiveReservation,laundryview-controller-moyer-1st,Moyer
+172.31.255.84,InactiveReservation,laundryview-controller-moyer-2nd,Moyer
+172.31.255.85,InactiveReservation,laundryview-controller-moyer-3rd,Moyer
+172.31.255.217,ActiveReservation,Power-Moyer-UPS02-MDF,Moyer
+172.31.255.218,ActiveReservation,Power-Moyer-UPS01-2ndIDF,Moyer
+172.31.216.36,ActiveReservation,Moyer 2-Room 215-115,Moyer
+172.31.216.37,ActiveReservation,Moyer 1-Room 118-115,Moyer
+172.31.216.38,ActiveReservation,Moyer 1-Room 109-115,Moyer
+172.31.216.40,ActiveReservation,Moyer 3-Lounge-115,Moyer
+172.31.216.41,ActiveReservation,Moyer 1-Room 107-115,Moyer
+172.31.216.42,ActiveReservation,Moyer 1-Room 120-115,Moyer
+172.31.216.43,ActiveReservation,Moyer 2-Room 205-115,Moyer
+172.31.216.44,ActiveReservation,Moyer B-Room B09-115,Moyer
+172.31.216.45,ActiveReservation,Moyer 1-Lounge-115,Moyer
+172.31.216.46,ActiveReservation,Moyer 2-Room 210-115,Moyer
+172.31.216.47,ActiveReservation,Moyer 2-Room 219-115,Moyer
+172.31.216.48,ActiveReservation,Moyer 2-Room 221-115,Moyer
+172.31.216.49,ActiveReservation,Moyer 2-Room 217-115,Moyer
+172.31.216.50,ActiveReservation,Moyer 3-Room 304-115,Moyer
+172.31.216.51,ActiveReservation,Moyer 3-Room 309-115,Moyer
+172.31.216.53,ActiveReservation,Moyer B-Room B15-115,Moyer
+172.31.216.54,ActiveReservation,Moyer 3-Room 322-115,Moyer
+172.31.216.55,ActiveReservation,Moyer 3-Room 320-115,Moyer
+172.31.216.56,ActiveReservation,Moyer 3-Room 318-115,Moyer
+172.31.216.58,ActiveReservation,Moyer 3-Room 314-115,Moyer
+172.31.216.59,ActiveReservation,Moyer 3-Room 311-115,Moyer
+172.31.216.60,ActiveReservation,Moyer 3-Room 307-115,Moyer
+172.31.216.97,ActiveReservation,Moyer B-Cubicle-115,Moyer
+172.31.216.127,ActiveReservation,Moyer B-Room B02-115,Moyer
+172.31.240.54,ActiveReservation,mfp-moyer-cfl,Moyer
+172.31.240.110,InactiveReservation,mfp-moyer-1stfloor,Moyer
+172.31.216.251,ActiveReservation,Moyer B-Room B11-115,Moyer
+172.31.217.24,ActiveReservation,Moyer B-Room B01-115,Moyer
+172.31.218.183,Active,Moyer 3-Room 316-115,Moyer
+172.31.220.38,ActiveReservation,Moyer 2-Room 212-115,Moyer
+172.31.220.39,ActiveReservation,Moyer 1-Room 116-115,Moyer
+172.31.220.40,ActiveReservation,Moyer 1-Room 114-115,Moyer
+172.31.220.42,ActiveReservation,Moyer 1-Room 113-115,Moyer
+172.31.220.43,ActiveReservation,Moyer 3-Room 302-115,Moyer
+172.31.220.44,ActiveReservation,Moyer 1-Room 111-115,Moyer
+172.31.220.45,ActiveReservation,Moyer 3-Room 316-115,Moyer
+172.31.220.66,ActiveReservation,Moyer 2-Room 206-115,Moyer
+172.31.220.70,ActiveReservation,Moyer 3-Room 313-115,Moyer
+172.31.220.77,ActiveReservation,Moyer 1-Room RLC-115,Moyer
+172.31.220.83,ActiveReservation,Moyer 2-Room 203-115,Moyer
+172.31.220.85,ActiveReservation,Moyer 2-Room 208-115,Moyer
+172.31.220.211,ActiveReservation,Moyer B-Room B13-115,Moyer
+172.31.220.212,ActiveReservation,Moyer B-Room B03-115,Moyer
+172.31.220.213,ActiveReservation,Moyer 2-Lounge-115,Moyer
+172.31.221.71,ActiveReservation,Moyer 2-Room 201-115,Moyer
+72.233.129.39,Active,NICK105,Nickerson Studios
+72.233.129.165,Active,NICK103,Nickerson Studios
+172.31.216.140,ActiveReservation,Nickerson Studios-112-115,Nickerson Studios
+172.31.216.143,ActiveReservation,Nickerson Studios-108-115,Nickerson Studios
+172.31.216.167,ActiveReservation,Nickerson Studios-128-115,Nickerson Studios
+172.31.216.168,ActiveReservation,Nickerson Studios-103-115,Nickerson Studios
+172.31.240.72,ActiveReservation,mfp-nickstudios,Nickerson Studios
+172.31.232.120,ActiveReservation,NICK105-SWITCHER,Nickerson Studios
+172.31.232.121,ActiveReservation,NICK105-CONTROL,Nickerson Studios
+172.31.232.122,ActiveReservation,NICK103-CONTROL,Nickerson Studios
+172.31.232.123,ActiveReservation,NICK103-SWITCHER,Nickerson Studios
+172.31.232.124,ActiveReservation,NICK103-SWITCHER-STAGE,Nickerson Studios
+172.31.220.84,ActiveReservation,Nickerson Studios-106-115,Nickerson Studios
+172.31.220.106,ActiveReservation,Nickerson Studios-122-115,Nickerson Studios
+172.31.221.14,ActiveReservation,Nickerson Studios-105-115,Nickerson Studios
+72.233.138.2,Active,OMH139-17,Otto Miller
+72.233.138.3,Active,OMH223-04,Otto Miller
+72.233.138.4,Active,OMH223-02,Otto Miller
+72.233.138.5,Active,OMH224-02,Otto Miller
+72.233.138.7,Active,OMH139-12,Otto Miller
+72.233.138.9,Active,OMH215,Otto Miller
+72.233.138.10,Active,OMH227,Otto Miller
+72.233.138.11,Active,OMH246-04,Otto Miller
+72.233.138.12,Active,OMH139,Otto Miller
+72.233.138.17,Active,OMH225-02,Otto Miller
+72.233.138.18,Active,OMH244-20,Otto Miller
+72.233.138.19,Active,OMH244-15,Otto Miller
+72.233.138.20,Active,OMH202-01,Otto Miller
+72.233.138.22,Active,OMH253-02,Otto Miller
+72.233.138.23,ActiveReservation,OMH-SOLARDISPLAY,Otto Miller
+72.233.138.25,Active,OMH244-03,Otto Miller
+72.233.138.26,Active,OMH225-11,Otto Miller
+72.233.138.27,Active,OMH109,Otto Miller
+72.233.138.28,Active,OMH250-01,Otto Miller
+72.233.138.29,Active,OMH135-08,Otto Miller
+72.233.138.30,Active,OMH138-06,Otto Miller
+72.233.138.31,Active,OMH250-11,Otto Miller
+72.233.138.32,Active,OMH139-16,Otto Miller
+72.233.138.33,Active,OMH253-25,Otto Miller
+72.233.138.34,Active,OMH244-18,Otto Miller
+72.233.138.36,Active,OMH226-18,Otto Miller
+72.233.138.37,Active,OMH244-02,Otto Miller
+72.233.138.38,Active,OMH244-16,Otto Miller
+72.233.138.39,Active,OMH247-01,Otto Miller
+72.233.138.40,Active,OMH225-05,Otto Miller
+72.233.138.43,Active,OMH140-02,Otto Miller
+72.233.138.44,Active,OMH253-26,Otto Miller
+72.233.138.45,Active,OMH246-07,Otto Miller
+72.233.138.47,Active,OMH250-06,Otto Miller
+72.233.138.48,Active,OMH135-01,Otto Miller
+72.233.138.50,Active,OMH244-10,Otto Miller
+72.233.138.51,Active,OMH253-08,Otto Miller
+72.233.138.52,Active,OMH244-08,Otto Miller
+72.233.138.53,Active,OMH253-03,Otto Miller
+72.233.138.54,Active,OMH250-10,Otto Miller
+72.233.138.55,Active,OMH250-04,Otto Miller
+72.233.138.57,Active,OMH224-03,Otto Miller
+72.233.138.58,Active,OMH138,Otto Miller
+72.233.138.59,Active,OMH253-09,Otto Miller
+72.233.138.60,Active,OMH140-01,Otto Miller
+72.233.138.61,Active,OMH253-17,Otto Miller
+72.233.138.62,Active,OMH140-03,Otto Miller
+72.233.138.63,Active,OMH245,Otto Miller
+72.233.138.64,Active,OMH225-14,Otto Miller
+72.233.138.66,Active,OMH253-07,Otto Miller
+72.233.138.68,Active,OMH253-11,Otto Miller
+72.233.138.69,Active,OMH223-01,Otto Miller
+72.233.138.70,Active,OMH226,Otto Miller
+72.233.138.71,Active,OMH244-12,Otto Miller
+72.233.138.72,Active,OMH253-20,Otto Miller
+72.233.138.73,Active,OMH139-01,Otto Miller
+72.233.138.74,Active,OMH224-01,Otto Miller
+72.233.138.75,Active,OMH139-03,Otto Miller
+72.233.138.76,Active,OMH253-18,Otto Miller
+72.233.138.77,Active,OMH225-07,Otto Miller
+72.233.138.78,Active,OMH225-12,Otto Miller
+72.233.138.79,Active,OMH244-19,Otto Miller
+72.233.138.80,Active,OMH253-15,Otto Miller
+72.233.138.82,Active,OMH253-27,Otto Miller
+72.233.138.83,Active,OMH253-01,Otto Miller
+72.233.138.84,Active,OMH-231-ADJ,Otto Miller
+72.233.138.85,Active,OMH202-02,Otto Miller
+72.233.138.86,Active,OMH138-08,Otto Miller
+72.233.138.87,Active,OMH139-11,Otto Miller
+72.233.138.88,Active,OMH250-07,Otto Miller
+72.233.138.89,Active,OMH253-04,Otto Miller
+72.233.138.90,Active,OMH226-09,Otto Miller
+72.233.138.92,Active,OMH139-02,Otto Miller
+72.233.138.93,Active,OMH244-01,Otto Miller
+72.233.138.94,Active,OMH226-05,Otto Miller
+72.233.138.95,Active,OMH253-06,Otto Miller
+72.233.138.96,Active,OMH226-03,Otto Miller
+72.233.138.97,Active,OMH246-06,Otto Miller
+72.233.138.99,Active,OMH135-05,Otto Miller
+72.233.138.100,Active,OMH226-10,Otto Miller
+72.233.138.102,Active,OMH225-17,Otto Miller
+72.233.138.103,Active,OMH246-05,Otto Miller
+72.233.138.104,Active,OMH135-07,Otto Miller
+72.233.138.105,Active,OMH226-15,Otto Miller
+72.233.138.106,Active,OMH141-01,Otto Miller
+72.233.138.107,Active,OMH225-09,Otto Miller
+72.233.138.109,Active,OMH244-07,Otto Miller
+72.233.138.145,Active,OMH253-13,Otto Miller
+72.233.138.149,Active,OMH138-04,Otto Miller
+72.233.138.153,Active,OMH138-03,Otto Miller
+72.233.138.155,Active,OMH226-14,Otto Miller
+72.233.138.163,Active,OMH127,Otto Miller
+72.233.138.164,Active,OMH118-2,Otto Miller
+72.233.138.166,Active,OMH124,Otto Miller
+72.233.138.169,Active,OMH139-15,Otto Miller
+72.233.138.172,Active,OMH246,Otto Miller
+72.233.138.173,Active,OMH244-06,Otto Miller
+72.233.138.174,Active,OMH226-04,Otto Miller
+72.233.138.175,Active,OMH244-09,Otto Miller
+72.233.138.178,Active,OMH138-05,Otto Miller
+72.233.138.185,Active,OMH225-18,Otto Miller
+72.233.138.186,Active,OMH225-13,Otto Miller
+72.233.138.197,Active,OMH246-02,Otto Miller
+72.233.138.199,Active,OMH244-04,Otto Miller
+72.233.138.202,Active,OMH250-09,Otto Miller
+72.233.138.205,Active,OMH225,Otto Miller
+72.233.138.207,Active,OMH244,Otto Miller
+72.233.138.214,Active,OMH135,Otto Miller
+72.233.138.221,Active,OMH244-14,Otto Miller
+72.233.138.223,Active,OMH251-01,Otto Miller
+72.233.138.226,Active,OMH253-05,Otto Miller
+72.233.138.230,Active,OMH139-07,Otto Miller
+72.233.138.232,Active,OMH250-16,Otto Miller
+72.233.138.233,Active,OMH253-22,Otto Miller
+72.233.138.238,Active,OMH-114A,Otto Miller
+72.233.138.239,Active,OMH253-16,Otto Miller
+72.233.138.243,Active,OMH128,Otto Miller
+72.233.138.245,Active,OMH244-11,Otto Miller
+72.233.138.246,Active,OMH138-07,Otto Miller
+72.233.138.248,Active,OMH139-18,Otto Miller
+72.233.138.249,Active,OMH138-02,Otto Miller
+72.233.138.251,Active,OMH246-10,Otto Miller
+72.233.138.253,Active,OMH119,Otto Miller
+72.233.139.39,Active,OMH139-13,Otto Miller
+72.233.139.40,Active,OMH226-17,Otto Miller
+72.233.139.42,Active,OMH250-03,Otto Miller
+72.233.139.43,Active,OMH216,Otto Miller
+72.233.139.45,Active,OMH225-08,Otto Miller
+72.233.139.46,Active,OMH139-05,Otto Miller
+72.233.139.48,Active,OMH139-19,Otto Miller
+72.233.139.49,Active,OMH139-08,Otto Miller
+72.233.139.50,Active,OMH139-06,Otto Miller
+72.233.139.51,Active,OMH253-14,Otto Miller
+72.233.139.52,Active,OMH226-12,Otto Miller
+72.233.139.53,Active,OMH253-12,Otto Miller
+72.233.139.54,Active,OMH244-13,Otto Miller
+72.233.139.55,Active,OMH135-02,Otto Miller
+72.233.139.56,Active,OMH138-01,Otto Miller
+72.233.139.58,Active,OMH139-09,Otto Miller
+72.233.139.59,Active,OMH224,Otto Miller
+72.233.139.63,Active,OMH139-04,Otto Miller
+72.233.139.65,Active,OMH244-17,Otto Miller
+72.233.139.67,Active,OMH250-08,Otto Miller
+72.233.139.68,Active,OMH253-19,Otto Miller
+72.233.139.69,Active,OMH246-03,Otto Miller
+72.233.139.71,Active,OMH223-05,Otto Miller
+72.233.139.72,Active,OMH225-10,Otto Miller
+72.233.139.73,Active,OMH223-06,Otto Miller
+72.233.139.74,Active,OMH253-10,Otto Miller
+72.233.139.75,Active,OMH222,Otto Miller
+72.233.139.77,Active,OMH225-01,Otto Miller
+72.233.139.78,Active,OMH226-06,Otto Miller
+72.233.139.79,Active,OMH126,Otto Miller
+72.233.139.80,Active,OMH225-04,Otto Miller
+72.233.139.81,Active,OMH226-02,Otto Miller
+72.233.139.83,Active,OMH250-12,Otto Miller
+72.233.139.84,Active,OMH226-16,Otto Miller
+72.233.139.86,Active,OMH249-02,Otto Miller
+72.233.139.88,Active,OMH135-06,Otto Miller
+72.233.139.89,Active,OMH139-10,Otto Miller
+72.233.139.91,Active,OMH250-14,Otto Miller
+72.233.139.93,Active,OMH136,Otto Miller
+72.233.139.97,Active,OMH135-03,Otto Miller
+72.233.139.99,Active,OMH225-16,Otto Miller
+72.233.139.102,Active,OMH225-03,Otto Miller
+72.233.139.104,Active,OMH246-01,Otto Miller
+72.233.139.105,Active,OMH118,Otto Miller
+72.233.139.114,Active,OMH249-01,Otto Miller
+72.233.139.201,InactiveReservation,omh236-p,Otto Miller
+72.233.139.202,InactiveReservation,omh139-p,Otto Miller
+72.233.139.203,InactiveReservation,omh254-p,Otto Miller
+72.233.139.206,InactiveReservation,omh143-p,Otto Miller
+72.233.139.207,ActiveReservation,ptr-omh211,Otto Miller
+72.233.139.208,InactiveReservation,omh105-p,Otto Miller
+72.233.139.210,InactiveReservation,omh135-p,Otto Miller
+72.233.139.212,InactiveReservation,omh235-p-8400,Otto Miller
+72.233.139.213,InactiveReservation,omh253p-8570-2,Otto Miller
+72.233.139.216,InactiveReservation,omh138-p,Otto Miller
+72.233.139.218,InactiveReservation,omh253p-8200,Otto Miller
+72.233.139.219,InactiveReservation,omh253p-lj4100,Otto Miller
+72.233.139.220,ActiveReservation,ptr-omh126,Otto Miller
+72.233.139.222,InactiveReservation,omh253p-lj5550n,Otto Miller
+72.233.139.223,InactiveReservation,omh253p-8570-3,Otto Miller
+72.233.139.224,InactiveReservation,ptr-omh125,Otto Miller
+72.233.139.225,InactiveReservation,omh253p-8570-1,Otto Miller
+72.233.139.235,ActiveReservation,ptr-omh232,Otto Miller
+172.31.255.130,InactiveReservation,hvac-router-omh,Otto Miller
+172.31.255.225,ActiveReservation,Power-OMH-UPS03-MDF,Otto Miller
+172.31.255.226,ActiveReservation,Power-OMH-UPS02-MDF,Otto Miller
+172.31.255.227,ActiveReservation,Power-OMH-UPS01-MDF,Otto Miller
+172.31.240.55,ActiveReservation,mfp-omh105,Otto Miller
+172.31.240.57,ActiveReservation,mfp-omh-lobby,Otto Miller
+172.31.240.58,ActiveReservation,mfp-omh253,Otto Miller
+172.31.240.59,ActiveReservation,mfp-omh206,Otto Miller
+172.31.232.31,ActiveReservation,OMH109-CONTROLLER,Otto Miller
+172.31.232.34,ActiveReservation,OMH124-CONTROLLER,Otto Miller
+172.31.232.35,ActiveReservation,OMH126-CONTROLLER,Otto Miller
+172.31.232.36,ActiveReservation,OMH127-CONTROLLER,Otto Miller
+172.31.232.37,ActiveReservation,OMH128-CONTROLLER,Otto Miller
+172.31.232.38,ActiveReservation,OMH135-CONTROLLER,Otto Miller
+172.31.232.39,ActiveReservation,OMH136-CONTROLLER,Otto Miller
+172.31.232.40,ActiveReservation,OMH138-CONTROLLER,Otto Miller
+172.31.232.41,ActiveReservation,OMH139-CONTROLLER,Otto Miller
+172.31.232.42,ActiveReservation,OMH215-CONTROLLER,Otto Miller
+172.31.232.43,ActiveReservation,OMH216-CONTROLLER,Otto Miller
+172.31.232.44,ActiveReservation,OMH222-CONTROLLER,Otto Miller
+172.31.232.45,ActiveReservation,OMH225-CONTROLLER,Otto Miller
+172.31.232.46,ActiveReservation,OMH226-CONTROLLER,Otto Miller
+172.31.232.47,ActiveReservation,OMH227-CONTROLLER,Otto Miller
+172.31.232.48,ActiveReservation,OMH244-CONTROLLER,Otto Miller
+172.31.232.49,ActiveReservation,OMH245-CONTROLLER,Otto Miller
+172.31.232.50,ActiveReservation,OMH246-CONTROLLER,Otto Miller
+172.31.232.51,ActiveReservation,OMH224-CONTROLLER,Otto Miller
+172.31.232.52,ActiveReservation,OMH224-SWITCHER,Otto Miller
+172.31.232.53,ActiveReservation,OMH118-CONTROLLER,Otto Miller
+172.31.232.54,ActiveReservation,OMH118-SWITCHER,Otto Miller
+172.31.232.117,ActiveReservation,OMH119-CONTROLLER,Otto Miller
+172.31.232.118,ActiveReservation,OMH119-TOUCHPANEL,Otto Miller
+172.31.232.119,ActiveReservation,OMH119-SWITCHER,Otto Miller
+172.31.232.154,InactiveReservation,omh223b-controlleromh223b-controller,Otto Miller
+172.31.217.27,ActiveReservation,OMH 2-Room 253-105,Otto Miller
+172.31.217.64,ActiveReservation,OMH 1-Lobby-105,Otto Miller
+172.31.217.69,ActiveReservation,OMH 2-Room 211-105,Otto Miller
+172.31.217.72,ActiveReservation,OMH 1-Room 116-105,Otto Miller
+172.31.217.73,ActiveReservation,OMH 2-Room 239-105,Otto Miller
+172.31.217.74,ActiveReservation,OMH 1-Room 124-105,Otto Miller
+172.31.217.84,ActiveReservation,OMH 1-Room 118-105,Otto Miller
+172.31.217.112,ActiveReservation,OMH 1-Room 139-105,Otto Miller
+172.31.217.127,ActiveReservation,OMH 1-Room 127-105,Otto Miller
+172.31.217.188,ActiveReservation,OMH 1-Room 135-105,Otto Miller
+172.31.217.189,ActiveReservation,OMH 1-Room 138-105,Otto Miller
+172.31.217.190,ActiveReservation,OMH 1-Room 119-105,Otto Miller
+172.31.217.200,ActiveReservation,OMH 1-Room 103-105,Otto Miller
+172.31.217.201,ActiveReservation,OMH 1-Room 114-105,Otto Miller
+172.31.217.202,ActiveReservation,OMH 2-Room 209-105,Otto Miller
+172.31.217.203,ActiveReservation,OHM 2-Room 225-105,Otto Miller
+172.31.217.204,ActiveReservation,OMH 2-Room 216-105,Otto Miller
+172.31.218.68,Active,OHM 1-Lobby-305,Otto Miller
+172.31.218.69,Active,OHM 2-Room 224-305,Otto Miller
+172.31.218.70,Active,OHM 2-Room 250-305,Otto Miller
+172.31.218.71,Active,OMH 1-Room 138-305,Otto Miller
+172.31.218.72,Active,OMH 1-Room 135-305,Otto Miller
+172.31.218.73,Active,OMH 1-Room 139-305,Otto Miller
+172.31.218.74,Active,OMH 2-Room 216-305,Otto Miller
+172.31.218.75,Active,OMH 1-Room 116-305,Otto Miller
+172.31.218.76,Active,OMH 1-Room 114-305,Otto Miller
+172.31.218.77,Active,OHM 2-Room 226-305,Otto Miller
+172.31.218.78,Active,OMH 1-Room 126-305,Otto Miller
+172.31.218.79,Active,OMH 1-Room 131-305,Otto Miller
+172.31.218.80,Active,OHM 2-Room 225-305,Otto Miller
+172.31.220.105,ActiveReservation,OMH 1-Room 109-105,Otto Miller
+172.31.220.108,ActiveReservation,OMH 1-Room 131-105,Otto Miller
+172.31.220.110,ActiveReservation,OMH 1-Room 143-105,Otto Miller
+172.31.220.198,ActiveReservation,OMH 1-Room 108-105,Otto Miller
+172.31.220.214,ActiveReservation,OMH 1-Room 126-105,Otto Miller
+172.31.220.215,ActiveReservation,OMH 2-Room 206-105,Otto Miller
+172.31.220.216,ActiveReservation,OMH 2-Room 202-105,Otto Miller
+172.31.220.217,ActiveReservation,OHM 2-Room 226-105,Otto Miller
+172.31.221.29,ActiveReservation,OHM 2-Room 224-105,Otto Miller
+172.31.221.97,ActiveReservation,OMH 2-Room 214-105,Otto Miller
+172.31.221.98,ActiveReservation,OHM 2-Room 245-105,Otto Miller
+172.31.221.99,ActiveReservation,OHM 2-Room 246-105,Otto Miller
+172.31.221.100,ActiveReservation,OHM 2-Room 250-105,Otto Miller
+172.31.221.226,Active,OMH 2-Room 239-305,Otto Miller
+172.31.221.227,Active,OMH 2-Room 211-305,Otto Miller
+172.31.221.228,Active,OMH 1-Room 127-305,Otto Miller
+172.31.221.229,Active,OMH 1-Room 118-305,Otto Miller
+172.31.221.230,Active,OMH 2-Room 206-305,Otto Miller
+172.31.221.231,Active,OMH 1-Room 119-305,Otto Miller
+172.31.221.232,Active,OHM 1-Room 109-305,Otto Miller
+172.31.221.233,Active,OMH 2-Room 209-305,Otto Miller
+172.31.221.234,Active,OMH 2-Room 253-305,Otto Miller
+172.31.221.235,Active,OHM 2-Room 245-305,Otto Miller
+172.31.221.236,Active,OHM 1-Room 108-305,Otto Miller
+172.31.221.237,Active,OHM 1-Room 103-305,Otto Miller
+172.31.221.238,Active,OMH 1-Room 143-305,Otto Miller
+172.31.221.239,Active,OMH 2-Room 202-305,Otto Miller
+172.31.221.240,Active,OMH 1-Room 124-305,Otto Miller
+172.31.221.241,Active,OHM 2-Room 246-305,Otto Miller
+172.31.221.242,Active,OMH 2-Room 222-305,Otto Miller
+72.233.135.4,InactiveReservation,pet-webcam01,Peterson
+72.233.135.11,InactiveReservation,ptr-soece,Peterson
+72.233.135.12,InactiveReservation,ptr-soe313,Peterson
+72.233.135.13,ActiveReservation,ptr-soe-student4,Peterson
+72.233.135.14,InactiveReservation,ptr-soe-308,Peterson
+72.233.135.16,InactiveReservation,petsw01,Peterson
+72.233.135.17,ActiveReservation,ptr-soe-color,Peterson
+72.233.135.22,InactiveReservation,ptr-soe-color-02,Peterson
+72.233.135.25,Active,FCS-CAD,Peterson
+72.233.135.27,Active,SOE-SOA,Peterson
+72.233.135.29,Active,SOE-GRAD-01,Peterson
+72.233.135.38,Active,PET201,Peterson
+72.233.135.41,Active,SOE-GRAD-02,Peterson
+72.233.135.43,Active,PET302,Peterson
+72.233.135.55,Active,FCS-ADJ2,Peterson
+72.233.135.144,Active,SOE-VACANT1,Peterson
+72.233.135.146,Active,FCS-LAB4,Peterson
+72.233.135.150,Active,SOE-GRAD3,Peterson
+72.233.135.152,Active,PET104,Peterson
+72.233.135.153,Active,PET101,Peterson
+72.233.135.159,Active,KIOSK-FCS-TV,Peterson
+72.233.135.160,Active,PET303,Peterson
+72.233.135.162,Active,FCS-ADJ,Peterson
+72.233.135.163,Active,FCS-LAB-3,Peterson
+172.31.255.133,InactiveReservation,hvac-router-peterson,Peterson
+172.31.240.60,ActiveReservation,mfp-pet-fcs-204,Peterson
+172.31.240.61,ActiveReservation,mfp-pet-cpe-203,Peterson
+172.31.240.62,ActiveReservation,mfp-pet-3rd-copyroom,Peterson
+172.31.240.63,ActiveReservation,mfp-pet-3rd-reception,Peterson
+172.31.240.64,ActiveReservation,mfp-pet413,Peterson
+172.31.240.65,ActiveReservation,mfp-pet412,Peterson
+172.31.240.93,ActiveReservation,mfp-pet201,Peterson
+172.31.232.80,ActiveReservation,PET201-CONTROLLER,Peterson
+172.31.232.81,ActiveReservation,PET303-CONTROLLER,Peterson
+172.31.217.13,ActiveReservation,Peterson 4-406-115,Peterson
+172.31.218.13,ActiveReservation,Peterson 3-302-105,Peterson
+172.31.218.14,ActiveReservation,Peterson 2-MDF-105,Peterson
+172.31.221.89,ActiveReservation,Peterson 4-418-115,Peterson
+172.31.221.166,ActiveReservation,Peterson 0-Food Lab-105B,Peterson
+172.31.221.167,ActiveReservation,Peterson 0-Food Lab-105A,Peterson
+172.31.221.168,ActiveReservation,Peterson 2-201-105,Peterson
+172.31.221.169,ActiveReservation,Peterson 3-105,Peterson
+72.233.129.29,InactiveReservation,ptr-rbp-seattlestorm,Royal Brougham Pavilion
+72.233.129.31,InactiveReservation,ptr-rbp-ath-copier-01,Royal Brougham Pavilion
+72.233.129.229,Active,RBPES,Royal Brougham Pavilion
+172.31.255.216,InactiveReservation,RBPEXSCI,Royal Brougham Pavilion
+172.31.216.139,ActiveReservation,RBP-Lower Gym-Exterior-105,Royal Brougham Pavilion
+172.31.216.173,ActiveReservation,RBP B-Women's Varsity Locker Romm-215,Royal Brougham Pavilion
+172.31.216.215,ActiveReservation,RBP B-Fitness Center-215,Royal Brougham Pavilion
+172.31.240.66,ActiveReservation,mfp-rbp-pe,Royal Brougham Pavilion
+172.31.240.67,ActiveReservation,mfp-rbp-athletics,Royal Brougham Pavilion
+172.31.232.99,ActiveReservation,RBPCLASS-CONTROL,Royal Brougham Pavilion
+172.31.217.78,Active,RBP B-Classroom-215,Royal Brougham Pavilion
+172.31.217.80,Active,RBP 1-P,Royal Brougham Pavilion
+172.31.217.149,ActiveReservation,RBP B-Sports Medicine-215,Royal Brougham Pavilion
+172.31.217.155,ActiveReservation,RBP B-Women's Faculty Locker Room-215,Royal Brougham Pavilion
+172.31.217.156,ActiveReservation,RBP B-Men's Basketball-215,Royal Brougham Pavilion
+172.31.217.161,ActiveReservation,RBP B-Intramural Office-215,Royal Brougham Pavilion
+172.31.217.162,ActiveReservation,RBP B-Men's Faculty Locker Room-215,Royal Brougham Pavilion
+172.31.217.165,ActiveReservation,RBP 1-Gymnastics Gym A-215,Royal Brougham Pavilion
+172.31.217.168,ActiveReservation,RBP 1-Gymnastics Gym B-215,Royal Brougham Pavilion
+172.31.217.218,ActiveReservation,RBP B-Weight Room-215,Royal Brougham Pavilion
+172.31.218.17,ActiveReservation,RBP-Lower Gym-105,Royal Brougham Pavilion
+172.31.218.21,ActiveReservation,RBP 1-Main Gym-135SE,Royal Brougham Pavilion
+172.31.220.247,ActiveReservation,RBP B-Lower Gym-215,Royal Brougham Pavilion
+172.31.220.248,Active,RBP 2-Men's Basketball-215,Royal Brougham Pavilion
+172.31.220.249,ActiveReservation,RBP B-Women's Basketball-215,Royal Brougham Pavilion
+172.31.220.250,ActiveReservation,RBP 1-P,Royal Brougham Pavilion
+172.31.220.251,ActiveReservation,RBP 1-Foyer-215,Royal Brougham Pavilion
+172.31.220.252,ActiveReservation,RBP 2-Falcon Lounge-215,Royal Brougham Pavilion
+172.31.220.253,ActiveReservation,RBP 2-Office 208-215,Royal Brougham Pavilion
+172.31.221.7,Active,RBP 2-Office 209-215,Royal Brougham Pavilion
+172.31.221.172,ActiveReservation,RBP 1-Main Gym-135NE,Royal Brougham Pavilion
+172.31.221.173,ActiveReservation,RBP 1-Main Gym-135NW,Royal Brougham Pavilion
+172.31.221.251,Active,RBP 2-Athletics-215,Royal Brougham Pavilion
+72.233.131.3,ActiveReservation,secscribe,Safety and Security
+72.233.131.32,Active,SECVIDEO3,Safety and Security
+72.233.131.44,Active,SECCONF,Safety and Security
+72.233.131.48,Active,SECFRONT,Safety and Security
+72.233.131.136,Active,SECVIDEO2,Safety and Security
+72.233.131.148,Active,SECSTAFF2,Safety and Security
+72.233.131.150,Active,SECSTAFF4,Safety and Security
+72.233.131.161,Active,SECVIDEO1,Safety and Security
+172.31.240.68,ActiveReservation,mfp-security,Safety and Security
+172.31.221.107,ActiveReservation,Security 1-C-115,Safety and Security
+72.233.130.3,InactiveReservation,oslscribe2,Student Union Building
+72.233.130.4,InactiveReservation,oslscribe,Student Union Building
+72.233.130.7,ActiveReservation,ptr-osp-main,Student Union Building
+72.233.130.8,ActiveReservation,ptr-osl-color,Student Union Building
+72.233.130.11,Active,ASSPVPMIN,Student Union Building
+72.233.130.16,InactiveReservation,ptr-rlc-sub,Student Union Building
+72.233.130.22,InactiveReservation,assp-server,Student Union Building
+72.233.130.42,Active,ASSPTREASURER,Student Union Building
+72.233.130.46,Active,SubRoku2,Student Union Building
+72.233.130.57,Active,KIOSK-SUB-03,Student Union Building
+72.233.130.63,Active,ASSP-PRM,Student Union Building
+72.233.130.66,Active,ASSP-VPIA,Student Union Building
+72.233.130.68,Active,ASSP-MINIS1,Student Union Building
+72.233.130.71,Active,ASSP-EVP,Student Union Building
+72.233.130.85,Active,ASSP-01,Student Union Building
+72.233.130.90,Active,RESLIFEAA2,Student Union Building
+72.233.130.92,ActiveReservation,ptr-ResLife-Emerson,Student Union Building
+72.233.130.95,Active,KIOSK-SUB-01,Student Union Building
+72.233.130.101,ActiveReservation,gazebo-controller,Student Union Building
+72.233.130.102,ActiveReservation,gazebo-touchpanel,Student Union Building
+72.233.130.157,Active,ASSPCLUBEXEC,Student Union Building
+72.233.130.167,Active,SubRoku1,Student Union Building
+72.233.130.169,Active,ASSP-VP-FIN,Student Union Building
+72.233.130.172,Active,RESLIFE-RLC,Student Union Building
+72.233.130.183,Active,ASSP-ORP,Student Union Building
+72.233.130.186,Active,OSPAA,Student Union Building
+72.233.130.195,Active,OSPRECEPTION,Student Union Building
+172.31.255.24,InactiveReservation,ems-sub-01,Student Union Building
+172.31.255.50,InactiveReservation,epic-subway,Student Union Building
+172.31.216.222,ActiveReservation,SUB 1-Main Entry-105,Student Union Building
+172.31.240.74,ActiveReservation,mfp-sub-assp,Student Union Building
+172.31.240.75,InactiveReservation,MFP-SUB-Atrium,Student Union Building
+172.31.240.76,ActiveReservation,mfp-sub-osl,Student Union Building
+172.31.240.77,ActiveReservation,mfp-sub-careerctr,Student Union Building
+172.31.240.78,InactiveReservation,MFP-SUB-PerkinsCtr,Student Union Building
+172.31.217.9,ActiveReservation,SUB 1-Collegium-105,Student Union Building
+172.31.217.10,ActiveReservation,SUB 2-NW B-105,Student Union Building
+172.31.217.12,ActiveReservation,SUB 2-Conference Room-105,Student Union Building
+172.31.218.151,Active,SUB-MDF-TEMP-215,Student Union Building
+172.31.218.154,Active,SUB 1-Main Entry-305,Student Union Building
+172.31.218.175,Active,SUB 1-NW-305,Student Union Building
+172.31.218.177,Active,SUB 1-ASSP-305,Student Union Building
+172.31.218.178,Active,SUB 2-Residence Life-305,Student Union Building
+172.31.218.179,Active,SUB 2-Conference Room-305,Student Union Building
+172.31.218.180,Active,SUB 2-Office 201-305,Student Union Building
+172.31.221.90,ActiveReservation,SUB 2-Career Development-105,Student Union Building
+172.31.221.92,ActiveReservation,SUB 1-NW-105-2,Student Union Building
+172.31.221.93,ActiveReservation,SUB 1-Gazebo-105,Student Union Building
+172.31.221.94,ActiveReservation,SUB 2-NW A-105,Student Union Building
+172.31.221.95,ActiveReservation,SUB 2-Residence Life-105,Student Union Building
+172.31.221.96,ActiveReservation,SUB 1-ASSP-105,Student Union Building
+172.31.222.94,Active,SUB 1-Gazebo-305,Student Union Building
+172.31.222.103,Active,SUB 1-Collegium-305,Student Union Building
+172.31.222.104,Active,SUB 2-Career Development-305,Student Union Building
+172.31.222.105,Active,SUB 2-Office 203-305,Student Union Building
+72.233.130.20,Active,HOUSING-FRNTD,University Services
+72.233.130.25,ActiveReservation,ptr-ous-front,University Services
+72.233.130.26,InactiveReservation,ptr-ous-color,University Services
+72.233.130.27,InactiveReservation,ptr-ous1,University Services
+72.233.130.33,InactiveReservation,ptr-ous-copier,University Services
+72.233.130.54,Active,OUS-DIR-N,University Services
+72.233.130.62,Active,OUS-STUDENT,University Services
+172.16.128.250,Active,ILOUSE132DYDK,University Services
+172.31.240.85,ActiveReservation,mfp-ous,University Services
+172.31.216.239,ActiveReservation,RBP B-Shell House-215,University Services
+172.31.217.191,ActiveReservation,Falcon Duplex House-Lower,University Services
+172.31.218.48,Active,OUS-Basement-215,University Services
+172.31.220.218,ActiveReservation,Falcon Duplex House-Upper,University Services
+172.31.221.192,ActiveReservation,OUS-MDF-105,University Services
+72.233.129.19,ActiveReservation,ptr-wac-dev-aa,Walls Advancement Center
+172.31.255.68,InactiveReservation,hvac-router-wac,Walls Advancement Center
+172.31.240.86,ActiveReservation,mfp-wac-front,Walls Advancement Center
+172.31.240.87,ActiveReservation,mfp-wac-middle,Walls Advancement Center
+172.31.240.88,ActiveReservation,mfp-wac-back,Walls Advancement Center
+172.31.232.150,ActiveReservation,wacconfroom-switcher,Walls Advancement Center
+172.31.232.151,ActiveReservation,wacconfroom-controller,Walls Advancement Center
+172.31.217.253,ActiveReservation,WAC 1-Conference Room-135,Walls Advancement Center
+172.31.221.153,ActiveReservation,WAC 2-ADV SVS Office-115,Walls Advancement Center
+172.31.221.154,ActiveReservation,WAC 1-C-105,Walls Advancement Center
+172.31.222.75,Active,WAC 1-C-305,Walls Advancement Center
+172.31.216.14,ActiveReservation,Wesley Dravus-2102-105,Wesley Dravus
+172.31.216.15,ActiveReservation,Wesley Dravus-2302-105,Wesley Dravus
+172.31.216.17,ActiveReservation,Wesley Dravus-2206-105,Wesley Dravus
+172.31.216.115,ActiveReservation,Wesley Dravus-2204-105,Wesley Dravus
+172.31.216.220,ActiveReservation,Wesley Dravus-2202-105,Wesley Dravus
+172.31.216.221,ActiveReservation,Wesley Dravus-2303-105,Wesley Dravus
+172.31.216.224,ActiveReservation,Wesley Dravus-2405-105,Wesley Dravus
+172.31.216.225,ActiveReservation,Wesley Dravus-2402-105,Wesley Dravus
+172.31.217.29,ActiveReservation,Wesley Dravus-2201-105,Wesley Dravus
+172.31.217.57,ActiveReservation,Wesley Dravus-2403-105,Wesley Dravus
+172.31.218.115,Active,Wesley Dravus-2304-305,Wesley Dravus
+172.31.218.116,Active,Wesley Dravus-2202-305,Wesley Dravus
+172.31.218.117,Active,Wesley Dravus-2206-305,Wesley Dravus
+172.31.218.118,Active,Wesley Dravus-2305-305,Wesley Dravus
+172.31.218.119,Active,Wesley Dravus-2401-305,Wesley Dravus
+172.31.218.120,Active,Wesley Dravus-2406-305,Wesley Dravus
+172.31.218.121,Active,Wesley Dravus-2405-305,Wesley Dravus
+172.31.218.122,Active,Wesley Dravus-2404-305,Wesley Dravus
+172.31.218.123,Active,Wesley Dravus-2301-305,Wesley Dravus
+172.31.220.21,ActiveReservation,Wesley Dravus-2401-105,Wesley Dravus
+172.31.220.63,ActiveReservation,Wesley Dravus-2305-105,Wesley Dravus
+172.31.220.64,ActiveReservation,Wesley Dravus-2406-105,Wesley Dravus
+172.31.220.126,ActiveReservation,Wesley Dravus-2101-105,Wesley Dravus
+172.31.220.127,ActiveReservation,Wesley Dravus-2304-105,Wesley Dravus
+172.31.220.128,ActiveReservation,Wesley Dravus-2306-105,Wesley Dravus
+172.31.220.129,ActiveReservation,Wesley Dravus-2404-105,Wesley Dravus
+172.31.220.205,ActiveReservation,Wesley Dravus-2301-105,Wesley Dravus
+172.31.222.35,Active,Wesley Dravus-2101-305,Wesley Dravus
+172.31.222.36,Active,Wesley Dravus-2102-305,Wesley Dravus
+172.31.222.37,Active,Wesley Dravus-2201-305,Wesley Dravus
+172.31.222.38,Active,Wesley Dravus-2204-305,Wesley Dravus
+172.31.222.41,Active,Wesley Dravus-2306-305,Wesley Dravus
+172.31.222.42,Active,Wesley Dravus-2402-305,Wesley Dravus
+172.31.222.43,Active,Wesley Dravus-2403-305,Wesley Dravus
+172.31.222.44,Active,Wesley Dravus-2303-305,Wesley Dravus
+172.31.222.45,Active,Wesley Dravus-2302-305,Wesley Dravus
+172.31.222.46,Active,Wesley Dravus-2205-305,Wesley Dravus
+172.31.222.47,Active,Wesley Dravus-2203-305,Wesley Dravus
+72.233.136.3,Active,KIOSK-WET-05,Weter
+72.233.136.11,ActiveReservation,ptr-uc-web-color,Weter
+72.233.136.39,Active,KIOSK-WETER-02,Weter
+72.233.136.40,Active,KIOSK-WETER-01,Weter
+72.233.136.43,Active,KIOSK-WETER-03,Weter
+72.233.136.53,InactiveReservation,wetscribe1,Weter
+72.233.136.60,InactiveReservation,ptr-uc-response-editor-bw,Weter
+72.233.136.62,Active,UCFRONT,Weter
+72.233.136.66,Active,WETERCONFRM,Weter
+72.233.136.68,ActiveReservation,ptr-finance-ap,Weter
+72.233.136.70,ActiveReservation,PTR-UC-Copier,Weter
+72.233.136.71,Active,FIN-STUDENT,Weter
+72.233.136.104,Active,FIN-FRONTDESK,Weter
+72.233.136.129,Active,WET202,Weter
+72.233.136.137,Active,WET201,Weter
+72.233.137.48,Active,FIN-PAYCHECK,Weter
+72.233.137.110,Active,UC-CONF,Weter
+172.31.240.89,ActiveReservation,mfp-weter-uc,Weter
+172.31.240.90,InactiveReservation,MFP-Weter-Main,Weter
+172.31.240.91,ActiveReservation,mfp-weter318,Weter
+172.31.240.94,ActiveReservation,mfp-weter309,Weter
+172.31.240.103,ActiveReservation,ptr-fin-wetscribe,Weter
+172.31.232.78,ActiveReservation,WET201-CONTROLLER,Weter
+172.31.232.79,ActiveReservation,WET202-CONTROLLER,Weter
+172.31.218.40,ActiveReservation,Weter 1-W-105,Weter
+172.31.218.41,ActiveReservation,Weter 1-E-105,Weter
+172.31.218.42,ActiveReservation,Weter 2-202-115,Weter
+172.31.218.43,ActiveReservation,Weter 2-C-115,Weter
+172.31.221.1,ActiveReservation,Weter 3-305-105,Weter
+172.31.221.2,ActiveReservation,Weter 3-Conference Room-105,Weter
+172.31.221.188,ActiveReservation,Weter 1-Conference Room,Weter
+172.31.221.189,ActiveReservation,Weter 3-C-105,Weter
+172.31.221.190,ActiveReservation,Weter 2-201-105,Weter

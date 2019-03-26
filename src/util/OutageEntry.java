@@ -74,7 +74,8 @@ public class OutageEntry extends VBox {
 	 */
 	public ObservableList<javafx.scene.Node> clearNodes() {
 		int numNodes = this.getChildren().size();
-		title.setText(building.name + ": " + numNodes);
+//		title.setText(building.name + ": " + numNodes);
+		title.setText(building.name);
 		ObservableList<javafx.scene.Node> children = this.getChildren();
 		this.getChildren().clear();
 		this.getChildren().add(title);

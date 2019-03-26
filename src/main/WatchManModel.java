@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 import util.DataLoader;
-import util.Node;
 import util.NodeGroup;
 
 /**
@@ -21,7 +20,10 @@ public class WatchManModel {
 	public WatchManModel() {
 //		groups = fakeData();
 		groups = DataLoader.loadNodeGroups();
-		groups = addFakeNodes(groups);
+		if(groups == null) {
+			System.exit(1);
+		}
+//		groups = addFakeNodes(groups);
 		downBuildings = new ArrayList<NodeGroup>();
 	}
 	
@@ -53,16 +55,6 @@ public class WatchManModel {
 		if(pos < 0) {
 			group.add(-pos-1, ng);
 		}
-	}
-	
-	private ArrayList<NodeGroup> addFakeNodes(ArrayList<NodeGroup> buildingList) {
-		for(NodeGroup ng : buildingList) {
-			int numNodes = (int)(Math.random() * 10);
-			for(int i = 0; i < numNodes; i++) {
-				ng.nodes.add(new Node("123.123.123.123", ng.name + i));
-			}
-		}
-		return buildingList;
 	}
 
 	public void calculateLocations(double fitHeight) {

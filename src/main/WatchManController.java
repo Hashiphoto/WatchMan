@@ -59,7 +59,8 @@ public class WatchManController {
 		outagePane.heightProperty().addListener(e -> {
     		if(outagePane.getHeight() + downNodeLabel.getHeight() > spuMap.getFitHeight()) {
     			overflowPane.getChildren().clear();
-    			overflowPane.getChildren().addAll(outagePane.getOverflowedNodes());
+//    			outagePane.getOverfslowedNodes();
+//    			overflowPane.getChildren().addAll(outagePane.getOverflowedNodes());
     		}
 		});
 	}

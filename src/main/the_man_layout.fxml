@@ -51,7 +51,7 @@
                      </rowConstraints>
                      <children>
                         <Pane fx:id="downNodePane" GridPane.hgrow="SOMETIMES" />
-                        <ScrollPane hbarPolicy="NEVER" GridPane.columnIndex="1" GridPane.hgrow="SOMETIMES">
+                        <ScrollPane hbarPolicy="NEVER" visible="false" GridPane.columnIndex="1" GridPane.hgrow="SOMETIMES">
                            <content>
                               <VBox fx:id="overflowPane" minHeight="80.0" minWidth="80.0" spacing="1.0" />
                            </content>

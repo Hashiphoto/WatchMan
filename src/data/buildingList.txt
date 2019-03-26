@@ -9,25 +9,33 @@ Ames Library                    ,0.293,0.540
 McKenna                         ,0.397,0.307
 McKinley                        ,0.523,0.574
 Otto Miller                     ,0.535,0.160
-Human Resources Building        ,0.474,0.192
+Human Resources      			,0.474,0.192
 Peterson                        ,0.424,0.471
 Royal Brougham Pavilion         ,0.675,0.225
 Walls Advancement Center        ,0.810,0.388
 Student Union Building          ,0.524,0.388
 Eaton                           ,0.446,0.388
 Facility Operations Center      ,0.930,0.588
-Weter Memorial                  ,0.285,0.440
+Weter                  			,0.285,0.440
 University Services             ,0.212,0.545
-Marston                         ,0.362,0.445
+Marston/Watson                  ,0.362,0.445
 Moyer                           ,0.410,0.532
-Watson                          ,0.365,0.375
-Bertona Classrooms              ,0.765,0.382
+Bertona              	     	,0.765,0.382
 Center House                    ,0.420,0.250
-Image Journal                   ,0.488,0.204
-Cremona Classrooms              ,0.762,0.445
+Image                           ,0.488,0.204
+Cremona              			,0.762,0.445
 Mailing Services                ,0.503,0.271
 Nickerson Studios               ,0.448,0.185
 4 Nickerson                     ,0.950,0.350
 6 Nickerson                     ,0.950,0.370
 Kingswood House                 ,0.585,0.730
 Safety and Security				,0.150,0.305
+Wesley Dravus					,0,0
+Arnett							,0,0
+Ashton							,0,0
+Hill							,0,0
+Emerson							,0,0
+Falcon Apartments				,0,0
+Falcon Newspaper				,0,0
+Bailey							,0,0
+Davis							,0,0
