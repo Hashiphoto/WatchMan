@@ -57,6 +57,7 @@ public class DataLoader {
 				group.deadNodes.add(new Node(ip, hostName, state));
 			}
 		}
+		scanner.close();
 		return nodeGroup;
 	}
 	
