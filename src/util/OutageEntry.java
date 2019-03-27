@@ -9,7 +9,6 @@ import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
 import javafx.geometry.Bounds;
 import javafx.geometry.Insets;
-import javafx.scene.layout.Pane;
 import javafx.scene.layout.VBox;
 import javafx.scene.text.Font;
 import javafx.scene.text.Text;
@@ -20,8 +19,7 @@ import javafx.util.Duration;
  * @author Trent
  */
 public class OutageEntry extends VBox {
-	public NodeGroup building;
-	public Edge edge;
+	public Building building;
 	
 	private static final Font TITLE_FONT = new Font("Arial Bold", 15.0);
 	private static final Font NODE_FONT = new Font("Arial", 13.0);
@@ -33,7 +31,7 @@ public class OutageEntry extends VBox {
     private DoubleProperty yLocation = new SimpleDoubleProperty();
     private Timeline delayRefresh;
 	
-	public OutageEntry(NodeGroup nodeGroup) {
+	public OutageEntry(Building nodeGroup) {
 		super();
 		building = nodeGroup;
 		title = new Text(building.name);
@@ -52,13 +50,13 @@ public class OutageEntry extends VBox {
 		this.needsLayoutProperty().addListener(e -> {
 			updateLocation();
 		});
+		refresh();
 	}
 	
 	/**
 	 * Iterates through the list of dead nodes and updates the display accordingly			
 	 */
 	public void refresh() {
-		clearNodes();
 		for(Node n : building.deadNodes) {
 			Text text = new Text(n.hostName);
 			text.setFont(NODE_FONT);
@@ -73,7 +71,7 @@ public class OutageEntry extends VBox {
 	 * @return 	The list of removed labels
 	 */
 	public ObservableList<javafx.scene.Node> clearNodes() {
-		int numNodes = this.getChildren().size();
+//		int numNodes = this.getChildren().size();
 //		title.setText(building.name + ": " + numNodes);
 		title.setText(building.name);
 		ObservableList<javafx.scene.Node> children = this.getChildren();
@@ -81,11 +79,6 @@ public class OutageEntry extends VBox {
 		this.getChildren().add(title);
 		
 		return children;	
-	}
-	
-	public void delete() {
-		((Pane)edge.getParent()).getChildren().remove(edge);
-		((OutagePane)this.getParent()).getChildren().remove(this);
 	}
  
 	public void updateLocation() {
@@ -96,9 +89,6 @@ public class OutageEntry extends VBox {
 		Bounds bounds = title.localToScene(title.getBoundsInLocal()); 
 		xLocation.set(bounds.getMinX() - MARGIN);
     	yLocation.set((bounds.getMinY() + bounds.getMaxY()) / 2);
-    	if(edge != null) {
-    		edge.setVisible(true);
-    	}
 	}
 	
 	public double getXLocation() {

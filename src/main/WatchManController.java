@@ -1,5 +1,7 @@
 package main;
 
+import java.util.ArrayList;
+
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
 import javafx.fxml.FXML;
@@ -10,7 +12,7 @@ import javafx.scene.layout.GridPane;
 import javafx.scene.layout.Pane;
 import javafx.scene.layout.VBox;
 import util.Edge;
-import util.NodeGroup;
+import util.Building;
 import util.OutageEntry;
 import util.OutagePane;
 
@@ -26,7 +28,7 @@ public class WatchManController {
 	@FXML private ImageView spuMap;
 	@FXML private ColumnConstraints gridPaneLeft;
 	@FXML private Pane downNodePane;
-	@FXML private Pane viewPane;
+	@FXML private Pane buildingPane;
 	@FXML private Pane edgePane;
 	@FXML private Label downNodeLabel;
 	@FXML private VBox overflowPane;
@@ -46,8 +48,8 @@ public class WatchManController {
 		gridPaneLeft.prefWidthProperty().bind(gridPaneMain.heightProperty());
 		gridPaneLeft.maxWidthProperty().bind(gridPaneMain.heightProperty());
 		gridPaneLeft.minWidthProperty().bind(gridPaneMain.heightProperty());
-		
-		addVisibleNodes();
+
+		buildingPane.getChildren().addAll(model.downBuildings);
 
 		// Dynamically relocate the nodes on window resizing
 		spuMap.fitHeightProperty().addListener(e -> {
@@ -58,48 +60,44 @@ public class WatchManController {
 		// Collapse the node list if it is too tall
 		outagePane.heightProperty().addListener(e -> {
     		if(outagePane.getHeight() + downNodeLabel.getHeight() > spuMap.getFitHeight()) {
-    			overflowPane.getChildren().clear();
+//    			overflowPane.getChildren().clear();
 //    			outagePane.getOverfslowedNodes();
 //    			overflowPane.getChildren().addAll(outagePane.getOverflowedNodes());
     		}
 		});
 	}
 	
-	private void addVisibleNodes() {
-		if(model == null) {
-			return;
-		}
-		viewPane.getChildren().addAll(model.groups);
-	}
-	
-	private void addEdge(OutageEntry entry) {
-		Edge edge = new Edge(entry);
-		edgePane.getChildren().add(edge);
-		entry.edge = edge;
+	private void clearPanes() {
+		edgePane.getChildren().clear();
+		outagePane.getChildren().clear();
+		buildingPane.getChildren().clear();
 	}
 	
 	/**
 	 * This method defines what happens whenever the View calls an update
-	 * @return
+	 * @return	The event that happens on when the timer is triggered
 	 */
-	public EventHandler<ActionEvent> update()
-	{
-		return new EventHandler<ActionEvent>()
-		{
+	public EventHandler<ActionEvent> update() {
+		return new EventHandler<ActionEvent>() {
 		    @Override
-		    public void handle(ActionEvent event) 
-		    {
-		    	// If there are changes, rebuild the list of down nodes
-		    	int numChanges = model.getNumChanges();
-		    	if(numChanges > 0) {
-		    		for(NodeGroup ng : model.downBuildings) {
-		    			OutageEntry entry = outagePane.updateGroup(ng);
-		    			if(entry.edge == null) {
-			    			addEdge(entry);
-		    			}
-		    		}
-		    		outagePane.purgeOnlineGroups();
+		    public void handle(ActionEvent event) {
+		    	model.updateList();
+		    	ArrayList<Building> downBuildings = model.downBuildings;
+		    	if(downBuildings == null) {
+		    		return;
 		    	}
+		    	clearPanes();
+	    		for(Building ng : downBuildings) {
+	    			ng.refreshColor();
+	    			OutageEntry entry = outagePane.addBuilding(ng);
+	    			if(entry == null) {
+	    				continue;
+	    			}
+	    			Edge edge = new Edge(entry);
+	    			edgePane.getChildren().add(edge);
+	    		}
+	    		buildingPane.getChildren().addAll(model.downBuildings);
+	    		model.calculateLocations(spuMap.getFitHeight());
 		    }
 		};
 	}

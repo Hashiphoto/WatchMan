@@ -10,9 +10,8 @@ import javafx.scene.shape.Circle;
  * A NodeGroup represents a building or logical grouping of end points 
  * @author Trent
  */
-public class NodeGroup extends Circle implements Comparable<NodeGroup>{
+public class Building extends Circle implements Comparable<Building>{
 	public String name;
-	public HashSet<Node> nodes;
 	public HashSet<Node> deadNodes;
 	
 	private static final int DIAMETER = 4;
@@ -21,36 +20,16 @@ public class NodeGroup extends Circle implements Comparable<NodeGroup>{
 	private double xPercent;
 	private double yPercent;
 	
-	public NodeGroup(String name, double xPercent, double yPercent) {
+	public Building(String name, double xPercent, double yPercent) {
 		super(xPercent, yPercent, DIAMETER, activeColor);
 		this.xPercent = xPercent;
 		this.yPercent = yPercent;
 		this.name = name;
-		nodes = new HashSet<Node>();
 		deadNodes = new HashSet<Node>();
-		this.toFront();
 	}
 	
-	/**
-	 * Iterate through all nodes and check if any have gone down or been restored
-	 * @return	True if nodes have changed state. False if everything is the same
-	 */
-	public int getNumChanges() {
-		int changes = 0;
-		for(Node n : nodes) {
-			n.checkConnection();
-			if(!n.online) {
-				boolean isNew = deadNodes.add(n);
-				if(isNew) {
-					changes++;
-				}
-			} else if(deadNodes.contains(n)) {
-				deadNodes.remove(n);
-				changes++;
-			}
-		}
+	public void refreshColor() {
 		this.setFill(deadNodes.isEmpty() ? activeColor : disabledColor);
-		return changes;
 	}
 
 	public void calculateLocation(double fitHeight) {
@@ -59,7 +38,7 @@ public class NodeGroup extends Circle implements Comparable<NodeGroup>{
 	}
 
 	@Override
-	public int compareTo(NodeGroup other) {
+	public int compareTo(Building other) {
 		double dist = this.yPercent - other.yPercent;
 		if(dist > 0)
 			return 1;

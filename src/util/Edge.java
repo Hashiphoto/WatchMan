@@ -17,5 +17,8 @@ public class Edge extends Line {
 		this.endXProperty().bind(oe.xLocationProperty());
 		this.endYProperty().bind(oe.yLocationProperty());
 		this.setVisible(false);
+		this.endXProperty().addListener(e -> {
+			this.setVisible(true);
+		});
 	}
 }

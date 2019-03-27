@@ -60,15 +60,20 @@
                   </GridPane>
                </children>
             </GridPane>
-            <Pane fx:id="viewPane" prefHeight="200.0" prefWidth="200.0">
+            <StackPane>
                <children>
-                  <ImageView fx:id="spuMap" fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
-                     <image>
-                        <Image url="@../resources/mapSquare.jpg" />
-                     </image>
-                  </ImageView>
+                  <Pane prefHeight="200.0" prefWidth="200.0">
+                     <children>
+                        <ImageView fx:id="spuMap" fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../resources/mapSquare.jpg" />
+                           </image>
+                        </ImageView>
+                     </children>
+                  </Pane>
+                  <Pane fx:id="buildingPane" prefHeight="200.0" prefWidth="200.0" />
                </children>
-            </Pane>
+            </StackPane>
          </children>
       </GridPane>
       <Pane fx:id="edgePane" prefHeight="200.0" prefWidth="200.0" />

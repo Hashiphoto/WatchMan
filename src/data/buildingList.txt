@@ -30,12 +30,12 @@ Nickerson Studios               ,0.448,0.185
 6 Nickerson                     ,0.950,0.370
 Kingswood House                 ,0.585,0.730
 Safety and Security				,0.150,0.305
-Wesley Dravus					,0,0
-Arnett							,0,0
-Ashton							,0,0
-Hill							,0,0
-Emerson							,0,0
-Falcon Apartments				,0,0
-Falcon Newspaper				,0,0
-Bailey							,0,0
-Davis							,0,0
+Wesley Dravus					,0.853,0.585
+Arnett							,0.125,0.375
+Ashton							,0.185,0.705
+Hill							,0.110,0.505
+Emerson							,0.285,0.265
+Falcon Apartments				,0.170,0.273
+Falcon Newspaper				,0.505,0.643
+Bailey							,0.575,0.752
+Davis							,0.571,0.858
