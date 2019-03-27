@@ -1,4 +1,4 @@
-package util;
+package fxmlComponents;
 
 /**
  * A Node represents a single end point or ip address to ping

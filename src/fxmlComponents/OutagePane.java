@@ -1,4 +1,4 @@
-package util;
+package fxmlComponents;
 
 import javafx.scene.Node;
 import javafx.scene.layout.VBox;

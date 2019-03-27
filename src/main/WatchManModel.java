@@ -2,8 +2,8 @@ package main;
 
 import java.util.ArrayList;
 
+import fxmlComponents.Building;
 import util.DataLoader;
-import util.Building;
 
 /**
  * This class reads in the data from the script and pings all of the nodes periodically
@@ -12,13 +12,14 @@ import util.Building;
  */
 public class WatchManModel {
 	public ArrayList<Building> downBuildings = null;
+	private DataLoader dataLoader = new DataLoader();
 	
 	public WatchManModel() {
 		updateList();
 	}
 	
 	public void updateList() {
-		ArrayList<Building> temp = DataLoader.loadNodeGroups();
+		ArrayList<Building> temp = dataLoader.loadNodeGroups();
 		if(temp != null) {
 			downBuildings = temp;
 		}

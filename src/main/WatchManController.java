@@ -2,6 +2,10 @@ package main;
 
 import java.util.ArrayList;
 
+import fxmlComponents.Building;
+import fxmlComponents.Edge;
+import fxmlComponents.OutageEntry;
+import fxmlComponents.OutagePane;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
 import javafx.fxml.FXML;
@@ -11,10 +15,6 @@ import javafx.scene.layout.ColumnConstraints;
 import javafx.scene.layout.GridPane;
 import javafx.scene.layout.Pane;
 import javafx.scene.layout.VBox;
-import util.Edge;
-import util.Building;
-import util.OutageEntry;
-import util.OutagePane;
 
 /**
  * Controller class for the GUI

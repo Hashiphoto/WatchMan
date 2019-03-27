@@ -1,4 +1,4 @@
-package util;
+package fxmlComponents;
 
 
 import javafx.scene.paint.Color;

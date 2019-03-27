@@ -66,7 +66,7 @@
                      <children>
                         <ImageView fx:id="spuMap" fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
                            <image>
-                              <Image url="@../resources/mapSquare.jpg" />
+                              <Image url="@resources/images/mapSquare.jpg" />
                            </image>
                         </ImageView>
                      </children>

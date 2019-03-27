@@ -6,15 +6,15 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
+import fxmlComponents.Building;
+import fxmlComponents.Node;
+
 public class DataLoader {
-	// TODO: Fix this to be a local path
-	private static final String DATA_FOLDER = "src\\data\\";
-	private static final String BUILDING_LIST = "buildingList.txt";
-	private static final String NODE_LIST = "checked_DHCP_data.csv";
+	private PropertyReader prop = new PropertyReader();
 	
-	public static ArrayList<Building> loadNodeGroups() {
+	public ArrayList<Building> loadNodeGroups() {
 		// Open list of buildings
-		Scanner scanner = openFile(DATA_FOLDER + BUILDING_LIST);
+		Scanner scanner = openFile(prop.getString("buildingPath"));
 		if(scanner == null) {
 			return null;
 		}
@@ -32,7 +32,7 @@ public class DataLoader {
 		Collections.sort(nodeGroup);
 		
 		// Add all nodes to the buildings
-		scanner = openFile(DATA_FOLDER + NODE_LIST);
+		scanner = openFile(prop.getString("nodeListPath"));
 		if(scanner == null) {
 			return null;
 		}
@@ -61,7 +61,7 @@ public class DataLoader {
 		return nodeGroup;
 	}
 	
-	private static Building findGroup(String building, ArrayList<Building> buildingList) {
+	private Building findGroup(String building, ArrayList<Building> buildingList) {
 		for(Building ng : buildingList) {
 			if(ng.name.equals(building)) {
 				return ng;
@@ -70,7 +70,7 @@ public class DataLoader {
 		return null;
 	}
 	
-	private static Scanner openFile(String fileName) {
+	private Scanner openFile(String fileName) {
 		File file = new File(fileName);
 		if(!file.exists()) {
 			System.err.println("Data Loader: Could not open file " + fileName);

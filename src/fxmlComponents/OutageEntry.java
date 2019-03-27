@@ -1,4 +1,4 @@
-package util;
+package fxmlComponents;
 
 import javafx.animation.KeyFrame;
 import javafx.animation.Timeline;
