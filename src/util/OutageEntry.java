@@ -50,13 +50,13 @@ public class OutageEntry extends VBox {
 		this.needsLayoutProperty().addListener(e -> {
 			updateLocation();
 		});
-		refresh();
+		buildList();
 	}
 	
 	/**
 	 * Iterates through the list of dead nodes and updates the display accordingly			
 	 */
-	public void refresh() {
+	private void buildList() {
 		for(Node n : building.deadNodes) {
 			Text text = new Text(n.hostName);
 			text.setFont(NODE_FONT);

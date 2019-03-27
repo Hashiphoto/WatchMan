@@ -21,7 +21,6 @@ public class OutagePane extends VBox {
 		OutageEntry outageEntry = null;
 		outageEntry = new OutageEntry(building);
 		this.getChildren().add(outageEntry);
-		outageEntry.refresh();
 		return outageEntry;
 	}
 

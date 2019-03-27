@@ -1,182 +1,3 @@
-172.31.232.162,ActiveReservation,extron-6nick117-controller-slave,6 Nickerson,TRUE
-172.31.232.167,InactiveReservation,extron-6nick118-switcher,6 Nickerson,TRUE
-172.31.232.174,InactiveReservation,extron-6nick207-switcher,6 Nickerson,TRUE
-172.31.232.178,InactiveReservation,extron-6nick223-switcher,6 Nickerson,TRUE
-172.31.232.185,InactiveReservation,extron-6nick307-switcher,6 Nickerson,TRUE
-172.31.232.188,InactiveReservation,extron-6nick305-switcher,6 Nickerson,TRUE
-172.31.232.189,InactiveReservation,extron-6nick305-controller,6 Nickerson,TRUE
-172.31.232.190,InactiveReservation,extron-6nick305-touchpanel,6 Nickerson,TRUE
-172.31.232.192,InactiveReservation,extron-6nick314-switcher,6 Nickerson,TRUE
-72.233.132.20,ActiveReservation,LIB-INSTRUCT,Ames Library,TRUE
-72.233.132.28,Active,LIB-STUDENTS,Ames Library,TRUE
-72.233.132.51,Active,LIB-BPAULSON,Ames Library,TRUE
-172.31.232.102,ActiveReservation,EXTRON-LIBCLASS-CONTROL,Ames Library,TRUE
-172.31.255.181,ActiveReservation,EXTRON-LIBLAB1,Ames Library,TRUE
-172.31.255.183,ActiveReservation,EXTRON-LIBSEM2,Ames Library,TRUE
-72.233.129.34,Active,ace15,Art Center,TRUE
-72.233.129.139,Active,teacher04,Art Center,TRUE
-72.233.129.144,Active,teacher02,Art Center,TRUE
-172.31.232.33,ActiveReservation,EXTRON-AC9-CONTROLLER,Art Center,TRUE
-172.31.255.89,InactiveReservation,hvac-router-alumni,Art Center,TRUE
-172.31.240.37,Active,XRX0000AAAC7929,Art Center,TRUE
-172.31.255.182,ActiveReservation,EXTRON-BH1-CONTROLLER,Beegle,TRUE
-172.31.232.76,ActiveReservation,EXTRON-CMB103-CONTROLLER,Crawford Music Building,TRUE
-172.31.232.101,ActiveReservation,EXTRON-CMB211-CONTROLLER,Crawford Music Building,TRUE
-172.31.255.244,InactiveReservation,extron-crem102,Cremona,TRUE
-172.31.255.245,ActiveReservation,EXTRON-CREM201-CONTROL,Cremona,TRUE
-172.31.255.246,ActiveReservation,EXTRON-CREM202-CONTROL,Cremona,TRUE
-172.31.255.247,ActiveReservation,EXTRON-CREM203-CONTROLLE,Cremona,TRUE
-72.233.136.23,ActiveReservation,sfstext,Demaray,TRUE
-72.233.136.135,Active,SFS-LOAN-02,Demaray,TRUE
-172.31.217.252,ActiveReservation,Demaray 1-Jack-93-105,Demaray,TRUE
-172.31.217.254,ActiveReservation,Demaray 1-Classroom 150-105,Demaray,TRUE
-172.31.218.2,ActiveReservation,Demaray 1-SAS Office-105A,Demaray,TRUE
-172.31.218.3,ActiveReservation,Demaray 1-Jack-223-105,Demaray,TRUE
-172.31.218.4,ActiveReservation,Demaray B-Jack-117-105,Demaray,TRUE
-172.31.218.5,ActiveReservation,Demaray B-MDF-105,Demaray,TRUE
-172.31.218.7,ActiveReservation,Demaray 2-University Relations-105,Demaray,TRUE
-172.31.218.8,ActiveReservation,Demaray 2-Executive AA-105,Demaray,TRUE
-172.31.218.9,ActiveReservation,Demaray 2-Classroom 255-105,Demaray,TRUE
-172.31.218.11,ActiveReservation,Demaray 3-Classroom 356-105,Demaray,TRUE
-172.31.218.12,ActiveReservation,Demaray 2-Classroom 261-105,Demaray,TRUE
-172.31.221.155,ActiveReservation,Demaray 1-Jack-118-105,Demaray,TRUE
-172.31.221.156,ActiveReservation,Demaray B-Jack-154 -105,Demaray,TRUE
-172.31.221.157,ActiveReservation,Demaray 1-Lobby-105,Demaray,TRUE
-172.31.221.158,ActiveReservation,Demaray 2-Jack-101-105,Demaray,TRUE
-172.31.221.159,ActiveReservation,Demaray 2-Grad Center-105B,Demaray,TRUE
-172.31.221.160,ActiveReservation,Demaray 2-Grad Center-105A,Demaray,TRUE
-172.31.221.161,ActiveReservation,Demaray 3-Jack-21-105,Demaray,TRUE
-172.31.221.164,ActiveReservation,Demaray 3-Jack-120-105,Demaray,TRUE
-172.31.221.165,ActiveReservation,Demaray 2-Presidents Conference room-105,Demaray,TRUE
-72.233.134.6,Active,EH26A-IS50,Eaton,TRUE
-72.233.134.13,Active,EH222,Eaton,TRUE
-72.233.134.28,Active,EHB21-01,Eaton,TRUE
-72.233.134.139,Active,EHB25A-SEM,Eaton,TRUE
-72.233.134.142,Active,EH205-WINCNTRL,Eaton,TRUE
-72.233.134.144,Active,EH201-01,Eaton,TRUE
-72.233.134.146,Active,EH205-01,Eaton,TRUE
-72.233.134.147,Active,EH133-01,Eaton,TRUE
-72.233.134.182,Active,EH332-01,Eaton,TRUE
-72.233.136.107,Active,CYUEH,Eaton,TRUE
-72.233.129.56,Active,FALCON7,Falcon Newspaper,TRUE
-72.233.191.17,Active,DESKTOP-9SEIUG1,Gwinn Commons,TRUE
-72.233.140.18,Active,MW3-11,Marston/Watson,TRUE
-72.233.140.67,Active,MW3-05,Marston/Watson,TRUE
-72.233.140.167,Active,MW3-07,Marston/Watson,TRUE
-72.233.140.173,Active,MW3-13,Marston/Watson,TRUE
-72.233.140.212,Active,MW3-25,Marston/Watson,TRUE
-72.233.190.12,Active,ubuntu-server,Marston/Watson,TRUE
-72.233.191.30,Active,ubuntu-server,Marston/Watson,TRUE
-172.31.232.12,ActiveReservation,EXTRON-MW56-CONTROLLER,Marston/Watson,TRUE
-72.233.133.2,Active,DLMH113-20,McKenna,TRUE
-72.233.133.13,Active,DLMH113-19,McKenna,TRUE
-72.233.133.19,Active,DLMH113-11,McKenna,TRUE
-72.233.133.24,Active,DLMH113-14,McKenna,TRUE
-72.233.133.27,Active,DLMH113-13,McKenna,TRUE
-72.233.133.29,Active,DLMH113-10,McKenna,TRUE
-72.233.133.36,Active,DLMH113-06,McKenna,TRUE
-72.233.133.44,Active,DLMH113-08,McKenna,TRUE
-72.233.133.45,Active,DLMH113-04,McKenna,TRUE
-72.233.133.132,Active,DLMH113-17,McKenna,TRUE
-72.233.133.138,Active,DLMH113-07,McKenna,TRUE
-72.233.133.145,Active,DLMH113-03,McKenna,TRUE
-72.233.133.155,Active,DLMH113-05,McKenna,TRUE
-72.233.133.157,Active,DLMH113-21,McKenna,TRUE
-72.233.133.161,Active,DLMH113-16,McKenna,TRUE
-172.31.255.218,ActiveReservation,Power-Moyer-UPS01-2ndIDF,Moyer,TRUE
-72.233.138.2,Active,OMH139-17,Otto Miller,TRUE
-72.233.138.3,Active,OMH223-04,Otto Miller,TRUE
-72.233.138.5,Active,OMH224-02,Otto Miller,TRUE
-72.233.138.7,Active,OMH139-12,Otto Miller,TRUE
-72.233.138.11,Active,OMH246-04,Otto Miller,TRUE
-72.233.138.17,Active,OMH225-02,Otto Miller,TRUE
-72.233.138.18,Active,OMH244-20,Otto Miller,TRUE
-72.233.138.20,Active,OMH202-01,Otto Miller,TRUE
-72.233.138.25,Active,OMH244-03,Otto Miller,TRUE
-72.233.138.26,Active,OMH225-11,Otto Miller,TRUE
-72.233.138.28,Active,OMH250-01,Otto Miller,TRUE
-72.233.138.29,Active,OMH135-08,Otto Miller,TRUE
-72.233.138.32,Active,OMH139-16,Otto Miller,TRUE
-72.233.138.33,Active,OMH253-25,Otto Miller,TRUE
-72.233.138.34,Active,OMH244-18,Otto Miller,TRUE
-72.233.138.40,Active,OMH225-05,Otto Miller,TRUE
-72.233.138.44,Active,OMH253-26,Otto Miller,TRUE
-72.233.138.45,Active,OMH246-07,Otto Miller,TRUE
-72.233.138.48,Active,OMH135-01,Otto Miller,TRUE
-72.233.138.50,Active,OMH244-10,Otto Miller,TRUE
-72.233.138.51,Active,OMH253-08,Otto Miller,TRUE
-72.233.138.53,Active,OMH253-03,Otto Miller,TRUE
-72.233.138.54,Active,OMH250-10,Otto Miller,TRUE
-72.233.138.55,Active,OMH250-04,Otto Miller,TRUE
-72.233.138.57,Active,OMH224-03,Otto Miller,TRUE
-72.233.138.59,Active,OMH253-09,Otto Miller,TRUE
-72.233.138.61,Active,OMH253-17,Otto Miller,TRUE
-72.233.138.64,Active,OMH225-14,Otto Miller,TRUE
-72.233.138.66,Active,OMH253-07,Otto Miller,TRUE
-72.233.138.68,Active,OMH253-11,Otto Miller,TRUE
-72.233.138.69,Active,OMH223-01,Otto Miller,TRUE
-72.233.138.72,Active,OMH253-20,Otto Miller,TRUE
-72.233.138.73,Active,OMH139-01,Otto Miller,TRUE
-72.233.138.76,Active,OMH253-18,Otto Miller,TRUE
-72.233.138.77,Active,OMH225-07,Otto Miller,TRUE
-72.233.138.80,Active,OMH253-15,Otto Miller,TRUE
-72.233.138.82,Active,OMH253-27,Otto Miller,TRUE
-72.233.138.84,Active,OMH-231-ADJ,Otto Miller,TRUE
-72.233.138.85,Active,OMH202-02,Otto Miller,TRUE
-72.233.138.87,Active,OMH139-11,Otto Miller,TRUE
-72.233.138.88,Active,OMH250-07,Otto Miller,TRUE
-72.233.138.89,Active,OMH253-04,Otto Miller,TRUE
-72.233.138.92,Active,OMH139-02,Otto Miller,TRUE
-72.233.138.93,Active,OMH244-01,Otto Miller,TRUE
-72.233.138.95,Active,OMH253-06,Otto Miller,TRUE
-72.233.138.97,Active,OMH246-06,Otto Miller,TRUE
-72.233.138.99,Active,OMH135-05,Otto Miller,TRUE
-72.233.138.104,Active,OMH135-07,Otto Miller,TRUE
-72.233.138.106,Active,OMH141-01,Otto Miller,TRUE
-72.233.138.107,Active,OMH225-09,Otto Miller,TRUE
-72.233.138.145,Active,OMH253-13,Otto Miller,TRUE
-72.233.138.153,Active,OMH138-03,Otto Miller,TRUE
-72.233.138.169,Active,OMH139-15,Otto Miller,TRUE
-72.233.138.173,Active,OMH244-06,Otto Miller,TRUE
-72.233.138.175,Active,OMH244-09,Otto Miller,TRUE
-72.233.138.199,Active,OMH244-04,Otto Miller,TRUE
-72.233.138.223,Active,OMH251-01,Otto Miller,TRUE
-72.233.138.226,Active,OMH253-05,Otto Miller,TRUE
-72.233.138.230,Active,OMH139-07,Otto Miller,TRUE
-72.233.138.232,Active,OMH250-16,Otto Miller,TRUE
-72.233.138.239,Active,OMH253-16,Otto Miller,TRUE
-72.233.138.246,Active,OMH138-07,Otto Miller,TRUE
-72.233.138.248,Active,OMH139-18,Otto Miller,TRUE
-72.233.139.39,Active,OMH139-13,Otto Miller,TRUE
-72.233.139.42,Active,OMH250-03,Otto Miller,TRUE
-72.233.139.46,Active,OMH139-05,Otto Miller,TRUE
-72.233.139.48,Active,OMH139-19,Otto Miller,TRUE
-72.233.139.49,Active,OMH139-08,Otto Miller,TRUE
-72.233.139.50,Active,OMH139-06,Otto Miller,TRUE
-72.233.139.52,Active,OMH226-12,Otto Miller,TRUE
-72.233.139.53,Active,OMH253-12,Otto Miller,TRUE
-72.233.139.54,Active,OMH244-13,Otto Miller,TRUE
-72.233.139.55,Active,OMH135-02,Otto Miller,TRUE
-72.233.139.56,Active,OMH138-01,Otto Miller,TRUE
-72.233.139.67,Active,OMH250-08,Otto Miller,TRUE
-72.233.139.68,Active,OMH253-19,Otto Miller,TRUE
-72.233.139.71,Active,OMH223-05,Otto Miller,TRUE
-72.233.139.74,Active,OMH253-10,Otto Miller,TRUE
-72.233.139.77,Active,OMH225-01,Otto Miller,TRUE
-72.233.139.80,Active,OMH225-04,Otto Miller,TRUE
-72.233.139.89,Active,OMH139-10,Otto Miller,TRUE
-72.233.139.97,Active,OMH135-03,Otto Miller,TRUE
-72.233.139.102,Active,OMH225-03,Otto Miller,TRUE
-72.233.139.104,Active,OMH246-01,Otto Miller,TRUE
-172.31.232.45,ActiveReservation,EXTRON-OMH225-CONTROLLER,Otto Miller,TRUE
-172.31.232.52,ActiveReservation,EXTRON-OMH224-SWITCHER,Otto Miller,TRUE
-172.31.232.154,InactiveReservation,extron-omh223b-controller,Otto Miller,TRUE
-172.31.221.169,ActiveReservation,Peterson 3-105,Peterson,TRUE
-172.31.255.216,InactiveReservation,EXTRON-RBPEXSCI,Royal Brougham Pavilion,TRUE
-72.233.131.136,Active,SECVIDEO2,Safety and Security,TRUE
-72.233.130.42,Active,ASSPTREASURER,Student Union Building,TRUE
-72.233.130.85,Active,ASSP-01,Student Union Building,TRUE
-172.31.232.151,ActiveReservation,extron-wacconfroom-controller,Walls Advancement Center,TRUE
 172.31.240.20,ActiveReservation,mfp-4nickerson,4 Nickerson,TRUE
 72.233.140.2,Active,6NICK207,6 Nickerson,TRUE
 72.233.140.39,Active,6NICK213,6 Nickerson,TRUE
@@ -194,26 +15,35 @@
 172.31.232.159,InactiveReservation,extron-6nick117-switcher,6 Nickerson,TRUE
 172.31.232.160,ActiveReservation,extron-6nick117-controller,6 Nickerson,TRUE
 172.31.232.161,ActiveReservation,extron-6nick117-touchpanel,6 Nickerson,TRUE
+172.31.232.162,ActiveReservation,extron-6nick117-controller-slave,6 Nickerson,TRUE
 172.31.232.163,InactiveReservation,extron-6nick106-switcher,6 Nickerson,TRUE
 172.31.232.164,ActiveReservation,extron-6nick106-controller,6 Nickerson,TRUE
 172.31.232.165,ActiveReservation,extron-6nick106-touchpanel,6 Nickerson,TRUE
 172.31.232.166,ActiveReservation,extron-6nick106-controller-slave,6 Nickerson,TRUE
+172.31.232.167,InactiveReservation,extron-6nick118-switcher,6 Nickerson,TRUE
 172.31.232.168,ActiveReservation,extron-6nick118-controller,6 Nickerson,TRUE
 172.31.232.169,ActiveReservation,extron-6nick118-touchpanel,6 Nickerson,TRUE
 172.31.232.170,InactiveReservation,extron-6nick213-switcher,6 Nickerson,TRUE
 172.31.232.171,InactiveReservation,extron-6nick213-controller,6 Nickerson,TRUE
 172.31.232.172,InactiveReservation,extron-6nick213-touchpanel,6 Nickerson,TRUE
 172.31.232.173,InactiveReservation,extron-6nick213-controller-slave,6 Nickerson,TRUE
+172.31.232.174,InactiveReservation,extron-6nick207-switcher,6 Nickerson,TRUE
 172.31.232.175,ActiveReservation,extron-6nick207-controller,6 Nickerson,TRUE
 172.31.232.176,ActiveReservation,extron-6nick207-touchpanel,6 Nickerson,TRUE
 172.31.232.177,ActiveReservation,extron-6nick207-controller-slave,6 Nickerson,TRUE
+172.31.232.178,InactiveReservation,extron-6nick223-switcher,6 Nickerson,TRUE
 172.31.232.179,ActiveReservation,extron-6nick223-controller,6 Nickerson,TRUE
 172.31.232.180,ActiveReservation,extron-6nick223-touchpanel,6 Nickerson,TRUE
 172.31.232.181,InactiveReservation,extron-6nick308-switcher,6 Nickerson,TRUE
 172.31.232.182,ActiveReservation,extron-6nick308-controller,6 Nickerson,TRUE
 172.31.232.183,ActiveReservation,extron-6nick308-touchpanel,6 Nickerson,TRUE
+172.31.232.185,InactiveReservation,extron-6nick307-switcher,6 Nickerson,TRUE
 172.31.232.186,ActiveReservation,extron-6nick307-controller,6 Nickerson,TRUE
 172.31.232.187,ActiveReservation,extron-6nick307-touchpanel,6 Nickerson,TRUE
+172.31.232.188,InactiveReservation,extron-6nick305-switcher,6 Nickerson,TRUE
+172.31.232.189,InactiveReservation,extron-6nick305-controller,6 Nickerson,TRUE
+172.31.232.190,InactiveReservation,extron-6nick305-touchpanel,6 Nickerson,TRUE
+172.31.232.192,InactiveReservation,extron-6nick314-switcher,6 Nickerson,TRUE
 172.31.232.193,ActiveReservation,extron-6nick314-controller,6 Nickerson,TRUE
 172.31.240.49,ActiveReservation,mfp-6nick-1stfloor,6 Nickerson,TRUE
 172.31.240.50,ActiveReservation,mfp-6nick-2ndfloor,6 Nickerson,TRUE
@@ -243,8 +73,10 @@
 172.31.240.18,ActiveReservation,mfp-alex302,Alexander,TRUE
 172.31.240.19,ActiveReservation,mfp-alex413,Alexander,TRUE
 72.233.132.9,Active,LIB-LL-A-008,Ames Library,TRUE
+72.233.132.20,ActiveReservation,LIB-INSTRUCT,Ames Library,TRUE
 72.233.132.25,Active,KIOSK-LIB-120,Ames Library,TRUE
 72.233.132.26,Active,LIB-LL-A-026,Ames Library,TRUE
+72.233.132.28,Active,LIB-STUDENTS,Ames Library,TRUE
 72.233.132.29,Active,EXTRON-LIBCLASS-CONTROL,Ames Library,TRUE
 72.233.132.30,Active,KIOSK-LIB-S0,Ames Library,TRUE
 72.233.132.31,Active,LIB-LL-A-014,Ames Library,TRUE
@@ -260,17 +92,18 @@
 72.233.132.48,Active,LIB-LL-A-009,Ames Library,TRUE
 72.233.132.49,Active,LIB-LL-A-023,Ames Library,TRUE
 72.233.132.50,Active,LIB-ILL-STU,Ames Library,TRUE
+72.233.132.51,Active,LIB-BPAULSON,Ames Library,TRUE
 72.233.132.52,Active,LIB-LL-A-015,Ames Library,TRUE
 72.233.132.53,Active,LIB-LL-A-024,Ames Library,TRUE
 72.233.132.55,Active,KIOSK-LIB-110,Ames Library,TRUE
 72.233.132.56,Active,KIOSK-LIB-101,Ames Library,TRUE
-72.233.132.59,Active,LIB-ML-A-005,Ames Library,TRUE
+72.233.132.59,Active,LIB-ML-A-005,Ames Library,FALSE
 72.233.132.62,Active,LIB-LL-A-021,Ames Library,TRUE
 72.233.132.64,Active,LIB-CIRC01,Ames Library,TRUE
 72.233.132.65,Active,LIB-JULIE,Ames Library,TRUE
 72.233.132.66,Active,KIOSK-LIB-S1,Ames Library,TRUE
 72.233.132.71,Active,LIB-ML-A-003,Ames Library,TRUE
-72.233.132.72,Active,LIB-LL-A-006,Ames Library,TRUE
+72.233.132.72,Active,LIB-LL-A-006,Ames Library,FALSE
 72.233.132.80,Active,LIB-CIRC02,Ames Library,TRUE
 72.233.132.136,Active,ETM-iMac-Student,Ames Library,TRUE
 72.233.132.139,Active,localadinsiMac2,Ames Library,TRUE
@@ -281,7 +114,7 @@
 72.233.132.150,Active,KIOSK-LIB-115,Ames Library,TRUE
 72.233.132.151,Active,LIB-SHAW,Ames Library,TRUE
 72.233.132.152,Active,LIB-LL-A-018,Ames Library,TRUE
-72.233.132.153,Active,LIBClasmAppleTV,Ames Library,TRUE
+72.233.132.153,Active,LIBClasmAppleTV,Ames Library,FALSE
 72.233.132.155,Active,KIOSK-LIB-109,Ames Library,TRUE
 72.233.132.156,Active,KIOSK-LIB-111,Ames Library,TRUE
 72.233.132.157,Active,KIOSK-LIB-114,Ames Library,TRUE
@@ -297,12 +130,15 @@
 72.233.132.170,Active,KIOSK-LIB-119,Ames Library,TRUE
 72.233.132.173,Active,LIB-LL-A-017,Ames Library,TRUE
 72.233.132.174,Active,KIOSK-LIB-117,Ames Library,TRUE
-72.233.132.177,Active,LIB-LL-A-019,Ames Library,TRUE
+72.233.132.177,Active,LIB-LL-A-019,Ames Library,FALSE
 72.233.132.178,Active,LIB-LL-A-020,Ames Library,TRUE
 72.233.132.180,Active,KIOSK-LIB-03,Ames Library,TRUE
 72.233.132.191,Active,LIB-MCNAYZ,Ames Library,TRUE
 72.233.132.192,Active,KIOSK-LIB-S2,Ames Library,TRUE
+172.31.232.102,ActiveReservation,EXTRON-LIBCLASS-CONTROL,Ames Library,TRUE
 172.31.232.103,ActiveReservation,EXTRON-LIBSEM-CONTROLLER,Ames Library,TRUE
+172.31.255.181,ActiveReservation,EXTRON-LIBLAB1,Ames Library,TRUE
+172.31.255.183,ActiveReservation,EXTRON-LIBSEM2,Ames Library,TRUE
 172.31.240.48,ActiveReservation,mfp-lib-lowerlevel-ne,Ames Library,TRUE
 172.31.240.79,ActiveReservation,mfp-lib-lowerlevel-hall,Ames Library,TRUE
 172.31.240.81,ActiveReservation,mfp-lib-circ,Ames Library,TRUE
@@ -337,13 +173,16 @@
 172.31.255.92,InactiveReservation,hvac-router-arnett,Arnett,TRUE
 172.31.255.215,ActiveReservation,netcam-arnett-hall-north,Arnett,TRUE
 72.233.129.11,Active,iMac-2,Art Center,TRUE
+72.233.129.34,Active,ace15,Art Center,TRUE
 72.233.129.41,Active,aceif04,Art Center,TRUE
 72.233.129.43,Active,mac-rlorig,Art Center,TRUE
 72.233.129.47,Active,AC3,Art Center,TRUE
 72.233.129.70,Active,ARTADJUNCT,Art Center,TRUE
 72.233.129.80,Active,rangerTFoxsiMac,Art Center,TRUE
 72.233.129.91,Active,localadinsiMac2,Art Center,TRUE
+72.233.129.139,Active,teacher04,Art Center,TRUE
 72.233.129.142,Active,AC5,Art Center,TRUE
+72.233.129.144,Active,teacher02,Art Center,TRUE
 72.233.129.145,Active,localadinsiMac3,Art Center,TRUE
 72.233.129.151,Active,Labs-iMac,Art Center,TRUE
 72.233.129.158,Active,artlabimac007,Art Center,TRUE
@@ -360,16 +199,19 @@
 172.31.232.16,ActiveReservation,EXTRON-AC5-SWITCHER,Art Center,TRUE
 172.31.232.17,ActiveReservation,EXTRON-AC6-CONTROLLER,Art Center,TRUE
 172.31.232.32,ActiveReservation,EXTRON-AC7-CONTROLLER,Art Center,TRUE
+172.31.232.33,ActiveReservation,EXTRON-AC9-CONTROLLER,Art Center,TRUE
 172.31.232.152,ActiveReservation,extron-ac8-controller,Art Center,TRUE
 172.31.232.153,ActiveReservation,extron-ac10-controller,Art Center,TRUE
 172.31.255.67,InactiveReservation,hvac-router-art-center,Art Center,TRUE
 172.31.255.86,ActiveReservation,WASeattlePacificU,Art Center,TRUE
+172.31.255.89,InactiveReservation,hvac-router-alumni,Art Center,TRUE
 172.31.255.131,InactiveReservation,hvac-router-foc,Art Center,TRUE
 172.31.255.134,InactiveReservation,hvac-router-nickersonstudio,Art Center,TRUE
 172.31.255.250,ActiveReservation,netcam-martinsquare-south,Art Center,TRUE
 172.31.255.254,ActiveReservation,Netcam-MartinSquare-North,Art Center,TRUE
 172.31.240.21,ActiveReservation,mfp-art133,Art Center,TRUE
 172.31.240.22,ActiveReservation,mfp-art107,Art Center,TRUE
+172.31.240.37,Active,XRX0000AAAC7929,Art Center,TRUE
 72.233.130.86,Active,RLC-ASHTON2,Ashton,TRUE
 72.233.130.185,Active,RLC-ASHTON1,Ashton,TRUE
 172.31.208.6,ActiveReservation,Power-Ashton-UPS01-4theMDF,Ashton,TRUE
@@ -402,6 +244,7 @@
 172.31.232.116,ActiveReservation,EXTRON-BH205-SWITCHER,Beegle,TRUE
 172.31.232.130,ActiveReservation,EXTRON-BH205-CAMERA,Beegle,TRUE
 172.31.232.131,ActiveReservation,EXTRON-BH205-CAMCCU,Beegle,TRUE
+172.31.255.182,ActiveReservation,EXTRON-BH1-CONTROLLER,Beegle,TRUE
 172.31.221.9,Active,Beegle 2-201-305,Beegle,TRUE
 72.233.129.20,Active,APPLETV-BERT5,Bertona,TRUE
 72.233.129.23,Active,BERT2,Bertona,TRUE
@@ -439,7 +282,9 @@
 72.233.129.100,Active,CMB211,Crawford Music Building,TRUE
 72.233.129.213,Active,EXTRON-CMB103-CONTROLLER,Crawford Music Building,TRUE
 72.233.129.215,Active,CMB103,Crawford Music Building,TRUE
+172.31.232.76,ActiveReservation,EXTRON-CMB103-CONTROLLER,Crawford Music Building,TRUE
 172.31.232.77,ActiveReservation,EXTRON-CMB201-CONTROLLER,Crawford Music Building,TRUE
+172.31.232.101,ActiveReservation,EXTRON-CMB211-CONTROLLER,Crawford Music Building,TRUE
 172.31.232.147,ActiveReservation,EXTRON-CRAW211-SWITCHER,Crawford Music Building,TRUE
 172.31.232.148,ActiveReservation,EXTRON-CRAW211-TOUCHPANEL,Crawford Music Building,TRUE
 172.31.239.208,Active,EXTRON-CRAW211-SWITCHER,Crawford Music Building,TRUE
@@ -454,13 +299,17 @@
 172.31.232.83,ActiveReservation,EXTRON-CREM201-CONTROL,Cremona,TRUE
 172.31.232.84,ActiveReservation,EXTRON-CREM202-CONTROL,Cremona,TRUE
 172.31.232.85,ActiveReservation,EXTRON-CREM203-CONTROL,Cremona,TRUE
-172.31.232.86,ActiveReservation,EXTRON-CREM203-SWITCH,Cremona,TRUE
-172.31.232.144,ActiveReservation,EXTRON-CREM101-SWITCHER,Cremona,TRUE
-172.31.232.145,ActiveReservation,extron-crem101-touchpanel,Cremona,TRUE
-172.31.232.146,InactiveReservation,extron-crem101-controller,Cremona,TRUE
+172.31.232.86,ActiveReservation,EXTRON-CREM203-SWITCH,Cremona,FALSE
+172.31.232.144,ActiveReservation,EXTRON-CREM101-SWITCHER,Cremona,FALSE
+172.31.232.145,ActiveReservation,extron-crem101-touchpanel,Cremona,FALSE
+172.31.232.146,InactiveReservation,extron-crem101-controller,Cremona,FALSE
 172.31.255.219,ActiveReservation,Power-WesleyCremona-UPS01-MDF,Cremona,TRUE
 172.31.255.222,ActiveReservation,Power-34WCremona-UPS01-MDF,Cremona,TRUE
 172.31.255.223,ActiveReservation,Power-35WCremona-UPS01-MDF,Cremona,TRUE
+172.31.255.244,InactiveReservation,extron-crem102,Cremona,TRUE
+172.31.255.245,ActiveReservation,EXTRON-CREM201-CONTROL,Cremona,TRUE
+172.31.255.246,ActiveReservation,EXTRON-CREM202-CONTROL,Cremona,TRUE
+172.31.255.247,ActiveReservation,EXTRON-CREM203-CONTROLLE,Cremona,TRUE
 172.31.218.99,Active,Cremona Classroom 203-2-305,Cremona,TRUE
 172.31.218.100,Active,14 W,Cremona,TRUE
 172.31.218.101,Active,Cremona Classroom 202-2-305,Cremona,TRUE
@@ -512,6 +361,7 @@
 172.31.221.13,Active,Davis Apts Unit 5-215,Davis,TRUE
 172.31.221.207,Active,Davis Apts Unit 8-115,Davis,TRUE
 72.233.136.18,Active,SASSTU-S,Demaray,TRUE
+72.233.136.23,ActiveReservation,sfstext,Demaray,TRUE
 72.233.136.29,Active,DH358,Demaray,TRUE
 72.233.136.30,Active,SFS-LOAN-01,Demaray,TRUE
 72.233.136.41,Active,DH359,Demaray,TRUE
@@ -535,6 +385,7 @@
 72.233.136.125,Active,KIOSK-SFS-02-N,Demaray,TRUE
 72.233.136.132,Active,ADM-INTERN1,Demaray,TRUE
 72.233.136.133,Active,SFS-OPS-COR2,Demaray,TRUE
+72.233.136.135,Active,SFS-LOAN-02,Demaray,TRUE
 72.233.136.138,Active,ADM-INTERN4,Demaray,TRUE
 72.233.136.233,Active,KIOSK-SAS,Demaray,TRUE
 72.233.136.234,Active,DH261-2,Demaray,TRUE
@@ -576,7 +427,7 @@
 172.31.240.25,ActiveReservation,mfp-dh-sfs-backofc,Demaray,TRUE
 172.31.240.27,ActiveReservation,mfp-dh110,Demaray,TRUE
 172.31.240.28,ActiveReservation,mfp-dh115,Demaray,TRUE
-172.31.240.29,ActiveReservation,mfp-dh152,Demaray,TRUE
+172.31.240.29,ActiveReservation,mfp-dh152,Demaray,FALSE
 172.31.240.30,ActiveReservation,mfp-dh153,Demaray,TRUE
 172.31.240.31,ActiveReservation,mfp-dh-3rdfloor,Demaray,TRUE
 172.31.240.32,ActiveReservation,mfp-dh-execofc,Demaray,TRUE
@@ -585,8 +436,19 @@
 172.31.240.35,ActiveReservation,mfp-dh-gradctr,Demaray,TRUE
 172.31.240.36,ActiveReservation,mfp-dh-obf,Demaray,TRUE
 172.31.240.105,ActiveReservation,mfp-dh258,Demaray,TRUE
+172.31.217.252,ActiveReservation,Demaray 1-Jack-93-105,Demaray,TRUE
+172.31.217.254,ActiveReservation,Demaray 1-Classroom 150-105,Demaray,TRUE
+172.31.218.2,ActiveReservation,Demaray 1-SAS Office-105A,Demaray,TRUE
+172.31.218.3,ActiveReservation,Demaray 1-Jack-223-105,Demaray,TRUE
+172.31.218.4,ActiveReservation,Demaray B-Jack-117-105,Demaray,TRUE
+172.31.218.5,ActiveReservation,Demaray B-MDF-105,Demaray,TRUE
 172.31.218.6,ActiveReservation,Demaray 1-Office 153-115,Demaray,TRUE
+172.31.218.7,ActiveReservation,Demaray 2-University Relations-105,Demaray,TRUE
+172.31.218.8,ActiveReservation,Demaray 2-Executive AA-105,Demaray,TRUE
+172.31.218.9,ActiveReservation,Demaray 2-Classroom 255-105,Demaray,TRUE
 172.31.218.10,ActiveReservation,Demaray 2-OPA-115,Demaray,TRUE
+172.31.218.11,ActiveReservation,Demaray 3-Classroom 356-105,Demaray,TRUE
+172.31.218.12,ActiveReservation,Demaray 2-Classroom 261-105,Demaray,TRUE
 172.31.218.37,Active,Demaray 2-Executive AA-305,Demaray,TRUE
 172.31.218.52,Active,Demaray B-MDF-305,Demaray,TRUE
 172.31.218.54,Active,Demaray B-Jack-117-305,Demaray,TRUE
@@ -598,8 +460,17 @@
 172.31.218.66,Active,Demaray 2-Classroom 261-305,Demaray,TRUE
 172.31.218.67,Active,Demaray 1-Classroom 150-305,Demaray,TRUE
 172.31.221.42,Active,Demaray B-Jack-154-305,Demaray,TRUE
+172.31.221.155,ActiveReservation,Demaray 1-Jack-118-105,Demaray,TRUE
+172.31.221.156,ActiveReservation,Demaray B-Jack-154 -105,Demaray,TRUE
+172.31.221.157,ActiveReservation,Demaray 1-Lobby-105,Demaray,TRUE
+172.31.221.158,ActiveReservation,Demaray 2-Jack-101-105,Demaray,TRUE
+172.31.221.159,ActiveReservation,Demaray 2-Grad Center-105B,Demaray,TRUE
+172.31.221.160,ActiveReservation,Demaray 2-Grad Center-105A,Demaray,TRUE
+172.31.221.161,ActiveReservation,Demaray 3-Jack-21-105,Demaray,TRUE
 172.31.221.162,ActiveReservation,Demaray 3-Cassroom 359-115,Demaray,TRUE
 172.31.221.163,ActiveReservation,Demaray 3-Classroom 354-115,Demaray,TRUE
+172.31.221.164,ActiveReservation,Demaray 3-Jack-120-105,Demaray,TRUE
+172.31.221.165,ActiveReservation,Demaray 2-Presidents Conference room-105,Demaray,TRUE
 172.31.221.212,Active,Demaray 1-Jack-93-305,Demaray,TRUE
 172.31.221.213,Active,Demaray 1-Jack-118-305,Demaray,TRUE
 172.31.221.214,Active,Demaray 2-Grad Center-305B,Demaray,TRUE
@@ -609,12 +480,15 @@
 172.31.221.221,Active,Demaray 3-Jack-120-305,Demaray,TRUE
 172.31.221.224,Active,Demaray 2-Presidents Conference room-305,Demaray,TRUE
 172.31.221.225,Active,Demaray 2-Classroom 255-305,Demaray,TRUE
+72.233.134.6,Active,EH26A-IS50,Eaton,TRUE
+72.233.134.13,Active,EH222,Eaton,TRUE
 72.233.134.24,Active,EH223-01,Eaton,TRUE
+72.233.134.28,Active,EHB21-01,Eaton,TRUE
 72.233.134.30,Active,EH231,Eaton,TRUE
 72.233.134.31,Active,EH233,Eaton,TRUE
 72.233.134.33,Active,EHB27-01,Eaton,TRUE
 72.233.134.35,Active,mac-schofieldd,Eaton,TRUE
-72.233.134.42,Active,EH318-01,Eaton,TRUE
+72.233.134.42,Active,EH318-01,Eaton,FALSE
 72.233.134.43,Active,APPLETV-EH231,Eaton,TRUE
 72.233.134.50,Active,EH330,Eaton,TRUE
 72.233.134.57,Active,HVAC-SCIENCE,Eaton,TRUE
@@ -625,7 +499,12 @@
 72.233.134.134,Active,EH331,Eaton,TRUE
 72.233.134.136,Active,EH131-Agilent,Eaton,TRUE
 72.233.134.138,Active,EH333-IS5,Eaton,TRUE
+72.233.134.139,Active,EHB25A-SEM,Eaton,TRUE
+72.233.134.142,Active,EH205-WINCNTRL,Eaton,TRUE
+72.233.134.144,Active,EH201-01,Eaton,TRUE
 72.233.134.145,Active,EH134,Eaton,TRUE
+72.233.134.146,Active,EH205-01,Eaton,TRUE
+72.233.134.147,Active,EH133-01,Eaton,TRUE
 72.233.134.149,Active,EH112,Eaton,TRUE
 72.233.134.151,Active,EH105-01,Eaton,TRUE
 72.233.134.153,Active,EH322,Eaton,TRUE
@@ -634,9 +513,11 @@
 72.233.134.162,ActiveReservation,EH218-01,Eaton,TRUE
 72.233.134.170,Active,EH232,Eaton,TRUE
 72.233.134.171,Active,EH230,Eaton,TRUE
+72.233.134.182,Active,EH332-01,Eaton,TRUE
 72.233.134.194,Active,EH212-01,Eaton,TRUE
 72.233.131.19,Active,EIDEH,Eaton,TRUE
 72.233.131.152,Active,WAREHOUSE3,Eaton,TRUE
+72.233.136.107,Active,CYUEH,Eaton,TRUE
 172.31.232.55,ActiveReservation,EXTRON-EH231-CONTROLLER,Eaton,TRUE
 172.31.232.56,ActiveReservation,EXTRON-EH231-AUDIOPROCES,Eaton,TRUE
 172.31.232.57,ActiveReservation,EXTRON-EH231-SWITCHER,Eaton,TRUE
@@ -702,6 +583,7 @@
 172.31.222.68,Active,FalconRoom-303-305,Falcon Apartments,TRUE
 172.31.222.69,Active,FalconRoom-304-305,Falcon Apartments,TRUE
 72.233.129.27,ActiveReservation,falcononline,Falcon Newspaper,TRUE
+72.233.129.56,Active,FALCON7,Falcon Newspaper,TRUE
 72.233.129.190,Active,FALCON6,Falcon Newspaper,TRUE
 172.31.255.224,ActiveReservation,Power-FalconApts-UPS01-MDF,Falcon Newspaper,TRUE
 172.31.218.19,Active,Falcon 4 Plex-3473-215,Falcon Newspaper,TRUE
@@ -711,6 +593,7 @@
 72.233.129.193,Active,D25SF0QUGQ17,Gwinn Commons,TRUE
 72.233.130.75,Active,UG-QA,Gwinn Commons,TRUE
 72.233.130.192,Active,UG-CASCADE,Gwinn Commons,TRUE
+72.233.191.17,Active,DESKTOP-9SEIUG1,Gwinn Commons,TRUE
 172.31.232.125,ActiveReservation,EXTRON-PDR-TOUCHPANEL,Gwinn Commons,TRUE
 172.31.232.126,ActiveReservation,EXTRON-PDR-SWITCHER,Gwinn Commons,TRUE
 172.31.232.127,ActiveReservation,EXTRON-PDR-CONTROLLER,Gwinn Commons,TRUE
@@ -754,21 +637,29 @@
 72.233.140.15,Active,SCCWATSON146,Marston/Watson,TRUE
 72.233.140.16,Active,SCCWATSON141,Marston/Watson,TRUE
 72.233.140.17,Active,MW253,Marston/Watson,TRUE
+72.233.140.18,Active,MW3-11,Marston/Watson,TRUE
 72.233.140.28,Active,MW255,Marston/Watson,TRUE
 72.233.140.33,Active,SCCWATSON140,Marston/Watson,TRUE
 72.233.140.40,Active,MW244-ADJUNCT,Marston/Watson,TRUE
 72.233.140.43,Active,SCCWATSON138,Marston/Watson,TRUE
+72.233.140.67,Active,MW3-05,Marston/Watson,TRUE
 72.233.140.79,Active,MW3-20,Marston/Watson,TRUE
 72.233.140.81,Active,SCCWATSON151,Marston/Watson,TRUE
 72.233.140.158,Active,MW56,Marston/Watson,TRUE
 72.233.140.160,Active,SCCWATSON139,Marston/Watson,TRUE
+72.233.140.167,Active,MW3-07,Marston/Watson,TRUE
 72.233.140.169,Active,MARSTON248,Marston/Watson,TRUE
 72.233.140.171,Active,MW3-24,Marston/Watson,TRUE
+72.233.140.173,Active,MW3-13,Marston/Watson,TRUE
 72.233.140.175,Active,SCCWATSON143,Marston/Watson,TRUE
 72.233.140.177,Active,MW3-19,Marston/Watson,TRUE
 72.233.140.202,Active,SCCWATSON142,Marston/Watson,TRUE
+72.233.140.212,Active,MW3-25,Marston/Watson,TRUE
 72.233.140.230,Active,MW3,Marston/Watson,TRUE
+72.233.190.12,Active,ubuntu-server,Marston/Watson,TRUE
+72.233.191.30,Active,ubuntu-server,Marston/Watson,TRUE
 172.31.232.11,ActiveReservation,EXTRON-MW3-CONTROLLER,Marston/Watson,TRUE
+172.31.232.12,ActiveReservation,EXTRON-MW56-CONTROLLER,Marston/Watson,TRUE
 172.31.232.105,ActiveReservation,EXTRON-MW253-CONTROLLER,Marston/Watson,TRUE
 172.31.232.106,ActiveReservation,EXTRON-MW255-CONTROLLER,Marston/Watson,TRUE
 172.31.232.110,ActiveReservation,EXTRON-MW253-SWITCHER,Marston/Watson,TRUE
@@ -794,25 +685,40 @@
 172.31.221.211,Active,Marston B-TSS-N-305,Marston/Watson,TRUE
 72.233.140.41,Active,SCCSPHILLIPS,MarstonWatson,TRUE
 72.233.140.179,Active,LOWERMOYER1,MarstonWatson,TRUE
+72.233.133.2,Active,DLMH113-20,McKenna,TRUE
 72.233.133.6,Active,SBGELAB2,McKenna,TRUE
 72.233.133.7,Active,DLMH113-22,McKenna,TRUE
 72.233.133.11,Active,DLMH111,McKenna,TRUE
+72.233.133.13,Active,DLMH113-19,McKenna,TRUE
 72.233.133.17,Active,SBGELAB1,McKenna,TRUE
 72.233.133.18,Active,DLMH113-12,McKenna,TRUE
+72.233.133.19,Active,DLMH113-11,McKenna,TRUE
 72.233.133.21,Active,KIOSK-SBGE,McKenna,TRUE
+72.233.133.24,Active,DLMH113-14,McKenna,TRUE
 72.233.133.25,Active,SBE-STUDENT1,McKenna,TRUE
+72.233.133.27,Active,DLMH113-13,McKenna,TRUE
+72.233.133.29,Active,DLMH113-10,McKenna,TRUE
 72.233.133.31,Active,DLMH113,McKenna,TRUE
 72.233.133.33,Active,DLMH118,McKenna,TRUE
 72.233.133.34,Active,DLMH111,McKenna,TRUE
 72.233.133.35,Active,MCKENNA-CONFERE,McKenna,TRUE
+72.233.133.36,Active,DLMH113-06,McKenna,TRUE
 72.233.133.37,Active,DLMH-LAB,McKenna,TRUE
+72.233.133.44,Active,DLMH113-08,McKenna,TRUE
+72.233.133.45,Active,DLMH113-04,McKenna,TRUE
 72.233.133.130,Active,SBE-ADJUNCT,McKenna,TRUE
+72.233.133.132,Active,DLMH113-17,McKenna,TRUE
 72.233.133.135,Active,DHESS,McKenna,TRUE
+72.233.133.138,Active,DLMH113-07,McKenna,TRUE
 72.233.133.141,Active,DLMH117,McKenna,TRUE
 72.233.133.144,Active,DLMH113-18,McKenna,TRUE
+72.233.133.145,Active,DLMH113-03,McKenna,TRUE
 72.233.133.150,Active,DLMH113-23,McKenna,TRUE
 72.233.133.151,Active,DLMH113-15,McKenna,TRUE
 72.233.133.153,Active,DLMH113-24,McKenna,TRUE
+72.233.133.155,Active,DLMH113-05,McKenna,TRUE
+72.233.133.157,Active,DLMH113-21,McKenna,TRUE
+72.233.133.161,Active,DLMH113-16,McKenna,TRUE
 72.233.133.162,Active,DLMH113-01,McKenna,TRUE
 172.31.232.63,ActiveReservation,EXTRON-DLMH113-SWITCHER,McKenna,TRUE
 172.31.232.71,ActiveReservation,EXTRON-DLMH111-CONTROL,McKenna,TRUE
@@ -840,11 +746,12 @@
 172.31.221.150,Active,McKinley 2-Conference Room-115,McKinley,TRUE
 172.31.222.70,Active,McKinley B-Practice Room-305,McKinley,TRUE
 172.31.222.71,Active,McKinley 1-Theater B-305,McKinley,TRUE
-172.31.222.72,Active,McKinley 1-Main Entry-305,McKinley,FALSE
+172.31.222.72,Active,McKinley 1-Main Entry-305,McKinley,TRUE
 72.233.130.155,Active,RLC-MOYER-02,Moyer,TRUE
 72.233.130.200,Active,RLC-MOYER-01,Moyer,TRUE
 172.31.208.21,ActiveReservation,Power-Moyer-UPS01-2ndIDF,Moyer,TRUE
 172.31.255.217,ActiveReservation,Power-Moyer-UPS02-MDF,Moyer,TRUE
+172.31.255.218,ActiveReservation,Power-Moyer-UPS01-2ndIDF,Moyer,TRUE
 172.31.240.54,ActiveReservation,mfp-moyer-cfl,Moyer,TRUE
 172.31.240.110,InactiveReservation,mfp-moyer-1stfloor,Moyer,TRUE
 172.31.218.183,Active,Moyer 3-Room 316-115,Moyer,TRUE
@@ -858,84 +765,168 @@
 172.31.220.84,ActiveReservation,Nickerson Studios-106-115,Nickerson Studios,TRUE
 172.31.220.106,ActiveReservation,Nickerson Studios-122-115,Nickerson Studios,TRUE
 172.31.221.14,ActiveReservation,Nickerson Studios-105-115,Nickerson Studios,TRUE
+72.233.138.2,Active,OMH139-17,Otto Miller,TRUE
+72.233.138.3,Active,OMH223-04,Otto Miller,TRUE
+72.233.138.5,Active,OMH224-02,Otto Miller,TRUE
+72.233.138.7,Active,OMH139-12,Otto Miller,TRUE
 72.233.138.9,Active,OMH215,Otto Miller,TRUE
 72.233.138.10,Active,OMH227,Otto Miller,TRUE
+72.233.138.11,Active,OMH246-04,Otto Miller,TRUE
 72.233.138.12,Active,OMH139,Otto Miller,TRUE
+72.233.138.17,Active,OMH225-02,Otto Miller,TRUE
+72.233.138.18,Active,OMH244-20,Otto Miller,TRUE
 72.233.138.19,Active,OMH244-15,Otto Miller,TRUE
+72.233.138.20,Active,OMH202-01,Otto Miller,TRUE
 72.233.138.22,Active,OMH253-02,Otto Miller,TRUE
 72.233.138.23,ActiveReservation,OMH-SOLARDISPLAY,Otto Miller,TRUE
+72.233.138.25,Active,OMH244-03,Otto Miller,TRUE
+72.233.138.26,Active,OMH225-11,Otto Miller,TRUE
 72.233.138.27,Active,OMH109,Otto Miller,TRUE
+72.233.138.28,Active,OMH250-01,Otto Miller,TRUE
+72.233.138.29,Active,OMH135-08,Otto Miller,TRUE
 72.233.138.30,Active,OMH138-06,Otto Miller,TRUE
 72.233.138.31,Active,OMH250-11,Otto Miller,TRUE
-72.233.138.36,Active,OMH226-18,Otto Miller,TRUE
-72.233.138.37,Active,OMH244-02,Otto Miller,TRUE
-72.233.138.38,Active,OMH244-16,Otto Miller,TRUE
-72.233.138.39,Active,OMH247-01,Otto Miller,TRUE
+72.233.138.32,Active,OMH139-16,Otto Miller,TRUE
+72.233.138.33,Active,OMH253-25,Otto Miller,TRUE
+72.233.138.34,Active,OMH244-18,Otto Miller,TRUE
+72.233.138.36,Active,OMH226-18,Otto Miller,FALSE
+72.233.138.37,Active,OMH244-02,Otto Miller,FALSE
+72.233.138.38,Active,OMH244-16,Otto Miller,FALSE
+72.233.138.39,Active,OMH247-01,Otto Miller,FALSE
+72.233.138.40,Active,OMH225-05,Otto Miller,TRUE
 72.233.138.43,Active,OMH140-02,Otto Miller,TRUE
+72.233.138.44,Active,OMH253-26,Otto Miller,TRUE
+72.233.138.45,Active,OMH246-07,Otto Miller,TRUE
 72.233.138.47,Active,OMH250-06,Otto Miller,TRUE
+72.233.138.48,Active,OMH135-01,Otto Miller,TRUE
+72.233.138.50,Active,OMH244-10,Otto Miller,TRUE
+72.233.138.51,Active,OMH253-08,Otto Miller,TRUE
 72.233.138.52,Active,OMH244-08,Otto Miller,TRUE
+72.233.138.53,Active,OMH253-03,Otto Miller,TRUE
+72.233.138.54,Active,OMH250-10,Otto Miller,TRUE
+72.233.138.55,Active,OMH250-04,Otto Miller,TRUE
+72.233.138.57,Active,OMH224-03,Otto Miller,TRUE
 72.233.138.58,Active,OMH138,Otto Miller,TRUE
+72.233.138.59,Active,OMH253-09,Otto Miller,TRUE
+72.233.138.61,Active,OMH253-17,Otto Miller,TRUE
 72.233.138.62,Active,OMH140-03,Otto Miller,TRUE
 72.233.138.63,Active,OMH245,Otto Miller,TRUE
+72.233.138.64,Active,OMH225-14,Otto Miller,TRUE
+72.233.138.66,Active,OMH253-07,Otto Miller,TRUE
+72.233.138.68,Active,OMH253-11,Otto Miller,TRUE
+72.233.138.69,Active,OMH223-01,Otto Miller,TRUE
 72.233.138.70,Active,OMH226,Otto Miller,TRUE
 72.233.138.71,Active,OMH244-12,Otto Miller,TRUE
+72.233.138.72,Active,OMH253-20,Otto Miller,TRUE
+72.233.138.73,Active,OMH139-01,Otto Miller,TRUE
 72.233.138.74,Active,OMH224-01,Otto Miller,TRUE
 72.233.138.75,Active,OMH139-03,Otto Miller,TRUE
+72.233.138.76,Active,OMH253-18,Otto Miller,TRUE
+72.233.138.77,Active,OMH225-07,Otto Miller,TRUE
 72.233.138.78,Active,OMH225-12,Otto Miller,TRUE
 72.233.138.79,Active,OMH244-19,Otto Miller,TRUE
+72.233.138.80,Active,OMH253-15,Otto Miller,TRUE
+72.233.138.82,Active,OMH253-27,Otto Miller,TRUE
 72.233.138.83,Active,OMH253-01,Otto Miller,TRUE
+72.233.138.84,Active,OMH-231-ADJ,Otto Miller,TRUE
+72.233.138.85,Active,OMH202-02,Otto Miller,TRUE
 72.233.138.86,Active,OMH138-08,Otto Miller,TRUE
+72.233.138.87,Active,OMH139-11,Otto Miller,TRUE
+72.233.138.88,Active,OMH250-07,Otto Miller,TRUE
+72.233.138.89,Active,OMH253-04,Otto Miller,TRUE
+72.233.138.92,Active,OMH139-02,Otto Miller,TRUE
+72.233.138.93,Active,OMH244-01,Otto Miller,TRUE
 72.233.138.94,Active,OMH226-05,Otto Miller,TRUE
+72.233.138.95,Active,OMH253-06,Otto Miller,TRUE
 72.233.138.96,Active,OMH226-03,Otto Miller,TRUE
+72.233.138.97,Active,OMH246-06,Otto Miller,TRUE
+72.233.138.99,Active,OMH135-05,Otto Miller,TRUE
 72.233.138.100,Active,OMH226-10,Otto Miller,TRUE
 72.233.138.102,Active,OMH225-17,Otto Miller,TRUE
 72.233.138.103,Active,OMH246-05,Otto Miller,TRUE
+72.233.138.104,Active,OMH135-07,Otto Miller,TRUE
 72.233.138.105,Active,OMH226-15,Otto Miller,TRUE
+72.233.138.106,Active,OMH141-01,Otto Miller,TRUE
+72.233.138.107,Active,OMH225-09,Otto Miller,TRUE
 72.233.138.109,Active,OMH244-07,Otto Miller,TRUE
+72.233.138.145,Active,OMH253-13,Otto Miller,TRUE
 72.233.138.149,Active,OMH138-04,Otto Miller,TRUE
+72.233.138.153,Active,OMH138-03,Otto Miller,TRUE
 72.233.138.155,Active,OMH226-14,Otto Miller,TRUE
 72.233.138.163,Active,OMH127,Otto Miller,TRUE
 72.233.138.164,Active,OMH118-2,Otto Miller,TRUE
 72.233.138.166,Active,OMH124,Otto Miller,TRUE
+72.233.138.169,Active,OMH139-15,Otto Miller,TRUE
 72.233.138.172,Active,OMH246,Otto Miller,TRUE
+72.233.138.173,Active,OMH244-06,Otto Miller,TRUE
 72.233.138.174,Active,OMH226-04,Otto Miller,TRUE
+72.233.138.175,Active,OMH244-09,Otto Miller,TRUE
 72.233.138.178,Active,OMH138-05,Otto Miller,TRUE
 72.233.138.185,Active,OMH225-18,Otto Miller,TRUE
 72.233.138.186,Active,OMH225-13,Otto Miller,TRUE
 72.233.138.197,Active,OMH246-02,Otto Miller,TRUE
+72.233.138.199,Active,OMH244-04,Otto Miller,TRUE
 72.233.138.202,Active,OMH250-09,Otto Miller,TRUE
 72.233.138.205,Active,OMH225,Otto Miller,TRUE
 72.233.138.207,Active,OMH244,Otto Miller,TRUE
 72.233.138.214,Active,OMH135,Otto Miller,TRUE
 72.233.138.221,Active,OMH244-14,Otto Miller,TRUE
+72.233.138.223,Active,OMH251-01,Otto Miller,TRUE
+72.233.138.226,Active,OMH253-05,Otto Miller,TRUE
+72.233.138.230,Active,OMH139-07,Otto Miller,TRUE
+72.233.138.232,Active,OMH250-16,Otto Miller,TRUE
 72.233.138.233,Active,OMH253-22,Otto Miller,TRUE
 72.233.138.238,Active,OMH-114A,Otto Miller,TRUE
+72.233.138.239,Active,OMH253-16,Otto Miller,TRUE
 72.233.138.243,Active,OMH128,Otto Miller,TRUE
 72.233.138.245,Active,OMH244-11,Otto Miller,TRUE
+72.233.138.246,Active,OMH138-07,Otto Miller,TRUE
+72.233.138.248,Active,OMH139-18,Otto Miller,TRUE
 72.233.138.249,Active,OMH138-02,Otto Miller,TRUE
 72.233.138.253,Active,OMH119,Otto Miller,TRUE
+72.233.139.39,Active,OMH139-13,Otto Miller,TRUE
 72.233.139.40,Active,OMH226-17,Otto Miller,TRUE
+72.233.139.42,Active,OMH250-03,Otto Miller,TRUE
 72.233.139.43,Active,OMH216,Otto Miller,TRUE
 72.233.139.45,Active,OMH225-08,Otto Miller,TRUE
+72.233.139.46,Active,OMH139-05,Otto Miller,TRUE
+72.233.139.48,Active,OMH139-19,Otto Miller,TRUE
+72.233.139.49,Active,OMH139-08,Otto Miller,TRUE
+72.233.139.50,Active,OMH139-06,Otto Miller,TRUE
 72.233.139.51,Active,OMH253-14,Otto Miller,TRUE
+72.233.139.52,Active,OMH226-12,Otto Miller,TRUE
+72.233.139.53,Active,OMH253-12,Otto Miller,TRUE
+72.233.139.54,Active,OMH244-13,Otto Miller,TRUE
+72.233.139.55,Active,OMH135-02,Otto Miller,TRUE
+72.233.139.56,Active,OMH138-01,Otto Miller,TRUE
 72.233.139.58,Active,OMH139-09,Otto Miller,TRUE
 72.233.139.59,Active,OMH224,Otto Miller,TRUE
 72.233.139.63,Active,OMH139-04,Otto Miller,TRUE
 72.233.139.65,Active,OMH244-17,Otto Miller,TRUE
+72.233.139.67,Active,OMH250-08,Otto Miller,TRUE
+72.233.139.68,Active,OMH253-19,Otto Miller,TRUE
 72.233.139.69,Active,OMH246-03,Otto Miller,TRUE
+72.233.139.71,Active,OMH223-05,Otto Miller,TRUE
 72.233.139.72,Active,OMH225-10,Otto Miller,TRUE
 72.233.139.73,Active,OMH223-06,Otto Miller,TRUE
+72.233.139.74,Active,OMH253-10,Otto Miller,TRUE
 72.233.139.75,Active,OMH222,Otto Miller,TRUE
+72.233.139.77,Active,OMH225-01,Otto Miller,TRUE
 72.233.139.78,Active,OMH226-06,Otto Miller,TRUE
 72.233.139.79,Active,OMH126,Otto Miller,TRUE
+72.233.139.80,Active,OMH225-04,Otto Miller,TRUE
 72.233.139.81,Active,OMH226-02,Otto Miller,TRUE
 72.233.139.83,Active,OMH250-12,Otto Miller,TRUE
 72.233.139.84,Active,OMH226-16,Otto Miller,TRUE
 72.233.139.86,Active,OMH249-02,Otto Miller,TRUE
 72.233.139.88,Active,OMH135-06,Otto Miller,TRUE
+72.233.139.89,Active,OMH139-10,Otto Miller,TRUE
 72.233.139.91,Active,OMH250-14,Otto Miller,TRUE
 72.233.139.93,Active,OMH136,Otto Miller,TRUE
+72.233.139.97,Active,OMH135-03,Otto Miller,TRUE
 72.233.139.99,Active,OMH225-16,Otto Miller,TRUE
+72.233.139.102,Active,OMH225-03,Otto Miller,TRUE
+72.233.139.104,Active,OMH246-01,Otto Miller,TRUE
 72.233.139.105,Active,OMH118,Otto Miller,TRUE
 72.233.139.114,Active,OMH249-01,Otto Miller,TRUE
 172.31.232.31,ActiveReservation,EXTRON-OMH109-CONTROLLER,Otto Miller,TRUE
@@ -950,17 +941,20 @@
 172.31.232.42,ActiveReservation,EXTRON-OMH215-CONTROLLER,Otto Miller,TRUE
 172.31.232.43,ActiveReservation,EXTRON-OMH216-CONTROLLER,Otto Miller,TRUE
 172.31.232.44,ActiveReservation,EXTRON-OMH222-CONTROLLER,Otto Miller,TRUE
+172.31.232.45,ActiveReservation,EXTRON-OMH225-CONTROLLER,Otto Miller,TRUE
 172.31.232.46,ActiveReservation,EXTRON-OMH226-CONTROLLER,Otto Miller,TRUE
 172.31.232.47,ActiveReservation,EXTRON-OMH227-CONTROLLER,Otto Miller,TRUE
 172.31.232.48,ActiveReservation,EXTRON-OMH244-CONTROLLER,Otto Miller,TRUE
 172.31.232.49,ActiveReservation,EXTRON-OMH245-CONTROLLER,Otto Miller,TRUE
 172.31.232.50,ActiveReservation,EXTRON-OMH246-CONTROLLER,Otto Miller,TRUE
 172.31.232.51,ActiveReservation,EXTRON-OMH224-CONTROLLER,Otto Miller,TRUE
+172.31.232.52,ActiveReservation,EXTRON-OMH224-SWITCHER,Otto Miller,TRUE
 172.31.232.53,ActiveReservation,EXTRON-OMH118-CONTROLLER,Otto Miller,TRUE
 172.31.232.54,ActiveReservation,EXTRON-OMH118-SWITCHER,Otto Miller,TRUE
 172.31.232.117,ActiveReservation,EXTRON-OMH119-CONTROLLER,Otto Miller,TRUE
 172.31.232.118,ActiveReservation,EXTRON-OMH119-TOUCHPANEL,Otto Miller,TRUE
 172.31.232.119,ActiveReservation,EXTRON-OMH119-SWITCHER,Otto Miller,TRUE
+172.31.232.154,InactiveReservation,extron-omh223b-controller,Otto Miller,TRUE
 172.31.255.130,InactiveReservation,hvac-router-omh,Otto Miller,TRUE
 172.31.255.225,ActiveReservation,Power-OMH-UPS03-MDF,Otto Miller,TRUE
 172.31.255.226,ActiveReservation,Power-OMH-UPS02-MDF,Otto Miller,TRUE
@@ -996,7 +990,7 @@
 172.31.221.237,Active,OHM 1-Room 103-305,Otto Miller,TRUE
 172.31.221.238,Active,OMH 1-Room 143-305,Otto Miller,TRUE
 172.31.221.239,Active,OMH 2-Room 202-305,Otto Miller,TRUE
-172.31.221.240,Active,OMH 1-Room 124-305,Otto Miller,FALSE
+172.31.221.240,Active,OMH 1-Room 124-305,Otto Miller,TRUE
 172.31.221.241,Active,OHM 2-Room 246-305,Otto Miller,TRUE
 172.31.221.242,Active,OMH 2-Room 222-305,Otto Miller,TRUE
 72.233.135.25,Active,FCS-CAD,Peterson,TRUE
@@ -1032,8 +1026,10 @@
 172.31.221.166,ActiveReservation,Peterson 0-Food Lab-105B,Peterson,TRUE
 172.31.221.167,ActiveReservation,Peterson 0-Food Lab-105A,Peterson,TRUE
 172.31.221.168,ActiveReservation,Peterson 2-201-105,Peterson,TRUE
+172.31.221.169,ActiveReservation,Peterson 3-105,Peterson,TRUE
 72.233.129.229,Active,RBPES,Royal Brougham Pavilion,TRUE
 172.31.232.99,ActiveReservation,EXTRON-RBPCLASS-CONTROL,Royal Brougham Pavilion,TRUE
+172.31.255.216,InactiveReservation,EXTRON-RBPEXSCI,Royal Brougham Pavilion,TRUE
 172.31.217.78,Active,RBP B-Classroom-215,Royal Brougham Pavilion,TRUE
 172.31.217.80,Active,RBP 1-P,Royal Brougham Pavilion,TRUE
 172.31.240.66,ActiveReservation,mfp-rbp-pe,Royal Brougham Pavilion,TRUE
@@ -1043,17 +1039,20 @@
 172.31.221.251,Active,RBP 2-Athletics-215,Royal Brougham Pavilion,TRUE
 72.233.131.32,Active,SECVIDEO3,Safety and Security,TRUE
 72.233.131.44,Active,SECCONF,Safety and Security,TRUE
+72.233.131.136,Active,SECVIDEO2,Safety and Security,TRUE
 72.233.131.148,Active,SECSTAFF2,Safety and Security,TRUE
 72.233.131.150,Active,SECSTAFF4,Safety and Security,TRUE
 72.233.131.161,Active,SECVIDEO1,Safety and Security,TRUE
 172.31.240.68,ActiveReservation,mfp-security,Safety and Security,TRUE
 72.233.130.11,Active,ASSPVPMIN,Student Union Building,TRUE
+72.233.130.42,Active,ASSPTREASURER,Student Union Building,TRUE
 72.233.130.46,Active,SubRoku2,Student Union Building,TRUE
 72.233.130.57,Active,KIOSK-SUB-03,Student Union Building,TRUE
 72.233.130.63,Active,ASSP-PRM,Student Union Building,TRUE
 72.233.130.66,Active,ASSP-VPIA,Student Union Building,TRUE
 72.233.130.68,Active,ASSP-MINIS1,Student Union Building,TRUE
 72.233.130.71,Active,ASSP-EVP,Student Union Building,TRUE
+72.233.130.85,Active,ASSP-01,Student Union Building,TRUE
 72.233.130.90,Active,RESLIFEAA2,Student Union Building,TRUE
 72.233.130.95,Active,KIOSK-SUB-01,Student Union Building,TRUE
 72.233.130.101,ActiveReservation,extron-gazebo-controller,Student Union Building,TRUE
@@ -1087,13 +1086,14 @@
 172.31.240.85,ActiveReservation,mfp-ous,University Services,TRUE
 172.31.218.48,Active,OUS-Basement-215,University Services,TRUE
 172.31.232.150,ActiveReservation,extron-wacconfroom-switcher,Walls Advancement Center,TRUE
+172.31.232.151,ActiveReservation,extron-wacconfroom-controller,Walls Advancement Center,TRUE
 172.31.255.68,InactiveReservation,hvac-router-wac,Walls Advancement Center,TRUE
 172.31.240.87,ActiveReservation,mfp-wac-middle,Walls Advancement Center,TRUE
 172.31.240.88,ActiveReservation,mfp-wac-back,Walls Advancement Center,TRUE
 172.31.222.75,Active,WAC 1-C-305,Walls Advancement Center,TRUE
 172.31.218.115,Active,Wesley Dravus-2304-305,Wesley Dravus,TRUE
 172.31.218.116,Active,Wesley Dravus-2202-305,Wesley Dravus,TRUE
-172.31.218.117,Active,Wesley Dravus-2206-305,Wesley Dravus,FALSE
+172.31.218.117,Active,Wesley Dravus-2206-305,Wesley Dravus,TRUE
 172.31.218.118,Active,Wesley Dravus-2305-305,Wesley Dravus,TRUE
 172.31.218.119,Active,Wesley Dravus-2401-305,Wesley Dravus,TRUE
 172.31.218.120,Active,Wesley Dravus-2406-305,Wesley Dravus,TRUE
@@ -1101,7 +1101,7 @@
 172.31.218.122,Active,Wesley Dravus-2404-305,Wesley Dravus,TRUE
 172.31.218.123,Active,Wesley Dravus-2301-305,Wesley Dravus,TRUE
 172.31.222.35,Active,Wesley Dravus-2101-305,Wesley Dravus,TRUE
-172.31.222.36,Active,Wesley Dravus-2102-305,Wesley Dravus,FALSE
+172.31.222.36,Active,Wesley Dravus-2102-305,Wesley Dravus,TRUE
 172.31.222.37,Active,Wesley Dravus-2201-305,Wesley Dravus,TRUE
 172.31.222.38,Active,Wesley Dravus-2204-305,Wesley Dravus,TRUE
 172.31.222.41,Active,Wesley Dravus-2306-305,Wesley Dravus,TRUE
@@ -1112,7 +1112,7 @@
 172.31.222.46,Active,Wesley Dravus-2205-305,Wesley Dravus,TRUE
 172.31.222.47,Active,Wesley Dravus-2203-305,Wesley Dravus,TRUE
 72.233.136.3,Active,KIOSK-WET-05,Weter,TRUE
-72.233.136.39,Active,KIOSK-WETER-02,Weter,FALSE
+72.233.136.39,Active,KIOSK-WETER-02,Weter,TRUE
 72.233.136.40,Active,KIOSK-WETER-01,Weter,TRUE
 72.233.136.43,Active,KIOSK-WETER-03,Weter,TRUE
 72.233.136.66,Active,WETERCONFRM,Weter,TRUE
@@ -1123,7 +1123,7 @@
 72.233.137.110,Active,UC-CONF,Weter,TRUE
 172.31.232.78,ActiveReservation,EXTRON-WET201-CONTROLLER,Weter,TRUE
 172.31.232.79,ActiveReservation,EXTRON-WET202-CONTROLLER,Weter,TRUE
-172.31.240.89,ActiveReservation,mfp-weter-uc,Weter,FALSE
+172.31.240.89,ActiveReservation,mfp-weter-uc,Weter,TRUE
 172.31.240.90,InactiveReservation,MFP-Weter-Main,Weter,TRUE
 172.31.240.91,ActiveReservation,mfp-weter318,Weter,TRUE
 172.31.240.94,ActiveReservation,mfp-weter309,Weter,TRUE

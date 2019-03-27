@@ -45,7 +45,7 @@ public class DataLoader {
 			String state = scanner.next().trim();
 			String hostName = scanner.next().trim();
 			String location = scanner.next().trim();
-			String online = scanner.next().trim().toUpperCase();
+			String online = scanner.next().trim();
 			if(group == null || group.name != location) {
 				group = findGroup(location, nodeGroup);
 				if(group == null) {
@@ -53,7 +53,7 @@ public class DataLoader {
 					continue;
 				}
 			}
-			if(online.equals("FALSE")) {
+			if(online.toUpperCase().equals("FALSE")) {
 				group.deadNodes.add(new Node(ip, hostName, state));
 			}
 		}

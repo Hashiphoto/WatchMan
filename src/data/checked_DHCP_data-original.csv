@@ -1,0 +1,1129 @@
+72.233.134.6,Active,EH26A-IS50,Eaton,False
+72.233.134.13,Active,EH222,Eaton,False
+72.233.134.24,Active,EH223-01,Eaton,True
+72.233.134.28,Active,EHB21-01,Eaton,False
+72.233.134.30,Active,EH231,Eaton,True
+72.233.134.31,Active,EH233,Eaton,True
+72.233.134.33,Active,EHB27-01,Eaton,True
+72.233.134.35,Active,mac-schofieldd,Eaton,True
+72.233.134.42,Active,EH318-01,Eaton,True
+72.233.134.43,Active,APPLETV-EH231,Eaton,True
+72.233.134.50,Active,EH330,Eaton,True
+72.233.134.57,Active,HVAC-SCIENCE,Eaton,True
+72.233.134.65,ActiveReservation,eaton-218-cam01,Eaton,True
+72.233.134.72,ActiveReservation,eaton-218-cam02,Eaton,True
+72.233.134.79,Active,EH126STOCKROOM,Eaton,True
+72.233.134.80,Active,EH131,Eaton,True
+72.233.134.134,Active,EH331,Eaton,True
+72.233.134.136,Active,EH131-Agilent,Eaton,True
+72.233.134.138,Active,EH333-IS5,Eaton,True
+72.233.134.139,Active,EHB25A-SEM,Eaton,False
+72.233.134.142,Active,EH205-WINCNTRL,Eaton,False
+72.233.134.144,Active,EH201-01,Eaton,False
+72.233.134.145,Active,EH134,Eaton,True
+72.233.134.146,Active,EH205-01,Eaton,False
+72.233.134.147,Active,EH133-01,Eaton,False
+72.233.134.149,Active,EH112,Eaton,True
+72.233.134.151,Active,EH105-01,Eaton,True
+72.233.134.153,Active,EH322,Eaton,True
+72.233.134.158,Active,HYACINTH-N,Eaton,True
+72.233.134.159,Active,EH322,Eaton,True
+72.233.134.162,ActiveReservation,EH218-01,Eaton,True
+72.233.134.170,Active,EH232,Eaton,True
+72.233.134.171,Active,EH230,Eaton,True
+72.233.134.182,Active,EH332-01,Eaton,False
+72.233.134.194,Active,EH212-01,Eaton,True
+72.233.129.11,Active,iMac-2,Art Center,True
+72.233.129.20,Active,APPLETV-BERT5,Bertona,True
+72.233.129.23,Active,BERT2,Bertona,True
+72.233.129.27,ActiveReservation,falcononline,Falcon Newspaper,True
+72.233.129.30,Active,CMB201,Crawford Music Building,True
+72.233.129.34,Active,ace15,Art Center,False
+72.233.129.35,Active,BH-101-102,Beegle,True
+72.233.129.39,Active,NICK105,Nickerson Studios,True
+72.233.129.41,Active,aceif04,Art Center,True
+72.233.129.42,Active,BERT4,Bertona,True
+72.233.129.43,Active,mac-rlorig,Art Center,True
+72.233.129.45,Active,BERT6,Bertona,True
+72.233.129.47,Active,AC3,Art Center,True
+72.233.129.56,Active,FALCON7,Falcon Newspaper,False
+72.233.129.66,Active,BH201,Beegle,True
+72.233.129.68,Active,MAILING,Mailing Services,True
+72.233.129.70,Active,ARTADJUNCT,Art Center,True
+72.233.129.79,Active,LBHALL,Beegle,True
+72.233.129.80,Active,rangerTFoxsiMac,Art Center,True
+72.233.129.81,Active,BH1,Beegle,True
+72.233.129.91,Active,localadinsiMac2,Art Center,True
+72.233.129.92,Active,BERT3,Bertona,True
+72.233.129.99,Active,APPLETV-BERT6,Bertona,True
+72.233.129.100,Active,CMB211,Crawford Music Building,True
+72.233.129.104,Active,MHUGHES,Gwinn Commons,True
+72.233.129.137,Active,CREM102,Cremona,True
+72.233.129.139,Active,teacher04,Art Center,False
+72.233.129.140,Active,Outdoor-Mailing-AP275,Mailing Services,True
+72.233.129.141,Active,MAILINGMETER,Mailing Services,True
+72.233.129.142,Active,AC5,Art Center,True
+72.233.129.144,Active,teacher02,Art Center,False
+72.233.129.145,Active,localadinsiMac3,Art Center,True
+72.233.129.148,Active,SMITHCHRISR,Human Resources,True
+72.233.129.151,Active,Labs-iMac,Art Center,True
+72.233.129.153,Active,HR-STU-02,Human Resources,True
+72.233.129.156,Active,CREM203,Cremona,True
+72.233.129.158,Active,artlabimac007,Art Center,True
+72.233.129.165,Active,NICK103,Nickerson Studios,True
+72.233.129.168,Active,APPLETV-BERT4,Bertona,True
+72.233.129.174,Active,CREM202,Cremona,True
+72.233.129.175,Active,KIOSK-MAIL,Mailing Services,True
+72.233.129.178,Active,CREM101,Cremona,True
+72.233.129.189,Active,ROBERTSL,Bertona,True
+72.233.129.190,Active,FALCON6,Falcon Newspaper,True
+72.233.129.192,Active,AC6,Art Center,True
+72.233.129.193,Active,D25SF0QUGQ17,Gwinn Commons,True
+72.233.129.194,Active,CREM203,Cremona,True
+72.233.129.195,Active,CREM201,Cremona,True
+72.233.129.207,Active,APPLETV-BERT1,Bertona,True
+72.233.129.209,Active,BERT3,Bertona,True
+72.233.129.213,Active,EXTRON-CMB103-CONTROLLER,Crawford Music Building,True
+72.233.129.215,Active,CMB103,Crawford Music Building,True
+72.233.129.219,Active,CHRISREED,Human Resources,True
+72.233.129.224,Active,BERT5,Bertona,True
+72.233.129.229,Active,RBPES,Royal Brougham Pavilion,True
+72.233.129.235,Active,BERT1,Bertona,True
+72.233.131.19,Active,EIDEH,Eaton,True
+72.233.131.32,Active,SECVIDEO3,Safety and Security,True
+72.233.131.44,Active,SECCONF,Safety and Security,True
+72.233.131.136,Active,SECVIDEO2,Safety and Security,False
+72.233.131.148,Active,SECSTAFF2,Safety and Security,True
+72.233.131.150,Active,SECSTAFF4,Safety and Security,True
+72.233.131.152,Active,WAREHOUSE3,Eaton,True
+72.233.131.161,Active,SECVIDEO1,Safety and Security,True
+72.233.133.2,Active,DLMH113-20,McKenna,False
+72.233.133.6,Active,SBGELAB2,McKenna,True
+72.233.133.7,Active,DLMH113-22,McKenna,True
+72.233.133.11,Active,DLMH111,McKenna,True
+72.233.133.13,Active,DLMH113-19,McKenna,False
+72.233.133.17,Active,SBGELAB1,McKenna,True
+72.233.133.18,Active,DLMH113-12,McKenna,True
+72.233.133.19,Active,DLMH113-11,McKenna,False
+72.233.133.21,Active,KIOSK-SBGE,McKenna,True
+72.233.133.24,Active,DLMH113-14,McKenna,False
+72.233.133.25,Active,SBE-STUDENT1,McKenna,True
+72.233.133.27,Active,DLMH113-13,McKenna,False
+72.233.133.29,Active,DLMH113-10,McKenna,False
+72.233.133.31,Active,DLMH113,McKenna,True
+72.233.133.33,Active,DLMH118,McKenna,True
+72.233.133.34,Active,DLMH111,McKenna,True
+72.233.133.35,Active,MCKENNA-CONFERE,McKenna,True
+72.233.133.36,Active,DLMH113-06,McKenna,False
+72.233.133.37,Active,DLMH-LAB,McKenna,True
+72.233.133.44,Active,DLMH113-08,McKenna,False
+72.233.133.45,Active,DLMH113-04,McKenna,False
+72.233.133.130,Active,SBE-ADJUNCT,McKenna,True
+72.233.133.132,Active,DLMH113-17,McKenna,False
+72.233.133.135,Active,DHESS,McKenna,True
+72.233.133.138,Active,DLMH113-07,McKenna,False
+72.233.133.141,Active,DLMH117,McKenna,True
+72.233.133.144,Active,DLMH113-18,McKenna,True
+72.233.133.145,Active,DLMH113-03,McKenna,False
+72.233.133.150,Active,DLMH113-23,McKenna,True
+72.233.133.151,Active,DLMH113-15,McKenna,True
+72.233.133.153,Active,DLMH113-24,McKenna,True
+72.233.133.155,Active,DLMH113-05,McKenna,False
+72.233.133.157,Active,DLMH113-21,McKenna,False
+72.233.133.161,Active,DLMH113-16,McKenna,False
+72.233.133.162,Active,DLMH113-01,McKenna,True
+72.233.135.21,Active,CHRISTYBARNES,Human Resources,True
+72.233.135.25,Active,FCS-CAD,Peterson,True
+72.233.135.27,Active,SOE-SOA,Peterson,True
+72.233.135.29,Active,SOE-GRAD-01,Peterson,True
+72.233.135.38,Active,PET201,Peterson,True
+72.233.135.41,Active,SOE-GRAD-02,Peterson,True
+72.233.135.43,Active,PET302,Peterson,True
+72.233.135.55,Active,FCS-ADJ2,Peterson,True
+72.233.135.144,Active,SOE-VACANT1,Peterson,True
+72.233.135.146,Active,FCS-LAB4,Peterson,True
+72.233.135.150,Active,SOE-GRAD3,Peterson,True
+72.233.135.152,Active,PET104,Peterson,True
+72.233.135.153,Active,PET101,Peterson,True
+72.233.135.159,Active,KIOSK-FCS-TV,Peterson,True
+72.233.135.160,Active,PET303,Peterson,True
+72.233.135.162,Active,FCS-ADJ,Peterson,True
+72.233.135.163,Active,FCS-LAB-3,Peterson,True
+72.233.132.9,Active,LIB-LL-A-008,Ames Library,True
+72.233.132.20,ActiveReservation,LIB-INSTRUCT,Ames Library,False
+72.233.132.25,Active,KIOSK-LIB-120,Ames Library,True
+72.233.132.26,Active,LIB-LL-A-026,Ames Library,True
+72.233.132.28,Active,LIB-STUDENTS,Ames Library,False
+72.233.132.29,Active,EXTRON-LIBCLASS-CONTROL,Ames Library,True
+72.233.132.30,Active,KIOSK-LIB-S0,Ames Library,True
+72.233.132.31,Active,LIB-LL-A-014,Ames Library,True
+72.233.132.34,Active,KIOSK-LIB-S3,Ames Library,True
+72.233.132.35,Active,LIB-ML-A-001,Ames Library,True
+72.233.132.36,Active,KIOSK-LIB-112,Ames Library,True
+72.233.132.37,Active,LIB-ML-A-004,Ames Library,True
+72.233.132.38,Active,LIB-ETM-STU,Ames Library,True
+72.233.132.40,Active,LIB-LL-A-016,Ames Library,True
+72.233.132.42,Active,LIB-LL-A-013,Ames Library,True
+72.233.132.45,Active,LIB-VICK,Ames Library,True
+72.233.132.46,Active,KIOSK-LIB-116,Ames Library,True
+72.233.132.48,Active,LIB-LL-A-009,Ames Library,True
+72.233.132.49,Active,LIB-LL-A-023,Ames Library,True
+72.233.132.50,Active,LIB-ILL-STU,Ames Library,True
+72.233.132.51,Active,LIB-BPAULSON,Ames Library,False
+72.233.132.52,Active,LIB-LL-A-015,Ames Library,True
+72.233.132.53,Active,LIB-LL-A-024,Ames Library,True
+72.233.132.55,Active,KIOSK-LIB-110,Ames Library,True
+72.233.132.56,Active,KIOSK-LIB-101,Ames Library,True
+72.233.132.59,Active,LIB-ML-A-005,Ames Library,True
+72.233.132.62,Active,LIB-LL-A-021,Ames Library,True
+72.233.132.64,Active,LIB-CIRC01,Ames Library,True
+72.233.132.65,Active,LIB-JULIE,Ames Library,True
+72.233.132.66,Active,KIOSK-LIB-S1,Ames Library,True
+72.233.132.71,Active,LIB-ML-A-003,Ames Library,True
+72.233.132.72,Active,LIB-LL-A-006,Ames Library,True
+72.233.132.80,Active,LIB-CIRC02,Ames Library,True
+72.233.132.136,Active,ETM-iMac-Student,Ames Library,True
+72.233.132.139,Active,localadinsiMac2,Ames Library,True
+72.233.132.141,Active,KIOSK-LIB-08,Ames Library,True
+72.233.132.142,Active,LIB-ML-A-006,Ames Library,True
+72.233.132.144,Active,LIB-LINDAHL-N,Ames Library,True
+72.233.132.145,Active,KIOSK-LIB-118,Ames Library,True
+72.233.132.150,Active,KIOSK-LIB-115,Ames Library,True
+72.233.132.151,Active,LIB-SHAW,Ames Library,True
+72.233.132.152,Active,LIB-LL-A-018,Ames Library,True
+72.233.132.153,Active,LIBClasmAppleTV,Ames Library,True
+72.233.132.155,Active,KIOSK-LIB-109,Ames Library,True
+72.233.132.156,Active,KIOSK-LIB-111,Ames Library,True
+72.233.132.157,Active,KIOSK-LIB-114,Ames Library,True
+72.233.132.159,Active,LIB-LL-A-025,Ames Library,True
+72.233.132.161,Active,LIB-LL-A-010,Ames Library,True
+72.233.132.162,Active,LIB-LL-A-007,Ames Library,True
+72.233.132.163,Active,KIOSK-LIB-002,Ames Library,True
+72.233.132.164,Active,LIB-ML-A-002,Ames Library,True
+72.233.132.165,Active,LIB-LL-A-005,Ames Library,True
+72.233.132.166,Active,LIB-HILT,Ames Library,True
+72.233.132.168,Active,LIB-ML-CLASS,Ames Library,True
+72.233.132.169,Active,LIB-SEM,Ames Library,True
+72.233.132.170,Active,KIOSK-LIB-119,Ames Library,True
+72.233.132.173,Active,LIB-LL-A-017,Ames Library,True
+72.233.132.174,Active,KIOSK-LIB-117,Ames Library,True
+72.233.132.177,Active,LIB-LL-A-019,Ames Library,True
+72.233.132.178,Active,LIB-LL-A-020,Ames Library,True
+72.233.132.180,Active,KIOSK-LIB-03,Ames Library,True
+72.233.132.191,Active,LIB-MCNAYZ,Ames Library,True
+72.233.132.192,Active,KIOSK-LIB-S2,Ames Library,True
+72.233.140.2,Active,6NICK207,6 Nickerson,True
+72.233.140.15,Active,SCCWATSON146,Marston/Watson,True
+72.233.140.16,Active,SCCWATSON141,Marston/Watson,True
+72.233.140.17,Active,MW253,Marston/Watson,True
+72.233.140.18,Active,MW3-11,Marston/Watson,False
+72.233.140.28,Active,MW255,Marston/Watson,True
+72.233.140.33,Active,SCCWATSON140,Marston/Watson,True
+72.233.140.39,Active,6NICK213,6 Nickerson,True
+72.233.140.40,Active,MW244-ADJUNCT,Marston/Watson,True
+72.233.140.41,Active,SCCSPHILLIPS,MarstonWatson,True
+72.233.140.43,Active,SCCWATSON138,Marston/Watson,True
+72.233.140.66,Active,6NICK315-02,6 Nickerson,True
+72.233.140.67,Active,MW3-05,Marston/Watson,False
+72.233.140.74,Active,6NICK208-04,6 Nickerson,True
+72.233.140.79,Active,MW3-20,Marston/Watson,True
+72.233.140.81,Active,SCCWATSON151,Marston/Watson,True
+72.233.140.82,Active,6NICK223,6 Nickerson,True
+72.233.140.94,Active,6NICK208-01,6 Nickerson,True
+72.233.140.95,Active,6NICK208-06,6 Nickerson,True
+72.233.140.158,Active,MW56,Marston/Watson,True
+72.233.140.160,Active,SCCWATSON139,Marston/Watson,True
+72.233.140.164,Active,6NICK218,6 Nickerson,True
+72.233.140.167,Active,MW3-07,Marston/Watson,False
+72.233.140.169,Active,MARSTON248,Marston/Watson,True
+72.233.140.171,Active,MW3-24,Marston/Watson,True
+72.233.140.173,Active,MW3-13,Marston/Watson,False
+72.233.140.175,Active,SCCWATSON143,Marston/Watson,True
+72.233.140.177,Active,MW3-19,Marston/Watson,True
+72.233.140.179,Active,LOWERMOYER1,MarstonWatson,True
+72.233.140.188,Active,6NICK106,6 Nickerson,True
+72.233.140.200,Active,6NICK117,6 Nickerson,True
+72.233.140.202,Active,SCCWATSON142,Marston/Watson,True
+72.233.140.206,Active,6NICK208-05,6 Nickerson,True
+72.233.140.212,Active,MW3-25,Marston/Watson,False
+72.233.140.230,Active,MW3,Marston/Watson,True
+72.233.142.137,ActiveReservation,6NICK315-01,6 Nickerson,True
+72.233.142.138,Active,6NICK315-02,6 Nickerson,True
+72.233.136.3,Active,KIOSK-WET-05,Weter,True
+72.233.136.18,Active,SASSTU-S,Demaray,True
+72.233.136.23,ActiveReservation,sfstext,Demaray,False
+72.233.136.29,Active,DH358,Demaray,True
+72.233.136.30,Active,SFS-LOAN-01,Demaray,True
+72.233.136.39,Active,KIOSK-WETER-02,Weter,True
+72.233.136.40,Active,KIOSK-WETER-01,Weter,True
+72.233.136.41,Active,DH359,Demaray,True
+72.233.136.43,Active,KIOSK-WETER-03,Weter,True
+72.233.136.45,Active,DH259,Demaray,True
+72.233.136.49,Active,SFS-STUDENT8,Demaray,True
+72.233.136.51,Active,KIOSK-SFS-LOBBY,Demaray,True
+72.233.136.59,Active,SFS-STUDENT,Demaray,True
+72.233.136.66,Active,WETERCONFRM,Weter,True
+72.233.136.71,Active,FIN-STUDENT,Weter,True
+72.233.136.78,Active,SFS-STUDENT5,Demaray,True
+72.233.136.84,Active,SFS-LOAN-03,Demaray,True
+72.233.136.85,Active,SFS-STUDENT3,Demaray,True
+72.233.136.87,Active,EXECSTU2,Demaray,True
+72.233.136.97,Active,GRAD-ADMISSIONS,Demaray,True
+72.233.136.100,Active,ADM1-N,Demaray,True
+72.233.136.103,Active,DH150,Demaray,True
+72.233.136.106,Active,EXEC-STU-03,Demaray,True
+72.233.136.107,Active,CYUEH,Eaton,False
+72.233.136.110,Active,DH355,Demaray,True
+72.233.136.113,Active,SFSREP5,Demaray,True
+72.233.136.114,Active,SFSREP2,Demaray,True
+72.233.136.121,Active,DH255,Demaray,True
+72.233.136.122,Active,ADM-SCAN1,Demaray,True
+72.233.136.125,Active,KIOSK-SFS-02-N,Demaray,True
+72.233.136.129,Active,WET202,Weter,True
+72.233.136.132,Active,ADM-INTERN1,Demaray,True
+72.233.136.133,Active,SFS-OPS-COR2,Demaray,True
+72.233.136.135,Active,SFS-LOAN-02,Demaray,False
+72.233.136.137,Active,WET201,Weter,True
+72.233.136.138,Active,ADM-INTERN4,Demaray,True
+72.233.136.233,Active,KIOSK-SAS,Demaray,True
+72.233.136.234,Active,DH261-2,Demaray,True
+72.233.137.25,Active,ADM-INTERN-02,Demaray,True
+72.233.137.27,Active,DIADHIOUW,Demaray,True
+72.233.137.29,Active,SFSREP4,Demaray,True
+72.233.137.42,Active,SFS-INTERN,Demaray,True
+72.233.137.48,Active,FIN-PAYCHECK,Weter,True
+72.233.137.54,Active,KIOSK-SFS-01,Demaray,True
+72.233.137.57,Active,DH356,Demaray,True
+72.233.137.61,Active,SFS-COORD-01,Demaray,True
+72.233.137.67,Active,DH353,Demaray,True
+72.233.137.68,Active,DH354,Demaray,True
+72.233.137.80,Active,SFS-STUDENT2,Demaray,True
+72.233.137.89,Active,SFS-COORD-02,Demaray,True
+72.233.137.90,Active,DH360,Demaray,True
+72.233.137.100,Active,DH254,Demaray,True
+72.233.137.106,Active,DH261,Demaray,True
+72.233.137.110,Active,UC-CONF,Weter,True
+72.233.138.2,Active,OMH139-17,Otto Miller,False
+72.233.138.3,Active,OMH223-04,Otto Miller,False
+72.233.138.5,Active,OMH224-02,Otto Miller,False
+72.233.138.7,Active,OMH139-12,Otto Miller,False
+72.233.138.9,Active,OMH215,Otto Miller,True
+72.233.138.10,Active,OMH227,Otto Miller,True
+72.233.138.11,Active,OMH246-04,Otto Miller,False
+72.233.138.12,Active,OMH139,Otto Miller,True
+72.233.138.17,Active,OMH225-02,Otto Miller,False
+72.233.138.18,Active,OMH244-20,Otto Miller,False
+72.233.138.19,Active,OMH244-15,Otto Miller,True
+72.233.138.20,Active,OMH202-01,Otto Miller,False
+72.233.138.21,Active,IMAGE1,Image,True
+72.233.138.22,Active,OMH253-02,Otto Miller,True
+72.233.138.23,ActiveReservation,OMH-SOLARDISPLAY,Otto Miller,True
+72.233.138.25,Active,OMH244-03,Otto Miller,False
+72.233.138.26,Active,OMH225-11,Otto Miller,False
+72.233.138.27,Active,OMH109,Otto Miller,True
+72.233.138.28,Active,OMH250-01,Otto Miller,False
+72.233.138.29,Active,OMH135-08,Otto Miller,False
+72.233.138.30,Active,OMH138-06,Otto Miller,True
+72.233.138.31,Active,OMH250-11,Otto Miller,True
+72.233.138.32,Active,OMH139-16,Otto Miller,False
+72.233.138.33,Active,OMH253-25,Otto Miller,False
+72.233.138.34,Active,OMH244-18,Otto Miller,False
+72.233.138.36,Active,OMH226-18,Otto Miller,True
+72.233.138.37,Active,OMH244-02,Otto Miller,True
+72.233.138.38,Active,OMH244-16,Otto Miller,True
+72.233.138.39,Active,OMH247-01,Otto Miller,True
+72.233.138.40,Active,OMH225-05,Otto Miller,False
+72.233.138.43,Active,OMH140-02,Otto Miller,True
+72.233.138.44,Active,OMH253-26,Otto Miller,False
+72.233.138.45,Active,OMH246-07,Otto Miller,False
+72.233.138.47,Active,OMH250-06,Otto Miller,True
+72.233.138.48,Active,OMH135-01,Otto Miller,False
+72.233.138.50,Active,OMH244-10,Otto Miller,False
+72.233.138.51,Active,OMH253-08,Otto Miller,False
+72.233.138.52,Active,OMH244-08,Otto Miller,True
+72.233.138.53,Active,OMH253-03,Otto Miller,False
+72.233.138.54,Active,OMH250-10,Otto Miller,False
+72.233.138.55,Active,OMH250-04,Otto Miller,False
+72.233.138.57,Active,OMH224-03,Otto Miller,False
+72.233.138.58,Active,OMH138,Otto Miller,True
+72.233.138.59,Active,OMH253-09,Otto Miller,False
+72.233.138.61,Active,OMH253-17,Otto Miller,False
+72.233.138.62,Active,OMH140-03,Otto Miller,True
+72.233.138.63,Active,OMH245,Otto Miller,True
+72.233.138.64,Active,OMH225-14,Otto Miller,False
+72.233.138.66,Active,OMH253-07,Otto Miller,False
+72.233.138.68,Active,OMH253-11,Otto Miller,False
+72.233.138.69,Active,OMH223-01,Otto Miller,False
+72.233.138.70,Active,OMH226,Otto Miller,True
+72.233.138.71,Active,OMH244-12,Otto Miller,True
+72.233.138.72,Active,OMH253-20,Otto Miller,False
+72.233.138.73,Active,OMH139-01,Otto Miller,False
+72.233.138.74,Active,OMH224-01,Otto Miller,True
+72.233.138.75,Active,OMH139-03,Otto Miller,True
+72.233.138.76,Active,OMH253-18,Otto Miller,False
+72.233.138.77,Active,OMH225-07,Otto Miller,False
+72.233.138.78,Active,OMH225-12,Otto Miller,True
+72.233.138.79,Active,OMH244-19,Otto Miller,True
+72.233.138.80,Active,OMH253-15,Otto Miller,False
+72.233.138.82,Active,OMH253-27,Otto Miller,False
+72.233.138.83,Active,OMH253-01,Otto Miller,True
+72.233.138.84,Active,OMH-231-ADJ,Otto Miller,False
+72.233.138.85,Active,OMH202-02,Otto Miller,False
+72.233.138.86,Active,OMH138-08,Otto Miller,True
+72.233.138.87,Active,OMH139-11,Otto Miller,False
+72.233.138.88,Active,OMH250-07,Otto Miller,False
+72.233.138.89,Active,OMH253-04,Otto Miller,False
+72.233.138.92,Active,OMH139-02,Otto Miller,False
+72.233.138.93,Active,OMH244-01,Otto Miller,False
+72.233.138.94,Active,OMH226-05,Otto Miller,True
+72.233.138.95,Active,OMH253-06,Otto Miller,False
+72.233.138.96,Active,OMH226-03,Otto Miller,True
+72.233.138.97,Active,OMH246-06,Otto Miller,False
+72.233.138.99,Active,OMH135-05,Otto Miller,False
+72.233.138.100,Active,OMH226-10,Otto Miller,True
+72.233.138.102,Active,OMH225-17,Otto Miller,True
+72.233.138.103,Active,OMH246-05,Otto Miller,True
+72.233.138.104,Active,OMH135-07,Otto Miller,False
+72.233.138.105,Active,OMH226-15,Otto Miller,True
+72.233.138.106,Active,OMH141-01,Otto Miller,False
+72.233.138.107,Active,OMH225-09,Otto Miller,False
+72.233.138.108,Active,IMAGE2,Image,True
+72.233.138.109,Active,OMH244-07,Otto Miller,True
+72.233.138.145,Active,OMH253-13,Otto Miller,False
+72.233.138.149,Active,OMH138-04,Otto Miller,True
+72.233.138.153,Active,OMH138-03,Otto Miller,False
+72.233.138.155,Active,OMH226-14,Otto Miller,True
+72.233.138.163,Active,OMH127,Otto Miller,True
+72.233.138.164,Active,OMH118-2,Otto Miller,True
+72.233.138.166,Active,OMH124,Otto Miller,True
+72.233.138.169,Active,OMH139-15,Otto Miller,False
+72.233.138.172,Active,OMH246,Otto Miller,True
+72.233.138.173,Active,OMH244-06,Otto Miller,False
+72.233.138.174,Active,OMH226-04,Otto Miller,True
+72.233.138.175,Active,OMH244-09,Otto Miller,False
+72.233.138.178,Active,OMH138-05,Otto Miller,True
+72.233.138.185,Active,OMH225-18,Otto Miller,True
+72.233.138.186,Active,OMH225-13,Otto Miller,True
+72.233.138.197,Active,OMH246-02,Otto Miller,True
+72.233.138.199,Active,OMH244-04,Otto Miller,False
+72.233.138.202,Active,OMH250-09,Otto Miller,True
+72.233.138.205,Active,OMH225,Otto Miller,True
+72.233.138.207,Active,OMH244,Otto Miller,True
+72.233.138.214,Active,OMH135,Otto Miller,True
+72.233.138.221,Active,OMH244-14,Otto Miller,True
+72.233.138.223,Active,OMH251-01,Otto Miller,False
+72.233.138.226,Active,OMH253-05,Otto Miller,False
+72.233.138.230,Active,OMH139-07,Otto Miller,False
+72.233.138.232,Active,OMH250-16,Otto Miller,False
+72.233.138.233,Active,OMH253-22,Otto Miller,True
+72.233.138.238,Active,OMH-114A,Otto Miller,True
+72.233.138.239,Active,OMH253-16,Otto Miller,False
+72.233.138.243,Active,OMH128,Otto Miller,True
+72.233.138.245,Active,OMH244-11,Otto Miller,True
+72.233.138.246,Active,OMH138-07,Otto Miller,False
+72.233.138.248,Active,OMH139-18,Otto Miller,False
+72.233.138.249,Active,OMH138-02,Otto Miller,True
+72.233.138.253,Active,OMH119,Otto Miller,True
+72.233.139.39,Active,OMH139-13,Otto Miller,False
+72.233.139.40,Active,OMH226-17,Otto Miller,True
+72.233.139.42,Active,OMH250-03,Otto Miller,False
+72.233.139.43,Active,OMH216,Otto Miller,True
+72.233.139.45,Active,OMH225-08,Otto Miller,True
+72.233.139.46,Active,OMH139-05,Otto Miller,False
+72.233.139.48,Active,OMH139-19,Otto Miller,False
+72.233.139.49,Active,OMH139-08,Otto Miller,False
+72.233.139.50,Active,OMH139-06,Otto Miller,False
+72.233.139.51,Active,OMH253-14,Otto Miller,True
+72.233.139.52,Active,OMH226-12,Otto Miller,False
+72.233.139.53,Active,OMH253-12,Otto Miller,False
+72.233.139.54,Active,OMH244-13,Otto Miller,False
+72.233.139.55,Active,OMH135-02,Otto Miller,False
+72.233.139.56,Active,OMH138-01,Otto Miller,False
+72.233.139.58,Active,OMH139-09,Otto Miller,True
+72.233.139.59,Active,OMH224,Otto Miller,True
+72.233.139.63,Active,OMH139-04,Otto Miller,True
+72.233.139.65,Active,OMH244-17,Otto Miller,True
+72.233.139.67,Active,OMH250-08,Otto Miller,False
+72.233.139.68,Active,OMH253-19,Otto Miller,False
+72.233.139.69,Active,OMH246-03,Otto Miller,True
+72.233.139.71,Active,OMH223-05,Otto Miller,False
+72.233.139.72,Active,OMH225-10,Otto Miller,True
+72.233.139.73,Active,OMH223-06,Otto Miller,True
+72.233.139.74,Active,OMH253-10,Otto Miller,False
+72.233.139.75,Active,OMH222,Otto Miller,True
+72.233.139.77,Active,OMH225-01,Otto Miller,False
+72.233.139.78,Active,OMH226-06,Otto Miller,True
+72.233.139.79,Active,OMH126,Otto Miller,True
+72.233.139.80,Active,OMH225-04,Otto Miller,False
+72.233.139.81,Active,OMH226-02,Otto Miller,True
+72.233.139.83,Active,OMH250-12,Otto Miller,True
+72.233.139.84,Active,OMH226-16,Otto Miller,True
+72.233.139.86,Active,OMH249-02,Otto Miller,True
+72.233.139.88,Active,OMH135-06,Otto Miller,True
+72.233.139.89,Active,OMH139-10,Otto Miller,False
+72.233.139.91,Active,OMH250-14,Otto Miller,True
+72.233.139.93,Active,OMH136,Otto Miller,True
+72.233.139.97,Active,OMH135-03,Otto Miller,False
+72.233.139.99,Active,OMH225-16,Otto Miller,True
+72.233.139.102,Active,OMH225-03,Otto Miller,False
+72.233.139.104,Active,OMH246-01,Otto Miller,False
+72.233.139.105,Active,OMH118,Otto Miller,True
+72.233.139.114,Active,OMH249-01,Otto Miller,True
+72.233.130.11,Active,ASSPVPMIN,Student Union Building,True
+72.233.130.20,Active,HOUSING-FRNTD,University Services,True
+72.233.130.42,Active,ASSPTREASURER,Student Union Building,False
+72.233.130.46,Active,SubRoku2,Student Union Building,True
+72.233.130.57,Active,KIOSK-SUB-03,Student Union Building,True
+72.233.130.62,Active,OUS-STUDENT,University Services,True
+72.233.130.63,Active,ASSP-PRM,Student Union Building,True
+72.233.130.66,Active,ASSP-VPIA,Student Union Building,True
+72.233.130.68,Active,ASSP-MINIS1,Student Union Building,True
+72.233.130.71,Active,ASSP-EVP,Student Union Building,True
+72.233.130.75,Active,UG-QA,Gwinn Commons,True
+72.233.130.85,Active,ASSP-01,Student Union Building,False
+72.233.130.86,Active,RLC-ASHTON2,Ashton,True
+72.233.130.90,Active,RESLIFEAA2,Student Union Building,True
+72.233.130.95,Active,KIOSK-SUB-01,Student Union Building,True
+72.233.130.101,ActiveReservation,extron-gazebo-controller,Student Union Building,True
+72.233.130.102,ActiveReservation,extron-gazebo-touchpanel,Student Union Building,True
+72.233.130.155,Active,RLC-MOYER-02,Moyer,True
+72.233.130.157,Active,ASSPCLUBEXEC,Student Union Building,True
+72.233.130.167,Active,SubRoku1,Student Union Building,True
+72.233.130.169,Active,ASSP-VP-FIN,Student Union Building,True
+72.233.130.172,Active,RESLIFE-RLC,Student Union Building,True
+72.233.130.183,Active,ASSP-ORP,Student Union Building,True
+72.233.130.185,Active,RLC-ASHTON1,Ashton,True
+72.233.130.186,Active,OSPAA,Student Union Building,True
+72.233.130.192,Active,UG-CASCADE,Gwinn Commons,True
+72.233.130.195,Active,OSPRECEPTION,Student Union Building,True
+72.233.130.200,Active,RLC-MOYER-01,Moyer,True
+72.233.190.12,Active,ubuntu-server,Marston/Watson,False
+72.233.191.17,Active,DESKTOP-9SEIUG1,Gwinn Commons,False
+72.233.191.30,Active,ubuntu-server,Marston/Watson,False
+172.16.128.250,Active,ILOUSE132DYDK,University Services,True
+172.31.224.50,ActiveReservation,Inova-OnTrack,Art Center,True
+172.31.224.128,ActiveReservation,Inova-OnTrack,Art Center,True
+172.31.224.145,ActiveReservation,Inova-OnTrack,Art Center,True
+172.31.224.146,ActiveReservation,Inova-OnTrack,Art Center,True
+172.31.224.147,ActiveReservation,Inova-OnTrack,Art Center,True
+172.31.224.149,ActiveReservation,Inova-OnTrack,Art Center,True
+172.31.208.3,ActiveReservation,Power-Arnett-UPS01-MDF,Arnett,True
+172.31.208.4,ActiveReservation,Power-Arnett-UPS01-2ndIDF,Arnett,True
+172.31.208.5,ActiveReservation,Power-Arnett-UPS01-3rdIDF,Arnett,True
+172.31.208.6,ActiveReservation,Power-Ashton-UPS01-4theMDF,Ashton,True
+172.31.208.7,ActiveReservation,Power-Ashton-UPS01-3rdwIDF,Ashton,True
+172.31.208.8,ActiveReservation,Power-Ashton-UPS01-3rdeIDF,Ashton,True
+172.31.208.9,ActiveReservation,Power-Ashton-UPS01-4thwIDF,Ashton,True
+172.31.208.10,ActiveReservation,Power-Ashton-UPS01-6thIDF,Ashton,True
+172.31.208.12,ActiveReservation,Power-Emerson-UPS01-2ndIDF,Emerson,True
+172.31.208.13,ActiveReservation,Power-Emerson-UPS01-3rdIDF,Emerson,True
+172.31.208.15,ActiveReservation,Power-Emerson-UPS01-5thIDF,Emerson,True
+172.31.208.16,ActiveReservation,Power-Hill-UPS01-MDF,Hill,True
+172.31.208.17,ActiveReservation,Power-Hill-UPS01-3rdIDF,Hill,True
+172.31.208.18,ActiveReservation,Power-Hill-UPS01-4thIDF,Hill,True
+172.31.208.21,ActiveReservation,Power-Moyer-UPS01-2ndIDF,Moyer,True
+172.31.232.11,ActiveReservation,EXTRON-MW3-CONTROLLER,Marston/Watson,True
+172.31.232.12,ActiveReservation,EXTRON-MW56-CONTROLLER,Marston/Watson,False
+172.31.232.13,ActiveReservation,EXTRON-AC3-CONTROLLER,Art Center,True
+172.31.232.14,ActiveReservation,EXTRON-AC4-CONTROLLER,Art Center,True
+172.31.232.15,ActiveReservation,EXTRON-AC5-CONTROLLER,Art Center,True
+172.31.232.16,ActiveReservation,EXTRON-AC5-SWITCHER,Art Center,True
+172.31.232.17,ActiveReservation,EXTRON-AC6-CONTROLLER,Art Center,True
+172.31.232.18,ActiveReservation,EXTRON-DH150-CONTROLLER,Demaray,True
+172.31.232.19,ActiveReservation,EXTRON-DH254-CONTROLLER,Demaray,True
+172.31.232.20,ActiveReservation,EXTRON-DH255-CONTROLLER,Demaray,True
+172.31.232.21,ActiveReservation,EXTRON-DH259-CONTROLLER,Demaray,True
+172.31.232.22,ActiveReservation,EXTRON-DH261-CONTROLLER,Demaray,True
+172.31.232.23,ActiveReservation,EXTRON-DH261-SWITCHER,Demaray,True
+172.31.232.24,ActiveReservation,EXTRON-DH353-CONTROLLER,Demaray,True
+172.31.232.25,ActiveReservation,EXTRON-DH354-CONTROLLER,Demaray,True
+172.31.232.26,ActiveReservation,EXTRON-DH355-CONTROLLER,Demaray,True
+172.31.232.27,ActiveReservation,EXTRON-DH356-CONTROLLER,Demaray,True
+172.31.232.28,ActiveReservation,EXTRON-DH358-CONTROLLER,Demaray,True
+172.31.232.29,ActiveReservation,EXTRON-DH359-CONTROLLER,Demaray,True
+172.31.232.30,ActiveReservation,EXTRON-DH360-CONTROLLER,Demaray,True
+172.31.232.31,ActiveReservation,EXTRON-OMH109-CONTROLLER,Otto Miller,True
+172.31.232.32,ActiveReservation,EXTRON-AC7-CONTROLLER,Art Center,True
+172.31.232.33,ActiveReservation,EXTRON-AC9-CONTROLLER,Art Center,False
+172.31.232.34,ActiveReservation,EXTRON-OMH124-CONTROLLER,Otto Miller,True
+172.31.232.35,ActiveReservation,EXTRON-OMH126-CONTROLLER,Otto Miller,True
+172.31.232.36,ActiveReservation,EXTRON-OMH127-CONTROLLER,Otto Miller,True
+172.31.232.37,ActiveReservation,EXTRON-OMH128-CONTROLLER,Otto Miller,True
+172.31.232.38,ActiveReservation,EXTRON-OMH135-CONTROLLER,Otto Miller,True
+172.31.232.39,ActiveReservation,EXTRON-OMH136-CONTROLLER,Otto Miller,True
+172.31.232.40,ActiveReservation,EXTRON-OMH138-CONTROLLER,Otto Miller,True
+172.31.232.41,ActiveReservation,EXTRON-OMH139-CONTROLLER,Otto Miller,True
+172.31.232.42,ActiveReservation,EXTRON-OMH215-CONTROLLER,Otto Miller,True
+172.31.232.43,ActiveReservation,EXTRON-OMH216-CONTROLLER,Otto Miller,True
+172.31.232.44,ActiveReservation,EXTRON-OMH222-CONTROLLER,Otto Miller,True
+172.31.232.45,ActiveReservation,EXTRON-OMH225-CONTROLLER,Otto Miller,False
+172.31.232.46,ActiveReservation,EXTRON-OMH226-CONTROLLER,Otto Miller,True
+172.31.232.47,ActiveReservation,EXTRON-OMH227-CONTROLLER,Otto Miller,True
+172.31.232.48,ActiveReservation,EXTRON-OMH244-CONTROLLER,Otto Miller,True
+172.31.232.49,ActiveReservation,EXTRON-OMH245-CONTROLLER,Otto Miller,True
+172.31.232.50,ActiveReservation,EXTRON-OMH246-CONTROLLER,Otto Miller,True
+172.31.232.51,ActiveReservation,EXTRON-OMH224-CONTROLLER,Otto Miller,True
+172.31.232.52,ActiveReservation,EXTRON-OMH224-SWITCHER,Otto Miller,False
+172.31.232.53,ActiveReservation,EXTRON-OMH118-CONTROLLER,Otto Miller,True
+172.31.232.54,ActiveReservation,EXTRON-OMH118-SWITCHER,Otto Miller,True
+172.31.232.55,ActiveReservation,EXTRON-EH231-CONTROLLER,Eaton,True
+172.31.232.56,ActiveReservation,EXTRON-EH231-AUDIOPROCES,Eaton,True
+172.31.232.57,ActiveReservation,EXTRON-EH231-SWITCHER,Eaton,True
+172.31.232.58,ActiveReservation,EXTRON-EH231-TOUCHPANEL,Eaton,True
+172.31.232.59,ActiveReservation,EXTRON-EH112-CONTROLLER,Eaton,True
+172.31.232.60,ActiveReservation,EXTRON-EH131-CONTROLLER,Eaton,True
+172.31.232.61,ActiveReservation,EXTRON-EH134-CONTROLLER,Eaton,True
+172.31.232.62,ActiveReservation,EXTRON-EH230-CONTROLLER,Eaton,True
+172.31.232.63,ActiveReservation,EXTRON-DLMH113-SWITCHER,McKenna,True
+172.31.232.64,ActiveReservation,EXTRON-EH232-CONTROLLER,Eaton,True
+172.31.232.65,ActiveReservation,EXTRON-EH233-CONTROLLER,Eaton,True
+172.31.232.66,ActiveReservation,EXTRON-EH322-CONTROLLER,Eaton,True
+172.31.232.67,ActiveReservation,EXTRON-EH330-CONTROLLER,Eaton,True
+172.31.232.68,ActiveReservation,EXTRON-EH331-CONTROLLER,Eaton,True
+172.31.232.69,ActiveReservation,EXTRON-EH112-SWITCHER,Eaton,True
+172.31.232.70,ActiveReservation,EXTRON-EH322-SWITCHER,Eaton,True
+172.31.232.71,ActiveReservation,EXTRON-DLMH111-CONTROL,McKenna,True
+172.31.232.72,ActiveReservation,EXTRON-DLMH111-SWITCHER,McKenna,True
+172.31.232.73,ActiveReservation,EXTRON-DLMH113-CONTROL,McKenna,True
+172.31.232.74,ActiveReservation,EXTRON-DLMH117-CONTROL,McKenna,True
+172.31.232.75,ActiveReservation,EXTRON-DLMH118-CONTROL,McKenna,True
+172.31.232.76,ActiveReservation,EXTRON-CMB103-CONTROLLER,Crawford Music Building,False
+172.31.232.77,ActiveReservation,EXTRON-CMB201-CONTROLLER,Crawford Music Building,True
+172.31.232.78,ActiveReservation,EXTRON-WET201-CONTROLLER,Weter,True
+172.31.232.79,ActiveReservation,EXTRON-WET202-CONTROLLER,Weter,True
+172.31.232.80,ActiveReservation,EXTRON-PET201-CONTROLLER,Peterson,True
+172.31.232.81,ActiveReservation,EXTRON-PET303-CONTROLLER,Peterson,True
+172.31.232.83,ActiveReservation,EXTRON-CREM201-CONTROL,Cremona,True
+172.31.232.84,ActiveReservation,EXTRON-CREM202-CONTROL,Cremona,True
+172.31.232.85,ActiveReservation,EXTRON-CREM203-CONTROL,Cremona,True
+172.31.232.86,ActiveReservation,EXTRON-CREM203-SWITCH,Cremona,True
+172.31.232.87,ActiveReservation,EXTRON-BERT1-CONTROLLER,Bertona,True
+172.31.232.88,ActiveReservation,EXTRON-BERT1-SWITCHER,Bertona,True
+172.31.232.89,ActiveReservation,EXTRON-BERT2-CONTROLLER,Bertona,True
+172.31.232.90,ActiveReservation,EXTRON-BERT2-SWITCHER,Bertona,True
+172.31.232.91,ActiveReservation,EXTRON-BERT3-CONTROLLER,Bertona,True
+172.31.232.92,ActiveReservation,extron-bert3-switcher,Bertona,True
+172.31.232.93,ActiveReservation,EXTRON-BERT4-CONTROLLER,Bertona,True
+172.31.232.94,ActiveReservation,EXTRON-BERT4-SWITCHER,Bertona,True
+172.31.232.95,ActiveReservation,EXTRON-BERT5-CONTROLLER,Bertona,True
+172.31.232.96,ActiveReservation,EXTRON-BERT5-SWITCHER,Bertona,True
+172.31.232.97,ActiveReservation,EXTRON-BERT6-CONTROLLER,Bertona,True
+172.31.232.98,ActiveReservation,EXTRON-BERT6-SWITCHER,Bertona,True
+172.31.232.99,ActiveReservation,EXTRON-RBPCLASS-CONTROL,Royal Brougham Pavilion,True
+172.31.232.100,ActiveReservation,EXTRON-BH201-CONTROLLER,Beegle,True
+172.31.232.101,ActiveReservation,EXTRON-CMB211-CONTROLLER,Crawford Music Building,False
+172.31.232.102,ActiveReservation,EXTRON-LIBCLASS-CONTROL,Ames Library,False
+172.31.232.103,ActiveReservation,EXTRON-LIBSEM-CONTROLLER,Ames Library,True
+172.31.232.104,ActiveReservation,EXTRON-BH1-CONTROLLER,Beegle,True
+172.31.232.105,ActiveReservation,EXTRON-MW253-CONTROLLER,Marston/Watson,True
+172.31.232.106,ActiveReservation,EXTRON-MW255-CONTROLLER,Marston/Watson,True
+172.31.232.107,ActiveReservation,EXTRON-EXECBOARDROOM-SWITCHER,Demaray,True
+172.31.232.108,ActiveReservation,EXTRON-EXECBOARDROOM-CONTROLLER,Demaray,True
+172.31.232.109,ActiveReservation,EXTRON-EXECBOARDROOM-TOUCHPANEL,Demaray,True
+172.31.232.110,ActiveReservation,EXTRON-MW253-SWITCHER,Marston/Watson,True
+172.31.232.111,ActiveReservation,EXTRON-MW255-SWITCHER,Marston/Watson,True
+172.31.232.112,ActiveReservation,EXTRON-BH201-SWITCHER,Beegle,True
+172.31.232.113,ActiveReservation,EXTRON-BH204-CONTROLLER,Beegle,True
+172.31.232.114,ActiveReservation,EXTRON-BH205-TOUCHPANEL,Beegle,True
+172.31.232.115,ActiveReservation,EXTRON-BH205-CONTROLLER,Beegle,True
+172.31.232.116,ActiveReservation,EXTRON-BH205-SWITCHER,Beegle,True
+172.31.232.117,ActiveReservation,EXTRON-OMH119-CONTROLLER,Otto Miller,True
+172.31.232.118,ActiveReservation,EXTRON-OMH119-TOUCHPANEL,Otto Miller,True
+172.31.232.119,ActiveReservation,EXTRON-OMH119-SWITCHER,Otto Miller,True
+172.31.232.125,ActiveReservation,EXTRON-PDR-TOUCHPANEL,Gwinn Commons,True
+172.31.232.126,ActiveReservation,EXTRON-PDR-SWITCHER,Gwinn Commons,True
+172.31.232.127,ActiveReservation,EXTRON-PDR-CONTROLLER,Gwinn Commons,True
+172.31.232.130,ActiveReservation,EXTRON-BH205-CAMERA,Beegle,True
+172.31.232.131,ActiveReservation,EXTRON-BH205-CAMCCU,Beegle,True
+172.31.232.132,InactiveReservation,extron-ug-audioprocessor,Gwinn Commons,True
+172.31.232.133,ActiveReservation,extron-ug-qa-touchpanel,Gwinn Commons,True
+172.31.232.134,ActiveReservation,extron-ug-ca-touchpanel,Gwinn Commons,True
+172.31.232.135,ActiveReservation,extron-ug-foyer-touchpanel,Gwinn Commons,True
+172.31.232.136,InactiveReservation,extron-ug-relay1,Gwinn Commons,True
+172.31.232.137,InactiveReservation,extron-ug-relay2,Gwinn Commons,True
+172.31.232.138,ActiveReservation,extron-ug-relay3,Gwinn Commons,True
+172.31.232.139,ActiveReservation,extron-ug-relay4,Gwinn Commons,True
+172.31.232.140,ActiveReservation,extron-ug-switcher,Gwinn Commons,True
+172.31.232.141,ActiveReservation,extron-ug-controller1,Gwinn Commons,True
+172.31.232.142,ActiveReservation,extron-ug-controller2,Gwinn Commons,True
+172.31.232.144,ActiveReservation,EXTRON-CREM101-SWITCHER,Cremona,True
+172.31.232.145,ActiveReservation,extron-crem101-touchpanel,Cremona,True
+172.31.232.146,InactiveReservation,extron-crem101-controller,Cremona,True
+172.31.232.147,ActiveReservation,EXTRON-CRAW211-SWITCHER,Crawford Music Building,True
+172.31.232.148,ActiveReservation,EXTRON-CRAW211-TOUCHPANEL,Crawford Music Building,True
+172.31.232.149,ActiveReservation,extron-dh353-switcher,Demaray,True
+172.31.232.150,ActiveReservation,extron-wacconfroom-switcher,Walls Advancement Center,True
+172.31.232.151,ActiveReservation,extron-wacconfroom-controller,Walls Advancement Center,False
+172.31.232.152,ActiveReservation,extron-ac8-controller,Art Center,True
+172.31.232.153,ActiveReservation,extron-ac10-controller,Art Center,True
+172.31.232.154,InactiveReservation,extron-omh223b-controller,Otto Miller,False
+172.31.232.156,ActiveReservation,extron-mw5-touchpanel,Marston/Watson,True
+172.31.232.157,ActiveReservation,extron-mw5-controller,Marston/Watson,True
+172.31.232.158,ActiveReservation,extron-mw5-switcher,Marston/Watson,True
+172.31.232.159,InactiveReservation,extron-6nick117-switcher,6 Nickerson,True
+172.31.232.160,ActiveReservation,extron-6nick117-controller,6 Nickerson,True
+172.31.232.161,ActiveReservation,extron-6nick117-touchpanel,6 Nickerson,True
+172.31.232.162,ActiveReservation,extron-6nick117-controller-slave,6 Nickerson,False
+172.31.232.163,InactiveReservation,extron-6nick106-switcher,6 Nickerson,True
+172.31.232.164,ActiveReservation,extron-6nick106-controller,6 Nickerson,True
+172.31.232.165,ActiveReservation,extron-6nick106-touchpanel,6 Nickerson,True
+172.31.232.166,ActiveReservation,extron-6nick106-controller-slave,6 Nickerson,True
+172.31.232.167,InactiveReservation,extron-6nick118-switcher,6 Nickerson,False
+172.31.232.168,ActiveReservation,extron-6nick118-controller,6 Nickerson,True
+172.31.232.169,ActiveReservation,extron-6nick118-touchpanel,6 Nickerson,True
+172.31.232.170,InactiveReservation,extron-6nick213-switcher,6 Nickerson,True
+172.31.232.171,InactiveReservation,extron-6nick213-controller,6 Nickerson,True
+172.31.232.172,InactiveReservation,extron-6nick213-touchpanel,6 Nickerson,True
+172.31.232.173,InactiveReservation,extron-6nick213-controller-slave,6 Nickerson,True
+172.31.232.174,InactiveReservation,extron-6nick207-switcher,6 Nickerson,False
+172.31.232.175,ActiveReservation,extron-6nick207-controller,6 Nickerson,True
+172.31.232.176,ActiveReservation,extron-6nick207-touchpanel,6 Nickerson,True
+172.31.232.177,ActiveReservation,extron-6nick207-controller-slave,6 Nickerson,True
+172.31.232.178,InactiveReservation,extron-6nick223-switcher,6 Nickerson,False
+172.31.232.179,ActiveReservation,extron-6nick223-controller,6 Nickerson,True
+172.31.232.180,ActiveReservation,extron-6nick223-touchpanel,6 Nickerson,True
+172.31.232.181,InactiveReservation,extron-6nick308-switcher,6 Nickerson,True
+172.31.232.182,ActiveReservation,extron-6nick308-controller,6 Nickerson,True
+172.31.232.183,ActiveReservation,extron-6nick308-touchpanel,6 Nickerson,True
+172.31.232.185,InactiveReservation,extron-6nick307-switcher,6 Nickerson,False
+172.31.232.186,ActiveReservation,extron-6nick307-controller,6 Nickerson,True
+172.31.232.187,ActiveReservation,extron-6nick307-touchpanel,6 Nickerson,True
+172.31.232.188,InactiveReservation,extron-6nick305-switcher,6 Nickerson,False
+172.31.232.189,InactiveReservation,extron-6nick305-controller,6 Nickerson,False
+172.31.232.190,InactiveReservation,extron-6nick305-touchpanel,6 Nickerson,False
+172.31.232.192,InactiveReservation,extron-6nick314-switcher,6 Nickerson,False
+172.31.232.193,ActiveReservation,extron-6nick314-controller,6 Nickerson,True
+172.31.239.208,Active,EXTRON-CRAW211-SWITCHER,Crawford Music Building,True
+172.31.216.140,ActiveReservation,Nickerson Studios-112-115,Nickerson Studios,True
+172.31.216.143,ActiveReservation,Nickerson Studios-108-115,Nickerson Studios,True
+172.31.216.167,ActiveReservation,Nickerson Studios-128-115,Nickerson Studios,True
+172.31.216.168,ActiveReservation,Nickerson Studios-103-115,Nickerson Studios,True
+172.31.255.67,InactiveReservation,hvac-router-art-center,Art Center,True
+172.31.255.68,InactiveReservation,hvac-router-wac,Walls Advancement Center,True
+172.31.255.69,InactiveReservation,hvac-router-bertona,Bertona,True
+172.31.255.86,ActiveReservation,WASeattlePacificU,Art Center,True
+172.31.255.87,InactiveReservation,hvac-router-marston,Marston/Watson,True
+172.31.255.88,InactiveReservation,hvac-router-crawford,Crawford Music Building,True
+172.31.255.89,InactiveReservation,hvac-router-alumni,Art Center,False
+172.31.255.90,InactiveReservation,hvac-router-bookstore,Bookstore,True
+172.31.255.91,InactiveReservation,hvac-router-hr,Human Resources,True
+172.31.255.92,InactiveReservation,hvac-router-arnett,Arnett,True
+172.31.255.130,InactiveReservation,hvac-router-omh,Otto Miller,True
+172.31.255.131,InactiveReservation,hvac-router-foc,Art Center,True
+172.31.255.132,InactiveReservation,hvac-router-mckinley,McKinley,True
+172.31.255.133,InactiveReservation,hvac-router-peterson,Peterson,True
+172.31.255.134,InactiveReservation,hvac-router-nickersonstudio,Art Center,True
+172.31.255.135,InactiveReservation,hvac-router-lower-watson,Marston/Watson,True
+172.31.255.181,ActiveReservation,EXTRON-LIBLAB1,Ames Library,False
+172.31.255.182,ActiveReservation,EXTRON-BH1-CONTROLLER,Beegle,False
+172.31.255.183,ActiveReservation,EXTRON-LIBSEM2,Ames Library,False
+172.31.255.215,ActiveReservation,netcam-arnett-hall-north,Arnett,True
+172.31.255.216,InactiveReservation,EXTRON-RBPEXSCI,Royal Brougham Pavilion,False
+172.31.255.217,ActiveReservation,Power-Moyer-UPS02-MDF,Moyer,True
+172.31.255.218,ActiveReservation,Power-Moyer-UPS01-2ndIDF,Moyer,False
+172.31.255.219,ActiveReservation,Power-WesleyCremona-UPS01-MDF,Cremona,True
+172.31.255.222,ActiveReservation,Power-34WCremona-UPS01-MDF,Cremona,True
+172.31.255.223,ActiveReservation,Power-35WCremona-UPS01-MDF,Cremona,True
+172.31.255.224,ActiveReservation,Power-FalconApts-UPS01-MDF,Falcon Newspaper,True
+172.31.255.225,ActiveReservation,Power-OMH-UPS03-MDF,Otto Miller,True
+172.31.255.226,ActiveReservation,Power-OMH-UPS02-MDF,Otto Miller,True
+172.31.255.227,ActiveReservation,Power-OMH-UPS01-MDF,Otto Miller,True
+172.31.255.228,ActiveReservation,Power-DH-UPS01-MDF,Demaray,True
+172.31.255.229,ActiveReservation,Power-DH-UPS02-MDF,Demaray,True
+172.31.255.231,ActiveReservation,Power-DH-UPS03-MDF,Demaray,True
+172.31.255.244,InactiveReservation,extron-crem102,Cremona,False
+172.31.255.245,ActiveReservation,EXTRON-CREM201-CONTROL,Cremona,False
+172.31.255.246,ActiveReservation,EXTRON-CREM202-CONTROL,Cremona,False
+172.31.255.247,ActiveReservation,EXTRON-CREM203-CONTROLLE,Cremona,False
+172.31.255.250,ActiveReservation,netcam-martinsquare-south,Art Center,True
+172.31.255.252,ActiveReservation,netcam-bertonaandfifth,Bertona,True
+172.31.255.253,ActiveReservation,netcam-demarayhall,Demaray,True
+172.31.255.254,ActiveReservation,Netcam-MartinSquare-North,Art Center,True
+172.31.240.16,ActiveReservation,mfp-alex108,Alexander,True
+172.31.240.17,ActiveReservation,mfp-alex204,Alexander,True
+172.31.240.18,ActiveReservation,mfp-alex302,Alexander,True
+172.31.240.19,ActiveReservation,mfp-alex413,Alexander,True
+172.31.240.20,ActiveReservation,mfp-4nickerson,4 Nickerson,True
+172.31.240.21,ActiveReservation,mfp-art133,Art Center,True
+172.31.240.22,ActiveReservation,mfp-art107,Art Center,True
+172.31.240.23,ActiveReservation,mfp-craw202,Crawford Music Building,True
+172.31.240.24,ActiveReservation,mfp-bert5,Bertona,True
+172.31.240.25,ActiveReservation,mfp-dh-sfs-backofc,Demaray,True
+172.31.240.27,ActiveReservation,mfp-dh110,Demaray,True
+172.31.240.28,ActiveReservation,mfp-dh115,Demaray,True
+172.31.240.29,ActiveReservation,mfp-dh152,Demaray,True
+172.31.240.30,ActiveReservation,mfp-dh153,Demaray,True
+172.31.240.31,ActiveReservation,mfp-dh-3rdfloor,Demaray,True
+172.31.240.32,ActiveReservation,mfp-dh-execofc,Demaray,True
+172.31.240.33,ActiveReservation,mfp-dh-obp,Demaray,True
+172.31.240.34,ActiveReservation,mfp-dh-odei,Demaray,True
+172.31.240.35,ActiveReservation,mfp-dh-gradctr,Demaray,True
+172.31.240.36,ActiveReservation,mfp-dh-obf,Demaray,True
+172.31.240.37,Active,XRX0000AAAC7929,Art Center,False
+172.31.240.39,ActiveReservation,mfp-hr,Human Resources,True
+172.31.240.40,ActiveReservation,mfp-marston-cis-staff,Marston/Watson,True
+172.31.240.41,ActiveReservation,MFP-Marston-CIS,Marston/Watson,True
+172.31.240.43,ActiveReservation,mfp-marston-scc,Marston/Watson,True
+172.31.240.44,ActiveReservation,mfp-mailing,Mailing Services,True
+172.31.240.45,ActiveReservation,mfp-marston126,Marston/Watson,True
+172.31.240.46,ActiveReservation,mfp-marston227,Marston/Watson,True
+172.31.240.47,ActiveReservation,mfp-marston210,Marston/Watson,True
+172.31.240.48,ActiveReservation,mfp-lib-lowerlevel-ne,Ames Library,True
+172.31.217.13,ActiveReservation,Peterson 4-406-115,Peterson,True
+172.31.217.78,Active,RBP B-Classroom-215,Royal Brougham Pavilion,True
+172.31.217.80,Active,RBP 1-P,Royal Brougham Pavilion,True
+172.31.217.111,Active,Eaton 2-Room 207-305,Eaton,True
+172.31.240.49,ActiveReservation,mfp-6nick-1stfloor,6 Nickerson,True
+172.31.240.50,ActiveReservation,mfp-6nick-2ndfloor,6 Nickerson,True
+172.31.240.51,InactiveReservation,MFP-SBE-Lobby,McKenna,True
+172.31.240.52,ActiveReservation,mfp-sbe-workroom,McKenna,True
+172.31.240.53,ActiveReservation,mfp-sbe-mainoffice,McKenna,True
+172.31.240.54,ActiveReservation,mfp-moyer-cfl,Moyer,True
+172.31.240.55,ActiveReservation,mfp-omh105,Otto Miller,True
+172.31.240.57,ActiveReservation,mfp-omh-lobby,Otto Miller,True
+172.31.240.58,ActiveReservation,mfp-omh253,Otto Miller,True
+172.31.240.59,ActiveReservation,mfp-omh206,Otto Miller,True
+172.31.240.60,ActiveReservation,mfp-pet-fcs-204,Peterson,True
+172.31.240.61,ActiveReservation,mfp-pet-cpe-203,Peterson,True
+172.31.240.62,ActiveReservation,mfp-pet-3rd-copyroom,Peterson,True
+172.31.240.63,ActiveReservation,mfp-pet-3rd-reception,Peterson,True
+172.31.240.64,ActiveReservation,mfp-pet413,Peterson,True
+172.31.240.65,ActiveReservation,mfp-pet412,Peterson,True
+172.31.240.66,ActiveReservation,mfp-rbp-pe,Royal Brougham Pavilion,True
+172.31.240.67,ActiveReservation,mfp-rbp-athletics,Royal Brougham Pavilion,True
+172.31.240.68,ActiveReservation,mfp-security,Safety and Security,True
+172.31.240.69,ActiveReservation,mfp-sbe-ctrhouse,McKenna,True
+172.31.240.70,ActiveReservation,mfp-eh102,Eaton,True
+172.31.240.71,ActiveReservation,mfp-eh-lobby,Eaton,True
+172.31.240.72,ActiveReservation,mfp-nickstudios,Nickerson Studios,True
+172.31.240.74,ActiveReservation,mfp-sub-assp,Student Union Building,True
+172.31.240.75,InactiveReservation,MFP-SUB-Atrium,Student Union Building,True
+172.31.240.76,ActiveReservation,mfp-sub-osl,Student Union Building,True
+172.31.240.77,ActiveReservation,mfp-sub-careerctr,Student Union Building,True
+172.31.240.78,InactiveReservation,MFP-SUB-PerkinsCtr,Student Union Building,True
+172.31.240.79,ActiveReservation,mfp-lib-lowerlevel-hall,Ames Library,True
+172.31.240.80,InactiveReservation,MFP-EH-3rdFloor,Eaton,True
+172.31.240.81,ActiveReservation,mfp-lib-circ,Ames Library,True
+172.31.240.82,ActiveReservation,mfp-lib-fl2-hall,Ames Library,True
+172.31.240.84,ActiveReservation,mfp-lib-fl3-hall,Ames Library,True
+172.31.240.85,ActiveReservation,mfp-ous,University Services,True
+172.31.240.87,ActiveReservation,mfp-wac-middle,Walls Advancement Center,True
+172.31.240.88,ActiveReservation,mfp-wac-back,Walls Advancement Center,True
+172.31.240.89,ActiveReservation,mfp-weter-uc,Weter,True
+172.31.240.90,InactiveReservation,MFP-Weter-Main,Weter,True
+172.31.240.91,ActiveReservation,mfp-weter318,Weter,True
+172.31.240.93,ActiveReservation,mfp-pet201,Peterson,True
+172.31.240.94,ActiveReservation,mfp-weter309,Weter,True
+172.31.240.95,ActiveReservation,mfp-image,Image,True
+172.31.240.97,ActiveReservation,mfp-lib-mainfloor1,Ames Library,True
+172.31.240.98,ActiveReservation,mfp-lib-mainfloor2,Ames Library,True
+172.31.240.105,ActiveReservation,mfp-dh258,Demaray,True
+172.31.240.110,InactiveReservation,mfp-moyer-1stfloor,Moyer,True
+172.31.240.112,ActiveReservation,mfp-6nick-3rdfloor,6 Nickerson,True
+172.31.240.114,ActiveReservation,mfp-watson-breezeway,Marston/Watson,True
+172.31.241.228,ActiveReservation,LW Print Server,Marston/Watson,True
+172.31.217.252,ActiveReservation,Demaray 1-Jack-93-105,Demaray,False
+172.31.217.254,ActiveReservation,Demaray 1-Classroom 150-105,Demaray,False
+172.31.218.2,ActiveReservation,Demaray 1-SAS Office-105A,Demaray,False
+172.31.218.3,ActiveReservation,Demaray 1-Jack-223-105,Demaray,False
+172.31.218.4,ActiveReservation,Demaray B-Jack-117-105,Demaray,False
+172.31.218.5,ActiveReservation,Demaray B-MDF-105,Demaray,False
+172.31.218.6,ActiveReservation,Demaray 1-Office 153-115,Demaray,True
+172.31.218.7,ActiveReservation,Demaray 2-University Relations-105,Demaray,False
+172.31.218.8,ActiveReservation,Demaray 2-Executive AA-105,Demaray,False
+172.31.218.9,ActiveReservation,Demaray 2-Classroom 255-105,Demaray,False
+172.31.218.10,ActiveReservation,Demaray 2-OPA-115,Demaray,True
+172.31.218.11,ActiveReservation,Demaray 3-Classroom 356-105,Demaray,False
+172.31.218.12,ActiveReservation,Demaray 2-Classroom 261-105,Demaray,False
+172.31.218.13,ActiveReservation,Peterson 3-302-105,Peterson,True
+172.31.218.14,ActiveReservation,Peterson 2-MDF-105,Peterson,True
+172.31.218.19,Active,Falcon 4 Plex-3473-215,Falcon Newspaper,True
+172.31.218.20,Active,Gwinn 2S-Dining-215,Gwinn Commons,True
+172.31.218.23,Active,Davis Apts Unit 7-115,Davis,True
+172.31.218.24,Active,Gwinn 2N-Dining-215,Gwinn Commons,True
+172.31.218.37,Active,Demaray 2-Executive AA-305,Demaray,True
+172.31.218.46,Active,Davis Apts Unit 6-215,Davis,True
+172.31.218.47,Active,Davis Apts Unit 1-115,Davis,True
+172.31.218.48,Active,OUS-Basement-215,University Services,True
+172.31.218.49,Active,Marston B-PBX Room-305,Marston/Watson,True
+172.31.218.50,Active,Emerson 4-Room 438-115,Emerson,True
+172.31.218.51,Active,Outdoor-McKenna-AP275,McKenna,True
+172.31.218.52,Active,Demaray B-MDF-305,Demaray,True
+172.31.218.53,Active,Marston B-TSS-S-305,Marston/Watson,True
+172.31.218.54,Active,Demaray B-Jack-117-305,Demaray,True
+172.31.218.55,Active,Demaray 1-Jack-223-305,Demaray,True
+172.31.218.56,Active,Demaray 1-SAS Office-305A,Demaray,True
+172.31.218.57,Active,McKenna 2nd-Conf Room-305,McKenna,True
+172.31.218.58,Active,Demaray 1-Lobby-305,Demaray,True
+172.31.218.59,Active,Demaray 2-Grad Center-305A,Demaray,True
+172.31.218.60,Active,McKenna 2nd-NW-305,McKenna,True
+172.31.218.61,Active,McKenna 2nd-SW-305,McKenna,True
+172.31.218.62,Active,McKenna 1st-RM 117-305,McKenna,True
+172.31.218.63,Active,McKenna 1st-RM 111-305,McKenna,True
+172.31.218.64,Active,Demaray 3-Classroom 356-305,Demaray,True
+172.31.218.65,Active,Falcon 4 Plex-3469-215,Falcon Newspaper,True
+172.31.218.66,Active,Demaray 2-Classroom 261-305,Demaray,True
+172.31.218.67,Active,Demaray 1-Classroom 150-305,Demaray,True
+172.31.218.68,Active,OHM 1-Lobby-305,Otto Miller,True
+172.31.218.69,Active,OHM 2-Room 224-305,Otto Miller,True
+172.31.218.70,Active,OHM 2-Room 250-305,Otto Miller,True
+172.31.218.71,Active,OMH 1-Room 138-305,Otto Miller,True
+172.31.218.72,Active,OMH 1-Room 135-305,Otto Miller,True
+172.31.218.73,Active,OMH 1-Room 139-305,Otto Miller,True
+172.31.218.74,Active,OMH 2-Room 216-305,Otto Miller,True
+172.31.218.75,Active,OMH 1-Room 116-305,Otto Miller,True
+172.31.218.76,Active,OMH 1-Room 114-305,Otto Miller,True
+172.31.218.77,Active,OHM 2-Room 226-305,Otto Miller,True
+172.31.218.78,Active,OMH 1-Room 126-305,Otto Miller,True
+172.31.218.79,Active,OMH 1-Room 131-305,Otto Miller,True
+172.31.218.80,Active,OHM 2-Room 225-305,Otto Miller,True
+172.31.218.81,Active,Eaton 1-Room 103-305,Eaton,True
+172.31.218.82,Active,Eaton 1-Room 112-305,Eaton,True
+172.31.218.83,Active,Eaton 2-Room 221-305,Eaton,True
+172.31.218.84,Active,Eaton 2-Room 201-305,Eaton,True
+172.31.218.85,Active,Eaton 1-Room 134-305,Eaton,True
+172.31.218.86,Active,Eaton 1-Room 101-305,Eaton,True
+172.31.218.87,Active,Eaton 1-Room 113-305,Eaton,True
+172.31.218.88,Active,Eaton 1-Room 107-305,Eaton,True
+172.31.218.89,Active,Eaton 2-Room 232-305,Eaton,True
+172.31.218.90,Active,Eaton 3-Room 322-305,Eaton,True
+172.31.218.91,Active,Eaton B-Room 15-305,Eaton,True
+172.31.218.92,Active,Eaton-B-Room 25-305,Eaton,True
+172.31.218.93,Active,Eaton-B-Room 27-305,Eaton,True
+172.31.218.94,Active,Eaton 3-Room 309-305,Eaton,True
+172.31.218.95,Active,Ashton 1E-Jack 5-305,Ashton,True
+172.31.218.96,Active,Ashton 6-Jack 11-305,Ashton,True
+172.31.218.97,Active,Bertona 1-3-305,Bertona,True
+172.31.218.98,Active,Bertona 1-4-305,Bertona,True
+172.31.218.99,Active,Cremona Classroom 203-2-305,Cremona,True
+172.31.218.100,Active,14 W,Cremona,True
+172.31.218.101,Active,Cremona Classroom 202-2-305,Cremona,True
+172.31.218.102,Active,Cremona Classroom 102-1-305A,Cremona,True
+172.31.218.103,Active,34 W,Cremona,True
+172.31.218.105,Active,34 W,Cremona,True
+172.31.218.106,Active,34 W,Cremona,True
+172.31.218.107,Active,34 W,Cremona,True
+172.31.218.108,Active,34 W,Cremona,True
+172.31.218.111,Active,Bailey Apts,Bailey,True
+172.31.218.112,Active,Bailey Apts,Bailey,True
+172.31.218.115,Active,Wesley Dravus-2304-305,Wesley Dravus,True
+172.31.218.116,Active,Wesley Dravus-2202-305,Wesley Dravus,True
+172.31.218.117,Active,Wesley Dravus-2206-305,Wesley Dravus,True
+172.31.218.118,Active,Wesley Dravus-2305-305,Wesley Dravus,True
+172.31.218.119,Active,Wesley Dravus-2401-305,Wesley Dravus,True
+172.31.218.120,Active,Wesley Dravus-2406-305,Wesley Dravus,True
+172.31.218.121,Active,Wesley Dravus-2405-305,Wesley Dravus,True
+172.31.218.122,Active,Wesley Dravus-2404-305,Wesley Dravus,True
+172.31.218.123,Active,Wesley Dravus-2301-305,Wesley Dravus,True
+172.31.218.124,Active,Wesley Cremona-1302-305,Cremona,True
+172.31.218.125,Active,Wesley Cremona-1304-305,Cremona,True
+172.31.218.126,Active,Wesley Cremona-1401-305,Cremona,True
+172.31.218.127,Active,Wesley Cremona-1403-305,Cremona,True
+172.31.218.133,Active,Wesley Cremona-1102-305,Cremona,True
+172.31.218.134,Active,Wesley Cremona-1101-305,Cremona,True
+172.31.218.135,Active,Wesley Cremona-1201-305,Cremona,True
+172.31.218.136,Active,Wesley Cremona-1204-305,Cremona,True
+172.31.218.137,Active,FalconRoom-104-305,Falcon Apartments,True
+172.31.218.138,Active,FalconRoom-301-305,Falcon Apartments,True
+172.31.218.139,Active,Wesley Cremona-1402-305,Cremona,True
+172.31.218.140,Active,18 W,Cremona,True
+172.31.218.141,Active,McKinley 1-Theater A-305,McKinley,True
+172.31.218.142,Active,26 W,Cremona,True
+172.31.218.143,Active,30 W,Cremona,True
+172.31.218.144,Active,Mailing Center-305,Mailing Services,True
+172.31.218.149,Active,HR 1-Main Entrance-305,Human Resources,True
+172.31.218.150,Active,650 W,Cremona,True
+172.31.218.151,Active,SUB-MDF-TEMP-215,Student Union Building,True
+172.31.218.152,Active,Emerson 1-Room 104-215,Emerson,True
+172.31.218.153,Active,Library B NE-B-137-305,Ames Library,True
+172.31.218.154,Active,SUB 1-Main Entry-305,Student Union Building,True
+172.31.218.155,Active,6 Nickerson-207-305,6 Nickerson,True
+172.31.218.157,Active,6 Nickerson-213-306,6 Nickerson,True
+172.31.218.158,Active,6 Nickerson-221-305,6 Nickerson,True
+172.31.218.159,Active,6 Nickerson-118-306,6 Nickerson,True
+172.31.218.160,Active,6 Nickerson-106-306,6 Nickerson,True
+172.31.218.161,Active,6 Nickerson-109-306,6 Nickerson,True
+172.31.218.162,Active,6 Nickerson-117-306,6 Nickerson,True
+172.31.218.163,Active,6 Nickerson-121-306,6 Nickerson,True
+172.31.218.164,Active,Library 1-C-305,Ames Library,True
+172.31.218.165,Active,Library 1S-1-229-305,Ames Library,True
+172.31.218.166,Active,Library 1SW-1-231-305,Ames Library,True
+172.31.218.167,Active,Library 1E-1-225-305,Ames Library,True
+172.31.218.168,Active,Library 1NW-1-235-305,Ames Library,True
+172.31.218.169,Active,Library 2NE-2-056-305,Ames Library,True
+172.31.218.170,Active,Library 2N-2-058-305,Ames Library,True
+172.31.218.171,Active,Library 2S-2-050-305,Ames Library,True
+172.31.218.173,Active,Library 3C-3-015-305,Ames Library,True
+172.31.218.174,Active,Library 3NW-3-001-305,Ames Library,True
+172.31.218.175,Active,SUB 1-NW-305,Student Union Building,True
+172.31.218.176,Active,6 Nickerson-307-306,6 Nickerson,True
+172.31.218.177,Active,SUB 1-ASSP-305,Student Union Building,True
+172.31.218.178,Active,SUB 2-Residence Life-305,Student Union Building,True
+172.31.218.179,Active,SUB 2-Conference Room-305,Student Union Building,True
+172.31.218.180,Active,SUB 2-Office 201-305,Student Union Building,True
+172.31.218.181,Active,605 W,Emerson,True
+172.31.218.183,Active,Moyer 3-Room 316-115,Moyer,True
+172.31.220.84,ActiveReservation,Nickerson Studios-106-115,Nickerson Studios,True
+172.31.220.106,ActiveReservation,Nickerson Studios-122-115,Nickerson Studios,True
+172.31.220.107,Active,35 W,Cremona,True
+172.31.220.248,Active,RBP 2-Men's Basketball-215,Royal Brougham Pavilion,True
+172.31.221.7,Active,RBP 2-Office 209-215,Royal Brougham Pavilion,True
+172.31.221.9,Active,Beegle 2-201-305,Beegle,True
+172.31.221.11,Active,Davis Apts Unit 3-215,Davis,True
+172.31.221.13,Active,Davis Apts Unit 5-215,Davis,True
+172.31.221.14,ActiveReservation,Nickerson Studios-105-115,Nickerson Studios,True
+172.31.221.42,Active,Demaray B-Jack-154-305,Demaray,True
+172.31.221.89,ActiveReservation,Peterson 4-418-115,Peterson,True
+172.31.221.150,Active,McKinley 2-Conference Room-115,McKinley,True
+172.31.221.151,Active,22 W,Cremona,True
+172.31.221.155,ActiveReservation,Demaray 1-Jack-118-105,Demaray,False
+172.31.221.156,ActiveReservation,Demaray B-Jack-154 -105,Demaray,False
+172.31.221.157,ActiveReservation,Demaray 1-Lobby-105,Demaray,False
+172.31.221.158,ActiveReservation,Demaray 2-Jack-101-105,Demaray,False
+172.31.221.159,ActiveReservation,Demaray 2-Grad Center-105B,Demaray,False
+172.31.221.160,ActiveReservation,Demaray 2-Grad Center-105A,Demaray,False
+172.31.221.161,ActiveReservation,Demaray 3-Jack-21-105,Demaray,False
+172.31.221.162,ActiveReservation,Demaray 3-Cassroom 359-115,Demaray,True
+172.31.221.163,ActiveReservation,Demaray 3-Classroom 354-115,Demaray,True
+172.31.221.164,ActiveReservation,Demaray 3-Jack-120-105,Demaray,False
+172.31.221.165,ActiveReservation,Demaray 2-Presidents Conference room-105,Demaray,False
+172.31.221.166,ActiveReservation,Peterson 0-Food Lab-105B,Peterson,True
+172.31.221.167,ActiveReservation,Peterson 0-Food Lab-105A,Peterson,True
+172.31.221.168,ActiveReservation,Peterson 2-201-105,Peterson,True
+172.31.221.169,ActiveReservation,Peterson 3-105,Peterson,False
+172.31.221.184,Active,Library B ETM B-135-115,Ames Library,True
+172.31.221.203,Active,Ashton 4-Room 415-115,Ashton,True
+172.31.221.207,Active,Davis Apts Unit 8-115,Davis,True
+172.31.221.208,Active,Marston B-CIS-C-305,Marston/Watson,True
+172.31.221.209,Active,Marston B-CIS-S-305,Marston/Watson,True
+172.31.221.210,Active,Marston B-CIS-N-305,Marston/Watson,True
+172.31.221.211,Active,Marston B-TSS-N-305,Marston/Watson,True
+172.31.221.212,Active,Demaray 1-Jack-93-305,Demaray,True
+172.31.221.213,Active,Demaray 1-Jack-118-305,Demaray,True
+172.31.221.214,Active,Demaray 2-Grad Center-305B,Demaray,True
+172.31.221.215,Active,Demaray 2-University Relations-305,Demaray,True
+172.31.221.216,Active,Demaray 2-Jack-101-305,Demaray,True
+172.31.221.217,Active,McKenna 1st-Computer Lab-305,McKenna,True
+172.31.221.218,Active,McKenna 2nd-E-305,McKenna,True
+172.31.221.219,Active,McKenna 2nd-N-305,McKenna,True
+172.31.221.220,Active,Demaray 3-Jack-21-305,Demaray,True
+172.31.221.221,Active,Demaray 3-Jack-120-305,Demaray,True
+172.31.221.222,Active,McKenna 1st-RM 113-305,McKenna,True
+172.31.221.223,Active,McKenna 1st-RM 118-305,McKenna,True
+172.31.221.224,Active,Demaray 2-Presidents Conference room-305,Demaray,True
+172.31.221.225,Active,Demaray 2-Classroom 255-305,Demaray,True
+172.31.221.226,Active,OMH 2-Room 239-305,Otto Miller,True
+172.31.221.227,Active,OMH 2-Room 211-305,Otto Miller,True
+172.31.221.228,Active,OMH 1-Room 127-305,Otto Miller,True
+172.31.221.229,Active,OMH 1-Room 118-305,Otto Miller,True
+172.31.221.230,Active,OMH 2-Room 206-305,Otto Miller,True
+172.31.221.231,Active,OMH 1-Room 119-305,Otto Miller,True
+172.31.221.232,Active,OHM 1-Room 109-305,Otto Miller,True
+172.31.221.233,Active,OMH 2-Room 209-305,Otto Miller,True
+172.31.221.234,Active,OMH 2-Room 253-305,Otto Miller,True
+172.31.221.235,Active,OHM 2-Room 245-305,Otto Miller,True
+172.31.221.236,Active,OHM 1-Room 108-305,Otto Miller,True
+172.31.221.237,Active,OHM 1-Room 103-305,Otto Miller,True
+172.31.221.238,Active,OMH 1-Room 143-305,Otto Miller,True
+172.31.221.239,Active,OMH 2-Room 202-305,Otto Miller,True
+172.31.221.240,Active,OMH 1-Room 124-305,Otto Miller,True
+172.31.221.241,Active,OHM 2-Room 246-305,Otto Miller,True
+172.31.221.242,Active,OMH 2-Room 222-305,Otto Miller,True
+172.31.221.243,Active,Eaton 1-Study Room-305,Eaton,True
+172.31.221.244,Active,Eaton 2-Room 223-305,Eaton,True
+172.31.221.245,Active,Eaton 2-Room 205-305,Eaton,True
+172.31.221.246,Active,Eaton 1-Room 131-305,Eaton,True
+172.31.221.247,Active,Eaton 2-Room 230-305,Eaton,True
+172.31.221.248,Active,Eaton 1-Room 105-305,Eaton,True
+172.31.221.249,Active,Eaton 2-Room 233-305,Eaton,True
+172.31.221.250,Active,Eaton 2-Room 203-305,Eaton,True
+172.31.221.251,Active,RBP 2-Athletics-215,Royal Brougham Pavilion,True
+172.31.221.252,Active,Eaton 2-Room 225-305,Eaton,True
+172.31.221.253,Active,Eaton 3-Room 307-305,Eaton,True
+172.31.221.254,Active,Eaton 3-Room 305-305,Eaton,True
+172.31.222.1,Active,Eaton 3-Room 301-305,Eaton,True
+172.31.222.2,Active,Eaton B-Room 20-305,Eaton,True
+172.31.222.3,Active,Eaton 3-Room 330-305,Eaton,True
+172.31.222.4,Active,Eaton 3-Room 331-305,Eaton,True
+172.31.222.5,Active,Eaton 3-Room 333-305,Eaton,True
+172.31.222.6,Active,Eaton 3-Room 303-305,Eaton,True
+172.31.222.8,Active,Hill 2-REX Jack 9-305,Hill,True
+172.31.222.9,Active,Hill 1-Jack 1-305,Hill,True
+172.31.222.10,Active,Bertona 1-1-305,Bertona,True
+172.31.222.11,Active,Bertona 1-6-305,Bertona,True
+172.31.222.12,Active,Ashton 5-Lounge Jack 106-305,Ashton,True
+172.31.222.13,Active,Cremona Classroom 201-2-305,Cremona,True
+172.31.222.14,Active,Cremona Classroom 102-1-305B,Cremona,True
+172.31.222.15,Active,Cremona Classroom 101-1-305B,Cremona,True
+172.31.222.16,Active,Cremona Classroom 101-1-305A,Cremona,True
+172.31.222.17,Active,605 W,Emerson,True
+172.31.222.18,Active,35 W,Cremona,True
+172.31.222.19,Active,35 W,Cremona,True
+172.31.222.20,Active,35 W,Cremona,True
+172.31.222.21,Active,35 W,Cremona,True
+172.31.222.22,Active,34 W,Cremona,True
+172.31.222.25,Active,Bailey Apts,Bailey,True
+172.31.222.26,Active,Bailey Apts,Bailey,True
+172.31.222.27,Active,Bailey Apts,Bailey,True
+172.31.222.28,Active,Bailey Apts,Bailey,True
+172.31.222.29,Active,Bailey Apts,Bailey,True
+172.31.222.30,Active,Bailey Apts,Bailey,True
+172.31.222.35,Active,Wesley Dravus-2101-305,Wesley Dravus,True
+172.31.222.36,Active,Wesley Dravus-2102-305,Wesley Dravus,True
+172.31.222.37,Active,Wesley Dravus-2201-305,Wesley Dravus,True
+172.31.222.38,Active,Wesley Dravus-2204-305,Wesley Dravus,True
+172.31.222.39,Active,Hillford 1-Garage MDF-305,Hill,True
+172.31.222.40,Active,Hillford 0-Basement-305,Hill,True
+172.31.222.41,Active,Wesley Dravus-2306-305,Wesley Dravus,True
+172.31.222.42,Active,Wesley Dravus-2402-305,Wesley Dravus,True
+172.31.222.43,Active,Wesley Dravus-2403-305,Wesley Dravus,True
+172.31.222.44,Active,Wesley Dravus-2303-305,Wesley Dravus,True
+172.31.222.45,Active,Wesley Dravus-2302-305,Wesley Dravus,True
+172.31.222.46,Active,Wesley Dravus-2205-305,Wesley Dravus,True
+172.31.222.47,Active,Wesley Dravus-2203-305,Wesley Dravus,True
+172.31.222.48,Active,Wesley Cremona-1301-305,Cremona,True
+172.31.222.54,Active,Wesley Cremona-1303-305,Cremona,True
+172.31.222.55,Active,Wesley Cremona-1202-305,Cremona,True
+172.31.222.57,Active,Wesley Cremona-1305-305,Cremona,True
+172.31.222.58,Active,Wesley Cremona-1306-305,Cremona,True
+172.31.222.59,Active,Wesley Cremona-1203-305,Cremona,True
+172.31.222.60,Active,Wesley Cremona-1205-305,Cremona,True
+172.31.222.61,Active,Wesley Cremona-1206-305,Cremona,True
+172.31.222.62,Active,Wesley Cremona-1404-305,Cremona,True
+172.31.222.63,Active,Wesley Cremona-1405-305,Cremona,True
+172.31.222.64,Active,Wesley Cremona-1406-305,Cremona,True
+172.31.222.65,Active,FalconRoom-101-305,Falcon Apartments,True
+172.31.222.66,Active,FalconRoom-103-305,Falcon Apartments,True
+172.31.222.67,Active,FalconRoom-202-305,Falcon Apartments,True
+172.31.222.68,Active,FalconRoom-303-305,Falcon Apartments,True
+172.31.222.69,Active,FalconRoom-304-305,Falcon Apartments,True
+172.31.222.70,Active,McKinley B-Practice Room-305,McKinley,True
+172.31.222.71,Active,McKinley 1-Theater B-305,McKinley,True
+172.31.222.72,Active,McKinley 1-Main Entry-305,McKinley,True
+172.31.222.75,Active,WAC 1-C-305,Walls Advancement Center,True
+172.31.222.76,Active,Falcon Newspaper-305,Falcon Newspaper,True
+172.31.222.80,Active,Hill 5-Jack 87-RLC Apt-305,Hill,True
+172.31.222.81,Active,Library B SW-B-143-305,Ames Library,True
+172.31.222.82,Active,Library B SE-B-141-305,Ames Library,True
+172.31.222.84,Active,6 Nickerson-305-305,6 Nickerson,True
+172.31.222.85,Active,6 Nickerson-315-306,6 Nickerson,True
+172.31.222.86,Active,6 Nickerson-312-305,6 Nickerson,True
+172.31.222.87,Active,6 Nickerson-308-305,6 Nickerson,True
+172.31.222.88,Active,6 Nickerson-200-305,6 Nickerson,True
+172.31.222.89,Active,6 Nickerson-223-305,6 Nickerson,True
+172.31.222.90,Active,6 Nickerson-211-305,6 Nickerson,True
+172.31.222.91,Active,6 Nickerson-119-306,6 Nickerson,True
+172.31.222.93,Active,6 Nickerson-123-306,6 Nickerson,True
+172.31.222.94,Active,SUB 1-Gazebo-305,Student Union Building,True
+172.31.222.95,Active,6 Nickerson-112-306,6 Nickerson,True
+172.31.222.96,Active,Library 1NE-1-223-305,Ames Library,True
+172.31.222.97,Active,Library 2SE-2-052-305,Ames Library,True
+172.31.222.98,Active,Library 2E-2-054-305,Ames Library,True
+172.31.222.99,Active,Library 2-Seminar Room 2-048-305,Ames Library,True
+172.31.222.100,Active,Library 3SE-3-013-305,Ames Library,True
+172.31.222.101,Active,Library 3C-3-007-305,Ames Library,True
+172.31.222.102,Active,Library 3N-3-003-305,Ames Library,True
+172.31.222.103,Active,SUB 1-Collegium-305,Student Union Building,True
+172.31.222.104,Active,SUB 2-Career Development-305,Student Union Building,True
+172.31.222.105,Active,SUB 2-Office 203-305,Student Union Building,True
+172.31.222.106,Active,6 Nickerson-217-305-2,6 Nickerson,True

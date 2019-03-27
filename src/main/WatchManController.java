@@ -65,6 +65,7 @@ public class WatchManController {
 //    			overflowPane.getChildren().addAll(outagePane.getOverflowedNodes());
     		}
 		});
+		refresh();
 	}
 	
 	private void clearPanes() {
@@ -81,24 +82,28 @@ public class WatchManController {
 		return new EventHandler<ActionEvent>() {
 		    @Override
 		    public void handle(ActionEvent event) {
-		    	model.updateList();
-		    	ArrayList<Building> downBuildings = model.downBuildings;
-		    	if(downBuildings == null) {
-		    		return;
-		    	}
-		    	clearPanes();
-	    		for(Building ng : downBuildings) {
-	    			ng.refreshColor();
-	    			OutageEntry entry = outagePane.addBuilding(ng);
-	    			if(entry == null) {
-	    				continue;
-	    			}
-	    			Edge edge = new Edge(entry);
-	    			edgePane.getChildren().add(edge);
-	    		}
-	    		buildingPane.getChildren().addAll(model.downBuildings);
-	    		model.calculateLocations(spuMap.getFitHeight());
+		    	refresh();
 		    }
 		};
+	}
+	
+	public void refresh() {
+		model.updateList();
+    	ArrayList<Building> downBuildings = model.downBuildings;
+    	if(downBuildings == null) {
+    		return;
+    	}
+    	clearPanes();
+		for(Building ng : downBuildings) {
+			ng.refreshColor();
+			OutageEntry entry = outagePane.addBuilding(ng);
+			if(entry == null) {
+				continue;
+			}
+			Edge edge = new Edge(entry);
+			edgePane.getChildren().add(edge);
+		}
+		buildingPane.getChildren().addAll(model.downBuildings);
+		model.calculateLocations(spuMap.getFitHeight());
 	}
 }
